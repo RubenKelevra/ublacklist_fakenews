@@ -4528,3 +4528,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Weibo (China)
 *://*.weibo.com/*
 
+# We Love Trump (USA)
+*://*.welovetrump.com/*
+
