@@ -2159,3 +2159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Missouri Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Mixi.Media (USA)
+*://*.mixi.media/*
+
