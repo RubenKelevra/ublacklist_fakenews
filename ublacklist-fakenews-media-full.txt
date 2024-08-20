@@ -2226,3 +2226,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Muskegon Sun (USA)
 *://*.muskegonsun.com/*
 
+# Muslim Skeptic (USA)
+*://*.muslimskeptic.com/*
+
