@@ -4561,3 +4561,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Cook News (USA)
 *://*.westcooknews.com/*
 
+# West DSM News (USA)
+*://*.westdsmnews.com/*
+
