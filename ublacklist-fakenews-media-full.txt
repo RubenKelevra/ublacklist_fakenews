@@ -557,3 +557,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Catholic Tribune (USA)
 *://*.wicatholictribune.com/*
 
+# Causeur (France)
+*://*.causeur.fr/*
+
