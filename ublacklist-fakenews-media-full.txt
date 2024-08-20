@@ -246,3 +246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Augusta-Richmond Herald (USA)
 *://*.augustarichmondherald.com/*
 
+# AustraliaOne (Australia)
+*://*.australiaoneparty.com/*
+
