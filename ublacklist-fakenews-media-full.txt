@@ -3744,3 +3744,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Stares at the World (Canada)
 *://*.staresattheworld.com/*
 
+# Star News Network (USA)
+*://*.thestarnewsnetwork.com/*
+
