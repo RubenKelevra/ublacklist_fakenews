@@ -3584,3 +3584,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southeast Montana News (USA)
 *://*.semontananews.com/*
 
+# Southeastern Times (USA)
+*://*.southeasterntimes.org/*
+
