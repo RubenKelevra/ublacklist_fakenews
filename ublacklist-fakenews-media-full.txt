@@ -2102,3 +2102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mid Coast Times (USA)
 *://*.midcoasttimes.com/*
 
+# Mid Coast Today (USA)
+*://*.midcoasttoday.com/*
+
