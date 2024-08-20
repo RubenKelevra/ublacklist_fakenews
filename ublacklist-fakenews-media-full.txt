@@ -2782,3 +2782,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW LA Times (USA)
 *://*.nwlatimes.com/*
 
+# NW Louisiana News (USA)
+*://*.nwlouisiananews.com/*
+
