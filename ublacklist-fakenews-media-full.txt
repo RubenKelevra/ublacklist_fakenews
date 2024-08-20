@@ -282,3 +282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Beach Broadcast News (USA)
 *://*.beachbroadcastnews.com/*
 
+# Bean Town Times (USA)
+*://*.beantowntimes.com/*
+
