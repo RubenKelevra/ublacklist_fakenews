@@ -2386,3 +2386,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE New York Today (USA)
 *://*.nenewyorktoday.com/*
 
+# NE North Dakota News (USA)
+*://*.nenorthdakotanews.com/*
+
