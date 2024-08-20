@@ -1151,3 +1151,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Emirates 24/7 (United Arab Emirates)
 *://*.emirates247.com/*
 
+# Empire State Today (USA)
+*://*.empirestatetoday.com/*
+
