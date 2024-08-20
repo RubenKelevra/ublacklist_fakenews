@@ -2947,3 +2947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pennsylvania Daily Star (USA)
 *://*.pennsylvaniadailystar.com/*
 
+# Pennsylvania Independent (USA)
+*://*.pennsylvaniaindependent.com/*
+
