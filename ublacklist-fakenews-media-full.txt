@@ -2785,3 +2785,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Louisiana News (USA)
 *://*.nwlouisiananews.com/*
 
+# NW Minnesota News (USA)
+*://*.nwminnesotanews.com/*
+
