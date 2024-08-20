@@ -957,3 +957,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.djhjmedia.com/*
 *://*.davidharrisjr.store/*
 
+# DNyuz (Armenia)
+*://*.dnyuz.com/*
+
