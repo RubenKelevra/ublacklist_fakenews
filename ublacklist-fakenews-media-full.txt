@@ -1961,3 +1961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Magic Valley Times (USA)
 *://*.magicvalleytimes.com/*
 
+# Magnolia State News (USA)
+*://*.magnoliastatenews.com/*
+
