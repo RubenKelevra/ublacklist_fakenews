@@ -2027,3 +2027,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Medina Today (USA)
 *://*.medinatoday.com/*
 
+# Mehr News Agency (Iran)
+*://*.en.mehrnews.com/*
+
