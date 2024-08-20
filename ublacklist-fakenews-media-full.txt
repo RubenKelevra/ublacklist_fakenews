@@ -832,3 +832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Culture Watch News (USA)
 *://*.culturewatchnews.com/*
 
+# Current Science Daily (USA)
+*://*.currentsciencedaily.com/*
+
