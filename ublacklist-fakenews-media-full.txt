@@ -1412,3 +1412,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GOP Daily Brief (USA)
 *://*.gopdailybrief.com/*
 
+# GOP.gov (USA)
+*://*.gop.gov/*
+
