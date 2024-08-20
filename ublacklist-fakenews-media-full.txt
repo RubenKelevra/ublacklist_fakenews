@@ -412,3 +412,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # ByoBlu (Italy)
 *://*.byoblu.com/*
 
+# c19aspirin.com (Unknown)
+*://*.c19aspirin.com/*
+
