@@ -4609,3 +4609,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West NY News (USA)
 *://*.westnynews.com/*
 
+# West OC Times (USA)
+*://*.westoctimes.com/*
+
