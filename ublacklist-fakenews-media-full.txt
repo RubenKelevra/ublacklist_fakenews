@@ -255,3 +255,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Baldwin Times (USA)
 *://*.baldwintimes.com/*
 
+# Baltimore City Wire (USA)
+*://*.baltimorecitywire.com/*
+
