@@ -4282,3 +4282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tri-City Record (USA)
 *://*.tri-cityrecord.org/*
 
+# Tri-City Sun (USA)
+*://*.tricitysun.com/*
+
