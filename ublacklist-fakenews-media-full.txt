@@ -3425,3 +3425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Kentucky News (USA)
 *://*.sekentuckynews.com/*
 
+# SE LA Times (USA)
+*://*.selatimes.com/*
+
