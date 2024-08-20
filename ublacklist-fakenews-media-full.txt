@@ -285,3 +285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bean Town Times (USA)
 *://*.beantowntimes.com/*
 
+# Beaver State News (USA)
+*://*.beaverstatenews.com/*
+
