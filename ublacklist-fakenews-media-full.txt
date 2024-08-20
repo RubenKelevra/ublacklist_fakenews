@@ -719,3 +719,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Columbus Standard (USA)
 *://*.columbusstandard.com/*
 
+# Competitive Enterprise Institute (USA)
+*://*.cei.org/*
+
