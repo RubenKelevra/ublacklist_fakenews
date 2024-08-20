@@ -3296,3 +3296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Diego City Wire (USA)
 *://*.sandiegocitywire.com/*
 
+# Sandoval News (USA)
+*://*.sandovalnews.com/*
+
