@@ -3257,3 +3257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # RT DE (Russia)
 *://*.de.rt.com/*
 
+# RT News (Russia)
+*://*.rt.com/*
+
