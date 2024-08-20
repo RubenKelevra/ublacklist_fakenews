@@ -4028,3 +4028,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Freedom Times (USA)
 *://*.thefreedomtimes.com/*
 
+# The Free Telegraph (USA)
+*://*.freetelegraph.com/*
+
