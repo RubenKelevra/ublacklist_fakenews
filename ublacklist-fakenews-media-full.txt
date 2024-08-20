@@ -1343,3 +1343,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gazeta.ru (Russia)
 *://*.gazeta.ru/*
 
+# GB News UK (UK)
+*://*.gbnews.com/*
+
