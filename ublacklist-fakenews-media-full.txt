@@ -1319,3 +1319,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FT Wayne Times (USA)
 *://*.ftwaynetimes.com/*
 
+# GAB News (USA)
+*://*.news.gab.com/*
+
