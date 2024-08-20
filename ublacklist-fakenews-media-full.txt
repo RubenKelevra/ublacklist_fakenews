@@ -3602,3 +3602,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Hennepin News (USA)
 *://*.southhennepinnews.com/*
 
+# South Indy News (USA)
+*://*.southindynews.com/*
+
