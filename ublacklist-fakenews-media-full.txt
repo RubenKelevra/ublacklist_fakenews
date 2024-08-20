@@ -3087,3 +3087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Project Veritas (USA)
 *://*.projectveritas.com/*
 
+# Proto Thema (GREECE)
+*://*.en.protothema.gr/*
+
