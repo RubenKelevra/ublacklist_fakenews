@@ -3212,3 +3212,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # River Region Times (USA)
 *://*.riverregiontimes.com/*
 
+# River Valley Today (USA)
+*://*.rivervalleytoday.com/*
+
