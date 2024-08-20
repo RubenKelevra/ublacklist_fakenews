@@ -3353,3 +3353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Atlanta News (USA)
 *://*.seatlantanews.com/*
 
+# SC Connecticut News (USA)
+*://*.scconnnews.com/*
+
