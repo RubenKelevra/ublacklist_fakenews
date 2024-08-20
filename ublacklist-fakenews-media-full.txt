@@ -4312,3 +4312,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth Based Media (Unknown)
 *://*.truthbasedmedia.com/*
 
+# Truth in Media (USA)
+*://*.truthinmedia.com/*
+
