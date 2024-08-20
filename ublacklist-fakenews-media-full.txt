@@ -2520,3 +2520,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Alaska News (USA)
 *://*.northalaskanews.com/*
 
+# North Baltimore Journal (USA)
+*://*.northbaltimorejournal.com/*
+
