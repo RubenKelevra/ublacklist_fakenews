@@ -701,3 +701,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cobb Reporter (USA)
 *://*.cobbreporter.com/*
 
+# Coconino News (USA)
+*://*.coconinonews.com/*
+
