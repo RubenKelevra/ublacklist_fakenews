@@ -2637,3 +2637,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Mecklenburg News (USA)
 *://*.northmecklenburgnews.com/*
 
+# North Miami-Dade News (USA)
+*://*.northmianews.com/*
+
