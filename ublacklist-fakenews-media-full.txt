@@ -1157,3 +1157,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # En Volve (USA)
 *://*.en-volve.com/*
 
+# Enchantment State News (USA)
+*://*.enchantmentstatenews.com/*
+
