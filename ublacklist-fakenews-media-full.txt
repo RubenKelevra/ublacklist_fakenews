@@ -3991,3 +3991,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Covid World (USA)
 *://*.thecovidworld.com/*
 
+# The Counter Signal (Canada)
+*://*.thecountersignal.com/*
+
