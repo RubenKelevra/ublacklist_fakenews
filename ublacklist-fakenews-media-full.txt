@@ -584,3 +584,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Colorado News (USA)
 *://*.centralcoloradonews.com/*
 
+# Central Florida Post (USA)
+*://*.centralfloridapost.com/*
+
