@@ -4387,3 +4387,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Upper Peninsula Times (USA)
 *://*.upperpeninsulatimes.com/*
 
+# UrduPoint (Pakistan)
+*://*.urdupoint.com/*
+
