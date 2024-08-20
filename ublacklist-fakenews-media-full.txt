@@ -4303,3 +4303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Trump.News (USA)
 *://*.trump.news/*
 
+# Trump Train News (USA)
+*://*.trumptrainnews.com/*
+
