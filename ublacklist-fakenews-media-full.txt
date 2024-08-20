@@ -4174,3 +4174,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Right Stuff (USA)
 *://*.therightstuff.biz/*
 
+# The Ron Paul Institute (USA)
+*://*.ronpaulinstitute.org/*
+
