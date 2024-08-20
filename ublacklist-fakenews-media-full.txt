@@ -623,3 +623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central STL News (USA)
 *://*.centralstlnews.com/*
 
+# Chambana Sun (USA)
+*://*.chambanasun.com/*
+
