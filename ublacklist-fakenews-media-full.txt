@@ -3031,3 +3031,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pomona Valley News (USA)
 *://*.pomonavalleynews.com/*
 
+# Pontiac Times (USA)
+*://*.pontiactimes.com/*
+
