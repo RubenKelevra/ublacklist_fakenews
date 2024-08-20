@@ -441,3 +441,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.c19hcq.com/*
 *://*.c19hcq.org/*
 
+# C19ic.com (Unknown)
+*://*.c19ic.com/*
+
