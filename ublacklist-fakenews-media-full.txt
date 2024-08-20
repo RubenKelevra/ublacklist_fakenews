@@ -4522,3 +4522,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC New Mexico News (USA)
 *://*.wcnewmexiconews.com/*
 
+# Wealth Management Wire (USA)
+*://*.wealthmanagementwire.com/*
+
