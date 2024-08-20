@@ -91,3 +91,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # America First Report (USA)
 *://*.americafirstreport.com/*
 
+# America Out Loud (USA)
+*://*.americaoutloud.news/*
+
