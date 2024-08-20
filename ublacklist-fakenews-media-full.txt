@@ -3260,3 +3260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # RT News (Russia)
 *://*.rt.com/*
 
+# Rudaw (Iraq)
+*://*.rudaw.net/*
+
