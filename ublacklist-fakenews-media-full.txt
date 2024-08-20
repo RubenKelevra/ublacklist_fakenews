@@ -800,3 +800,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cornhusker State News (USA)
 *://*.cornhuskerstatenews.com/*
 
+# Corona Transition (Switzerland)
+*://*.corona-transition.org/*
+*://*.transition-news.org/*
+
