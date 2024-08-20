@@ -995,3 +995,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dzen.ru (Russia)
 *://*.dzen.ru/*
 
+# Eagle Rising (Unknown)
+*://*.eaglerising.com/*
+
