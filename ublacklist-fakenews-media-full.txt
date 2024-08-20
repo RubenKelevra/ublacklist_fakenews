@@ -1687,3 +1687,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.theiowastar.com/*
 *://*.thestarnewsnetwork.com/*
 
+# iPatriot (USA)
+*://*.ipatriot.com/*
+
