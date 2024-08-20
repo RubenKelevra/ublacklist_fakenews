@@ -4516,3 +4516,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Mississippi News (USA)
 *://*.wcmissnews.com/*
 
+# WC Missouri News (USA)
+*://*.wcmissourinews.com/*
+
