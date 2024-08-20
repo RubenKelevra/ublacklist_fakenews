@@ -2965,3 +2965,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Personal Liberty (USA)
 *://*.personalliberty.com/*
 
+# PHX Reporter (USA)
+*://*.phxreporter.com/*
+
