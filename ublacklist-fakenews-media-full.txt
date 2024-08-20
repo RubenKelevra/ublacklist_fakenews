@@ -4702,3 +4702,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.facebook.com/WNDNews*
 *://*.wnd.com/*
 
+# World News (USA)
+*://*.wn.com/*
+
