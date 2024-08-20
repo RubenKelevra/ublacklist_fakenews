@@ -2216,3 +2216,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MoveOn (USA)
 *://*.front.moveon.org/*
 
+# MTO News (USA)
+*://*.mtonews.com/*
+*://*.mediatakeout.com/*
+
