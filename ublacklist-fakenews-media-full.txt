@@ -710,3 +710,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Colorado Free Press (USA)
 *://*.coloradofreepress.com/*
 
+# Columbia News (USA)
+*://*.columbiamonews.com/*
+
