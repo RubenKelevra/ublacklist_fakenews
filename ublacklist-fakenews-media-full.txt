@@ -3341,3 +3341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Savannah Standard (USA)
 *://*.savannahstandard.com/*
 
+# Savannah Sun Times (USA)
+*://*.savannahsuntimes.com/*
+
