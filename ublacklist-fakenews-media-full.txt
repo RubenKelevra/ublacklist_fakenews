@@ -1082,3 +1082,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Sierra News (USA)
 *://*.eastsierranews.com/*
 
+# East Stark News (USA)
+*://*.eaststarknews.com/*
+
