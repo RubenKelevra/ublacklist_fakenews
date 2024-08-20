@@ -4354,3 +4354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ukraina.ru (Russia)
 *://*.ukraina.ru/*
 
+# UncoverDC (USA)
+*://*.uncoverdc.com/*
+
