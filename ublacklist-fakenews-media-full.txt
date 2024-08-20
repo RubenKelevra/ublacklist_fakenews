@@ -316,3 +316,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bipartisan Report (USA)
 *://*.bipartisanreport.com/*
 
+# BitChute (UK)
+*://*.bitchute.com/*
+
