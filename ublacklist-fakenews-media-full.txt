@@ -4402,3 +4402,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # USAnetwork.info (Unknown)
 *://*.usanetwork.info/*
 
+# USSA News (USA)
+*://*.ussanews.com/*
+
