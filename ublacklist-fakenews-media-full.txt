@@ -170,3 +170,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Amic.ru (Russia)
 *://*.amic.ru/*
 
+# Amoskeag Times (USA)
+*://*.amoskeagtimes.com/*
+
