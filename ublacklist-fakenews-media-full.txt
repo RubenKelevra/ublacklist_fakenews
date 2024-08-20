@@ -4013,3 +4013,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Duran (Cyprus)
 *://*.theduran.com/*
 
+# The Economic Times (India)
+*://*.economictimes.indiatimes.com/*
+
