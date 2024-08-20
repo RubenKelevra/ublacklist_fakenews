@@ -79,3 +79,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Altoona Times (USA)
 *://*.altoonatimes.com/*
 
+# Alt-Right TV (USA)
+*://*.altrighttv.com/*
+
