@@ -4390,3 +4390,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # UrduPoint (Pakistan)
 *://*.urdupoint.com/*
 
+# US Backlash (USA)
+*://*.usbacklash.org/*
+
