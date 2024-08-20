@@ -1013,3 +1013,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Central Alabama News (USA)
 *://*.ecalabamanews.com/*
 
+# East Central Reporter (USA)
+*://*.eastcentralreporter.com/*
+
