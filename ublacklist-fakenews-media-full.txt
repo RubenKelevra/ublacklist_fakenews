@@ -3344,3 +3344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Savannah Sun Times (USA)
 *://*.savannahsuntimes.com/*
 
+# SC Alaska News (USA)
+*://*.scalaskanews.com/*
+
