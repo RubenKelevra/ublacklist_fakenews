@@ -2177,3 +2177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mondoweiss (USA)
 *://*.mondoweiss.net/*
 
+# Monmouth Times (USA)
+*://*.monmouthtimes.com/*
+
