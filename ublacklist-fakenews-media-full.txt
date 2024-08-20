@@ -328,3 +328,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BlackNews.com (USA)
 *://*.blacknews.com/*
 
+# Bloomington Leader (USA)
+*://*.bloomingtonleader.com/*
+
