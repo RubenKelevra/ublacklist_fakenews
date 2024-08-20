@@ -4756,3 +4756,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Youngstown Times (USA)
 *://*.youngstowntimes.com/*
 
+# YourNews (USA)
+*://*.yournews.com/*
+
