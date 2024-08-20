@@ -2440,3 +2440,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Break (USA)
 *://*.newsbreak.com/*
 
+# News Global (USA)
+*://*.newsglobal.com/*
+
