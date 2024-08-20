@@ -1928,3 +1928,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # London Web News (UK)
 *://*.londonwebnews.com/*
 
+# Lorain Times (USA)
+*://*.loraintimes.com/*
+
