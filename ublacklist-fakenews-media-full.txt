@@ -2505,3 +2505,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nola Reporter (USA)
 *://*.nolareporter.com/*
 
+# No Left Turn in Education (USA)
+*://*.noleftturn.us/*
+
