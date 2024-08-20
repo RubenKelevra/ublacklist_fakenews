@@ -1166,3 +1166,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Europe-Israel News (Israel)
 *://*.europe-israel.org/*
 
+# Everett Times (USA)
+*://*.everetttimes.com/*
+
