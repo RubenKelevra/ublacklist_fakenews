@@ -3949,3 +3949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The African Exponent (Tanzania)
 *://*.africanexponent.com/*
 
+# The American Mirror (USA)
+*://*.theamericanmirror.com/*
+
