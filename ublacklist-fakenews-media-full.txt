@@ -2956,3 +2956,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Peoria Standard (USA)
 *://*.peoriastandard.com/*
 
+# Perez Hilton (USA)
+*://*.perezhilton.com/*
+
