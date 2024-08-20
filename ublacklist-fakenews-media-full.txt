@@ -4381,3 +4381,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Up North News (USA)
 *://*.upnorthnewswi.com/*
 
+# Upper Delta News (USA)
+*://*.upperdeltanews.com/*
+
