@@ -3386,3 +3386,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Secure America Now (USA)
 *://*.secureamericanow.org/*
 
+# SE Bluegrass News (USA)
+*://*.sebluegrassnews.com/*
+
