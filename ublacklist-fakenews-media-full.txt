@@ -841,3 +841,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Buzz Live (USA)
 *://*.dailybuzzlive.com/*
 
+# Daily Citizen (USA)
+*://*.dailycitizen.focusonthefamily.com/*
+*://*.focusonthefamily.com/*
+
