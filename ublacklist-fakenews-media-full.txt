@@ -4741,3 +4741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yavapai News (USA)
 *://*.yavapainews.com/*
 
+# Yellowhammer Times (USA)
+*://*.yellowhammertimes.com/*
+
