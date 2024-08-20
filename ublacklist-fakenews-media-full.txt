@@ -820,3 +820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.c19early.com/*
 *://*.c19early.org/*
 
+# Cowards of Canada (Canada)
+*://*.cowards.ca/*
+
