@@ -1665,3 +1665,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Institute for Historical Review (USA)
 *://*.ihr.org/*
 
+# Institute for the Study of Globalization and Covert Politics (Netherlands)
+*://*.isgp-studies.com/*
+
