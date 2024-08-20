@@ -3269,3 +3269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ruptly (Russia)
 *://*.ruptly.tv/*
 
+# RushLimbaugh.com (USA)
+*://*.rushlimbaugh.com/*
+
