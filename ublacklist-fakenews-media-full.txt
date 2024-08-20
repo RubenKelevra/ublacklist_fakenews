@@ -3308,3 +3308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Joaquin Times (USA)
 *://*.sanjoaquintimes.com/*
 
+# San Jose Standard (USA)
+*://*.sanjosestandard.com/*
+
