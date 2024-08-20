@@ -2263,3 +2263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # National Rifle Association (USA)
 *://*.home.nra.org/*
 
+# National Right to Life Committee (USA)
+*://*.nrlc.org/*
+
