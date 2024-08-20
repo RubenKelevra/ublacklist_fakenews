@@ -2679,3 +2679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Sacramento Today (USA)
 *://*.northsactoday.com/*
 
+# North New Castle News (USA)
+*://*.northnewcastlenews.com/*
+
