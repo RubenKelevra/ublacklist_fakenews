@@ -2890,3 +2890,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pacific Pundit (USA)
 *://*.pacificpundit.com/*
 
+# Palm Coast Times (USA)
+*://*.palmcoasttimes.com/*
+
