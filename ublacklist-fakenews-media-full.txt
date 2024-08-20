@@ -2878,3 +2878,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Outraged Patriot (Unknown)
 *://*.outragedpatriot.com/*
 
+# Overpasses for America (UK)
+*://*.overpassesforamerica.com/*
+
