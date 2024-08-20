@@ -9,3 +9,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # 9GAG (Hong Kong)
 *://*.9gag.com/*
 
+# 100 Percent Fed Up (USA)
+*://*.100percentfedup.com/*
+
