@@ -3575,3 +3575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southern Illinois News (USA)
 *://*.silnews.com/*
 
+# Southern Indiana Today (USA)
+*://*.southernindianatoday.com/*
+
