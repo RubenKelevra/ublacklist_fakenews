@@ -2703,3 +2703,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Tulsa Today (USA)
 *://*.northtulsatoday.com/*
 
+# North Vegas Times (USA)
+*://*.northvegastimes.com/*
+
