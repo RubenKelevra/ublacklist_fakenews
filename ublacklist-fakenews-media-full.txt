@@ -1864,3 +1864,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lenta.ru (Russia)
 *://*.lenta.ru/*
 
+# Lewiston Times (USA)
+*://*.lewistontimes.com/*
+
