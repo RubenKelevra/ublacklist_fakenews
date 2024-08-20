@@ -4717,3 +4717,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldTimeTodays (USA)
 *://*.worldtimetodays.com/*
 
+# World Tribune (USA)
+*://*.worldtribune.com/*
+
