@@ -434,3 +434,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19favipiravir.com (Unknown)
 *://*.c19favipiravir.com/*
 
+# C19fluvoxamine.com (Unknown)
+*://*.c19fluvoxamine.com/*
+
