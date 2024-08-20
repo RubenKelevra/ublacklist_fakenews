@@ -3713,3 +3713,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Springfield Standard (USA)
 *://*.springfieldstandard.com/*
 
+# Spring Times (USA)
+*://*.springstimes.com/*
+
