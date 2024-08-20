@@ -112,3 +112,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Family News (USA)
 *://*.afn.net/*
 
+# Americas Freedom Fighters (USA)
+*://*.americasfreedomfighters.com/*
+
