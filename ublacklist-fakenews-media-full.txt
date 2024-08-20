@@ -4396,3 +4396,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # USA Really (Russia)
 *://*.usareally.com/*
 
+# USA Supreme (Unknown)
+*://*.usasupreme.com/*
+
