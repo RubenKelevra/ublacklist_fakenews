@@ -2326,3 +2326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Alabama News (USA)
 *://*.nealabamanews.com/*
 
+# NE Atlanta News (USA)
+*://*.neatlantanews.com/*
+
