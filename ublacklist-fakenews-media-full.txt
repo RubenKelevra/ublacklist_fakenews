@@ -816,3 +816,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CovertAction Magazine (USA)
 *://*.covertactionmagazine.com/*
 
+# CovidAnalysis Network (Unknown)
+*://*.c19early.com/*
+*://*.c19early.org/*
+
