@@ -896,3 +896,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Deep State Journal (USA)
 *://*.deepstatejournal.com/*
 
+# Def-Con News (USA)
+*://*.defconnews.com/*
+
