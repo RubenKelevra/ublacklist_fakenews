@@ -1274,3 +1274,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # For the Right News (USA)
 *://*.conservativeglobe.com/*
 
+# Fort Smith Times (USA)
+*://*.fortsmithtimes.com/*
+
