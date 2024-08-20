@@ -4540,3 +4540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Westbank Louisiana News (USA)
 *://*.westbanklanews.com/*
 
+# West Central Alabama News (USA)
+*://*.wcalabamanews.com/*
+
