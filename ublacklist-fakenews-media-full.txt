@@ -4645,3 +4645,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Wake News (USA)
 *://*.westwakenews.com/*
 
+# Whatfinger (USA)
+*://*.whatfinger.com/*
+
