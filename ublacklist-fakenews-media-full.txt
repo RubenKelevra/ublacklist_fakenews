@@ -4040,3 +4040,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Grayzone (USA)
 *://*.thegrayzone.com/*
 
+# The Hayride (USA)
+*://*.thehayride.com/*
+
