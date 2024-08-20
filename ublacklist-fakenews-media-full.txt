@@ -1031,3 +1031,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Idaho Times (USA)
 *://*.eastidahotimes.com/*
 
+# East Indy News (USA)
+*://*.eastindynews.com/*
+
