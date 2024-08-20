@@ -3455,3 +3455,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Vegas News (USA)
 *://*.sevegasnews.com/*
 
+# SFV Today (USA)
+*://*.sfvtoday.com/*
+
