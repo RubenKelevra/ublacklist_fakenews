@@ -234,3 +234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Athens Reporter (USA)
 *://*.athensreporter.com/*
 
+# Atlantic County Times (USA)
+*://*.atlanticcotimes.com/*
+
