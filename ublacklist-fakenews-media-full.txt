@@ -4417,3 +4417,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Vancouver Times (Canada)
 *://*.vancouvertimes.org/*
 
+# Patriot Front (USA)
+*://*.patriotfront.us/*
+
