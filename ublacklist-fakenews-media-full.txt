@@ -3374,3 +3374,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SC New York News (USA)
 *://*.scnewyorknews.com/*
 
+# Seacoast Standard (USA)
+*://*.seacoaststandard.org/*
+
