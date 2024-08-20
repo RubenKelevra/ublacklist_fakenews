@@ -980,3 +980,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dubuque Times (USA)
 *://*.dubuquetimes.com/*
 
+# Dupage Policy Journal (USA)
+*://*.dupagepolicyjournal.com/*
+
