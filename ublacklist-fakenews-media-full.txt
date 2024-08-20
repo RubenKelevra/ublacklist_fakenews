@@ -2338,3 +2338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nebraska Panhandle News (USA)
 *://*.nepanhandlenews.com/*
 
+# NE Cali News (USA)
+*://*.necalinews.com/*
+
