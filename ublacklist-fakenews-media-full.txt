@@ -578,3 +578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Center for Security Policy (USA)
 *://*.centerforsecuritypolicy.org/*
 
+# Central Broward News (USA)
+*://*.centralbrowardnews.com/*
+
