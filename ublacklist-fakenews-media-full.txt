@@ -379,3 +379,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bridgeport Times (USA)
 *://*.bridgeporttimes.com/*
 
+# Bristol Reporter (USA)
+*://*.bristolreporter.com/*
+
