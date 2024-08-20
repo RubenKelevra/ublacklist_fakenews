@@ -1599,3 +1599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Idaho Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Idaho Freedom Foundation (USA)
+*://*.idahofreedom.org/*
+
