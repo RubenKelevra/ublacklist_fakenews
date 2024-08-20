@@ -4630,3 +4630,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Stark News (USA)
 *://*.weststarknews.com/*
 
+# West STL News (USA)
+*://*.stlwestnews.com/*
+
