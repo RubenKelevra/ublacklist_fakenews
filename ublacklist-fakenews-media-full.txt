@@ -1913,3 +1913,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.lindelltv.com/*
 *://*.FrankSpeech.com/*
 
+# Litchfield Hills Today (USA)
+*://*.litchfieldhillstoday.com/*
+
