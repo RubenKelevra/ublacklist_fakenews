@@ -3338,3 +3338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Saratoga Standard (USA)
 *://*.saratogastandard.com/*
 
+# Savannah Standard (USA)
+*://*.savannahstandard.com/*
+
