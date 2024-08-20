@@ -4696,3 +4696,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldGreyNews.Com (Serbia)
 *://*.worldgreynews.com/*
 
+# World Net Daily (USA)
+*://*.twitter.com/worldnetdaily*
+*://*.x.com/worldnetdaily*
+*://*.facebook.com/WNDNews*
+*://*.wnd.com/*
+
