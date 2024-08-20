@@ -2727,3 +2727,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nour News (Iran)
 *://*.nournews.ir/*
 
+# Now8News (USA)
+*://*.now8news.com/*
+
