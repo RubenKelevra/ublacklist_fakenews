@@ -1801,3 +1801,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LADbible (UK)
 *://*.ladbible.com/*
 
+# Lafayette Reporter (USA)
+*://*.lafayettereporter.com/*
+
