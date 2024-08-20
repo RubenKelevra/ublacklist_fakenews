@@ -1403,3 +1403,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gold Country Today (USA)
 *://*.goldcountrytoday.com/*
 
+# Golden State Today (USA)
+*://*.goldenstatetoday.com/*
+
