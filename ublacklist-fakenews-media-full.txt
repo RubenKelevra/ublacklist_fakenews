@@ -461,3 +461,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.c19ns.com/*
 *://*.c19early.org/*
 
+# C19proxalutamide.com (Unknown)
+*://*.c19proxalutamide.com/*
+
