@@ -2126,3 +2126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mile High Sentinel (USA)
 *://*.milehighsentinel.com/*
 
+# Military Review (Russia)
+*://*.topwar.ru/*
+
