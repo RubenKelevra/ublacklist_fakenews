@@ -1388,3 +1388,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GiveSendGo (USA)
 *://*.givesendgo.com/*
 
+# Glacier Country News (USA)
+*://*.glaciercountrynews.com/*
+
