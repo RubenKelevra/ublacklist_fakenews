@@ -794,3 +794,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Constitution State News (USA)
 *://*.constitutionstatenews.com/*
 
+# Copper Courier (USA)
+*://*.coppercourier.com/*
+
