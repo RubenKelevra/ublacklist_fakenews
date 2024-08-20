@@ -313,3 +313,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BillionBibles.org (USA)
 *://*.billionbibles.org/*
 
+# Bipartisan Report (USA)
+*://*.bipartisanreport.com/*
+
