@@ -1220,3 +1220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FDA Reporter (USA)
 *://*.fdareporter.com/*
 
+# Federalist Press (USA)
+*://*.federalistpress.com/*
+
