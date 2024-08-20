@@ -2111,3 +2111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Middle East News Agency (Egypt)
 *://*.mena.org.eg/*
 
+# Middle East Media Research Institute (USA)
+*://*.memri.org/*
+
