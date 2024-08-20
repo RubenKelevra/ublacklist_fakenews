@@ -476,3 +476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19rmd.com (Unknown)
 *://*.c19rmd.com/*
 
+# C19sv.com (Unknown)
+*://*.c19sv.com/*
+
