@@ -1397,3 +1397,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gloucester Today (USA)
 *://*.gloucestertoday.com/*
 
+# Gnews (USA)
+*://*.gnews.org/*
+
