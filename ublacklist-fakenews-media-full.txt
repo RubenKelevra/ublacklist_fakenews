@@ -2311,3 +2311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Mississippi News (USA)
 *://*.ncmissnews.com/*
 
+# NC North Carolina News (USA)
+*://*.ncncnews.com/*
+
