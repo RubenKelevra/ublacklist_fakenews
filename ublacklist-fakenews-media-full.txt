@@ -4546,3 +4546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Central Michigan News (USA)
 *://*.wcmichigannews.com/*
 
+# West Central Reporter (USA)
+*://*.westcentralreporter.com/*
+
