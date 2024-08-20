@@ -4708,3 +4708,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldNewsERA (Unknown)
 *://*.worldnewsera.com/*
 
+# World of Buzz (Malaysia)
+*://*.worldofbuzz.com/*
+
