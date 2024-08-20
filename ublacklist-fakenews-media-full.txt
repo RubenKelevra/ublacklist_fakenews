@@ -1442,3 +1442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Great American Daily (USA)
 *://*.greatamericandaily.com/*
 
+# Great Lakes Wire (USA)
+*://*.greatlakeswire.com/*
+
