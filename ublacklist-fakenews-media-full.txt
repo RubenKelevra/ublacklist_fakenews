@@ -2857,3 +2857,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Oneida Times (USA)
 *://*.oneidatimes.com/*
 
+# Onslow News (USA)
+*://*.onslownews.com/*
+
