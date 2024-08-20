@@ -2141,3 +2141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Minnesota Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Minnesota State Wire (USA)
+*://*.minnesotastatewire.com/*
+
