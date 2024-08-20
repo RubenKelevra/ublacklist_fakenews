@@ -1307,3 +1307,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fresno Leader (USA)
 *://*.fresnoleader.com/*
 
+# Fria Tider (Sweden)
+*://*.friatider.se/*
+
