@@ -1298,3 +1298,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Free-Speech Front (Unknown)
 *://*.free-speechfront.info/*
 
+# Free West Media (Sweden)
+*://*.freewestmedia.com/*
+
