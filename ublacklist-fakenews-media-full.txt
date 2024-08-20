@@ -512,3 +512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cancun Post (Unknown)
 *://*.thecancunpost.com/*
 
+# Canton Reporter (USA)
+*://*.cantonreporter.com/*
+
