@@ -2499,3 +2499,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Niagara Leader (USA)
 *://*.niagaraleader.com/*
 
+# Nine for News (Netherlands)
+*://*.ninefornews.nl/*
+
