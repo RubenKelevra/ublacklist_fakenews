@@ -4168,3 +4168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Region News (USA)
 *://*.theregionnews.com/*
 
+# The Right Scoop (Canada)
+*://*.therightscoop.com/*
+
