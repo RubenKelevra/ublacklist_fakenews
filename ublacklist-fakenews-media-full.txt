@@ -2607,3 +2607,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Idaho Times (USA)
 *://*.northidahotimes.com/*
 
+# North Indy News (USA)
+*://*.northindynews.com/*
+
