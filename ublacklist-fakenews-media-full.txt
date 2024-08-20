@@ -97,3 +97,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Action News (USA)
 *://*.americanactionnews.com/*
 
+# American Catholic Tribune (USA)
+*://*.americancatholictribune.com/*
+
