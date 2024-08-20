@@ -4071,3 +4071,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Laugh Club (Sweden)
 *://*.thelaughclub.net/*
 
+# The Liberty Daily (USA)
+*://*.thelibertydaily.com/*
+
