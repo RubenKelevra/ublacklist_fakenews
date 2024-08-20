@@ -1373,3 +1373,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Georgia Star News (USA)
 *://*.georgiastarnews.com/*
 
+# Gephardt Daily (USA)
+*://*.gephardtdaily.com/*
+
