@@ -4231,3 +4231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Three Percent Nation (USA)
 *://*.threepercenternation.com/*
 
+# Three Rivers Gazette (USA)
+*://*.threeriversgazette.com/*
+
