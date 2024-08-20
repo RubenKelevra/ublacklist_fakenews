@@ -2063,3 +2063,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Metro West Times (USA)
 *://*.metrowesttimes.com/*
 
+# Mexico Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
