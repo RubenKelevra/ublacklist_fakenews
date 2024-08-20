@@ -322,3 +322,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Black Eye Politics (USA)
 *://*.blackeyepolitics.com/*
 
+# Black Genocide (USA)
+*://*.blackgenocide.org/*
+
