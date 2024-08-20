@@ -1382,3 +1382,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ghost.Report (USA)
 *://*.ghost.report/*
 
+# Gingrich 360 (USA)
+*://*.gingrich360.com/*
+
