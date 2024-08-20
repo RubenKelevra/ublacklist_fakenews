@@ -364,3 +364,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Breaking Christian News (USA)
 *://*.breakingchristiannews.com/*
 
+# Breaking First (Unknown)
+*://*.breakingfirst.com/*
+
