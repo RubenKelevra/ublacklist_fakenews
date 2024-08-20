@@ -2598,3 +2598,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Gwinnett News (USA)
 *://*.northgwinnettnews.com/*
 
+# North Hennepin News (USA)
+*://*.northhennepinnews.com/*
+
