@@ -4129,3 +4129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Patriot Light (USA)
 *://*.thepatriotlight.com/*
 
+# The Patriot Nation (USA)
+*://*.thepatriotnation.net/*
+
