@@ -1958,3 +1958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Macon Times (USA)
 *://*.macontimes.com/*
 
+# Magic Valley Times (USA)
+*://*.magicvalleytimes.com/*
+
