@@ -4213,3 +4213,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Truth Voice (Unknown)
 *://*.thetruthvoice.net/*
 
+# The Union Journal (Unknown)
+*://*.theunionjournal.com/*
+
