@@ -4126,3 +4126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Patriotic Times (USA)
 *://*.thepatriotictimes.com/*
 
+# The Patriot Light (USA)
+*://*.thepatriotlight.com/*
+
