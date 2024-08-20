@@ -3943,3 +3943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TeleSUR (Venezuela)
 *://*.telesurenglish.net/*
 
+# Teller Report (Unknown)
+*://*.tellerreport.com/*
+
