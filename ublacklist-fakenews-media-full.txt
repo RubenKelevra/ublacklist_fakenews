@@ -3735,3 +3735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Joe-Benton Harbor News (USA)
 *://*.stjoebentonharbor.com/*
 
+# St. Pete Standard (USA)
+*://*.stpetestandard.com/*
+
