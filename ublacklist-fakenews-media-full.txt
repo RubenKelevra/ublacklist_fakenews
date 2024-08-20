@@ -785,3 +785,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Tribune (USA)
 *://*.westernjournal.com/*
 
+# Conservative Underground News (USA)
+*://*.conservativeundergroundnews.com/*
+
