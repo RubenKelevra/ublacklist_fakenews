@@ -1952,3 +1952,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Macomb Today (USA)
 *://*.macombtoday.com/*
 
+# Macon Reporter (USA)
+*://*.maconreporter.com/*
+
