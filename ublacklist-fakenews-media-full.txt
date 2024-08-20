@@ -1816,3 +1816,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lake County Times (USA)
 *://*.lakecountytimes.com/*
 
+# Lake Region News (USA)
+*://*.lakeregionnews.com/*
+
