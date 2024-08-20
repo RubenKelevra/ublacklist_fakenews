@@ -804,3 +804,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.corona-transition.org/*
 *://*.transition-news.org/*
 
+# Council on American-Islamic Relations (USA)
+*://*.cair.com/*
+
