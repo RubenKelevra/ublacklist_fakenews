@@ -3647,3 +3647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South North Carolina News (USA)
 *://*.southncnews.com/*
 
+# South Ohio News (USA)
+*://*.southohionews.com/*
+
