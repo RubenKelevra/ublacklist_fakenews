@@ -4315,3 +4315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth in Media (USA)
 *://*.truthinmedia.com/*
 
+# Truth Press (USA)
+*://*.truthpress.com/*
+
