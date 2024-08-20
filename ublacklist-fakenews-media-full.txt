@@ -4366,3 +4366,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Unite America First (USA)
 *://*.uniteamericafirst.com/*
 
+# United Voice (USA)
+*://*.unitedvoice.com/*
+
