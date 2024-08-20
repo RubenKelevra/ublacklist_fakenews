@@ -352,3 +352,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bowling Green Today (USA)
 *://*.bowlinggreentoday.com/*
 
+# Bossip (USA)
+*://*.bossip.com/*
+
