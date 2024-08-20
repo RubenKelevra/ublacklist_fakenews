@@ -3063,3 +3063,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PravoSlavie.ru (Russia)
 *://*.pravoslavie.ru/*
 
+# Preppers Daily News (USA)
+*://*.preppersdailynews.com/*
+
