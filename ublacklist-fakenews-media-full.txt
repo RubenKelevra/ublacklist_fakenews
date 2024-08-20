@@ -4726,3 +4726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Xinhua English (China)
 *://*.news.cn/*
 
+# Xinhua News Agency (China)
+*://*.xinhuanet.com/*
+
