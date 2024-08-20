@@ -2496,3 +2496,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Next News Network (USA)
 *://*.nextnewsnetwork.com/*
 
+# Niagara Leader (USA)
+*://*.niagaraleader.com/*
+
