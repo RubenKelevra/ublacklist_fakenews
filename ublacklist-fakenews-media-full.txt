@@ -3677,3 +3677,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South SF Bay News (USA)
 *://*.southsfbaynews.com/*
 
+# South SGV News (USA)
+*://*.southsgvnews.com/*
+
