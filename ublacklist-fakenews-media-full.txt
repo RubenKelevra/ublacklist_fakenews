@@ -638,3 +638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Chico Times (USA)
 *://*.chicotimes.com/*
 
+# Chihuahua Post (Unknown)
+*://*.thechihuahuapost.com/*
+
