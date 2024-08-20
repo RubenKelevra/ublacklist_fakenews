@@ -3515,3 +3515,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sooner State News (USA)
 *://*.soonerstatenews.com/*
 
+# South ABQ News (USA)
+*://*.southabqnews.com/*
+
