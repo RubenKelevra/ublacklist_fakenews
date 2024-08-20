@@ -388,3 +388,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Buckeye Reporter (USA)
 *://*.buckeyereporter.com/*
 
+# Bucks County Standard (USA)
+*://*.buckscountystandard.com/*
+
