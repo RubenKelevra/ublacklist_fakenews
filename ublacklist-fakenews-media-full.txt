@@ -3144,3 +3144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Red Right Daily (USA)
 *://*.redrightdaily.com/*
 
+# Red Right Patriot (USA)
+*://*.redrightdaily.com/*
+
