@@ -3716,3 +3716,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Spring Times (USA)
 *://*.springstimes.com/*
 
+# Sputnik News (Russia)
+*://*.sputnikglobe.com/*
+
