@@ -741,3 +741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Connecticut Star (USA)
 *://*.theconnecticutstar.com/*
 
+# Conservapedia (USA)
+*://*.conservapedia.com/*
+
