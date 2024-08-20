@@ -1542,3 +1542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Higher Education Tribune (USA)
 *://*.highereducationtribune.com/*
 
+# Hillsborough Sun (USA)
+*://*.hillsboroughsun.com/*
+
