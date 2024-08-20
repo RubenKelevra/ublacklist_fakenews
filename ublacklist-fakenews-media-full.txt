@@ -1614,3 +1614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # I, Hypocrite (USA)
 *://*.ihypocrite.net/*
 
+# Illegal Alien Crime Report (USA)
+*://*.illegalaliencrimereport.com/*
+
