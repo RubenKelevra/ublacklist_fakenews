@@ -2523,3 +2523,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Baltimore Journal (USA)
 *://*.northbaltimorejournal.com/*
 
+# North Birmingham Times (USA)
+*://*.northbirminghamtimes.com/*
+
