@@ -70,3 +70,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Al Mayadeen (Lebanon)
 *://*.english.almayadeen.net/*
 
+# Aloha State News (USA)
+*://*.alohastatenews.com/*
+
