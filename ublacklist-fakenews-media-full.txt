@@ -1888,3 +1888,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty Unyielding (USA)
 *://*.libertyunyielding.com/*
 
+# Liberty Wire (USA)
+*://*.libertywire.net/*
+
