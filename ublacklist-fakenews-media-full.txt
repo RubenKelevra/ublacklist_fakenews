@@ -1909,3 +1909,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lima Reporter (USA)
 *://*.limareporter.com/*
 
+# Lindell TV (USA)
+*://*.lindelltv.com/*
+*://*.FrankSpeech.com/*
+
