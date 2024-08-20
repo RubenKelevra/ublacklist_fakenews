@@ -3434,3 +3434,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Missouri News (USA)
 *://*.semissourinews.com/*
 
+# SE Nebraska News (USA)
+*://*.senebraskanews.com/*
+
