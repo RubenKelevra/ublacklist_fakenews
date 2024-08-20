@@ -4279,3 +4279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Triangle News (USA)
 *://*.trianglenews.org/*
 
+# Tri-City Record (USA)
+*://*.tri-cityrecord.org/*
+
