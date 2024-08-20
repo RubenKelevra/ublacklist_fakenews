@@ -2628,3 +2628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Kentucky News (USA)
 *://*.northkentuckynews.com/*
 
+# North Lake Times (USA)
+*://*.northlaketimes.com/*
+
