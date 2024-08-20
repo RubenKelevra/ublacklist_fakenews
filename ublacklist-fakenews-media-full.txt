@@ -1635,3 +1635,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # InfoGalactic (Switzerland)
 *://*.infogalactic.com/*
 
+# Independent Sentinel (USA)
+*://*.independentsentinel.com/*
+
