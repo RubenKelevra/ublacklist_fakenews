@@ -2189,3 +2189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Montana Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Monterey Times (USA)
+*://*.montereytimes.com/*
+
