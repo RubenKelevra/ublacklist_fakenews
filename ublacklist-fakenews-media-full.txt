@@ -2631,3 +2631,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Lake Times (USA)
 *://*.northlaketimes.com/*
 
+# North Little Rock Times (USA)
+*://*.northlittlerocktimes.com/*
+
