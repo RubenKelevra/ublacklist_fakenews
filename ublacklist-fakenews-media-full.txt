@@ -572,3 +572,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Centennial State News (USA)
 *://*.centennialstatenews.com/*
 
+# True Activist (Germany)
+*://*.trueactivist.com/*
+
