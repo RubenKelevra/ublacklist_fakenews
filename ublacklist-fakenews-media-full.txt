@@ -3452,3 +3452,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Twin Cities (USA)
 *://*.setwincities.com/*
 
+# SE Vegas News (USA)
+*://*.sevegasnews.com/*
+
