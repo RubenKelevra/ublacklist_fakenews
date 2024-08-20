@@ -4615,3 +4615,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West PDX Today (USA)
 *://*.westpdxtoday.com/*
 
+# West Pennyroyal News (USA)
+*://*.westpennyroyalnews.com/*
+
