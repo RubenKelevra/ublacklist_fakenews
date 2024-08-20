@@ -2452,3 +2452,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newzoh (USA)
 *://*.newzoh.com/*
 
+# The People’s Voice (USA)
+*://*.thepeoplesvoice.tv/*
+
