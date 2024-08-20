@@ -470,3 +470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19Quercetin.com (Unknown)
 *://*.c19quercetin.com/*
 
+# C19regn.com (Unknown)
+*://*.c19regn.com/*
+
