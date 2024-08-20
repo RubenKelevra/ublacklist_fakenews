@@ -482,3 +482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19VitaminC.com (Unknown)
 *://*.c19vitaminc.com/*
 
+# C19VitaminD.com (Unknown)
+*://*.c19vitamind.com/*
+
