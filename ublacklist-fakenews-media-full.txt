@@ -1792,3 +1792,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kremlin.ru (Russia)
 *://*.en.kremlin.ru/*
 
+# Kunstler.com (USA)
+*://*.kunstler.com/*
+
