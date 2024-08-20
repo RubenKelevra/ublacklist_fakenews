@@ -3710,3 +3710,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Springfield City Wire (USA)
 *://*.springfieldcitywire.com/*
 
+# Springfield Standard (USA)
+*://*.springfieldstandard.com/*
+
