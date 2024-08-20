@@ -1091,3 +1091,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Twin Cities (USA)
 *://*.easttwincities.com/*
 
+# East Ventura News (USA)
+*://*.eastventuranews.com/*
+
