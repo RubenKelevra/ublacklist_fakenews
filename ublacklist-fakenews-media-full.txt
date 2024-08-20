@@ -1509,3 +1509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hawar News Agency (Syria)
 *://*.en.hawarnews.org/*
 
+# Hawkeye Reporter (USA)
+*://*.hawkeyereporter.com/*
+
