@@ -4738,3 +4738,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yadkin Valley News (USA)
 *://*.yadkinvalleynews.com/*
 
+# Yavapai News (USA)
+*://*.yavapainews.com/*
+
