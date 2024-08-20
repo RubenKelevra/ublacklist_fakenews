@@ -2691,3 +2691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Shore Louisiana News (USA)
 *://*.northshorelanews.com/*
 
+# North STL News (USA)
+*://*.northstlnews.com/*
+
