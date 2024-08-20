@@ -4555,3 +4555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Cleveland News (USA)
 *://*.westclevelandnews.com/*
 
+# West Contra Costa News (USA)
+*://*.westcontracostanews.com/*
+
