@@ -2863,3 +2863,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Oregon Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Origo (Hungary)
+*://*.origo.hu/*
+
