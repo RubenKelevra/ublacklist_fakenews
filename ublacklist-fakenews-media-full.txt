@@ -4378,3 +4378,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # UP Gazette (USA)
 *://*.upgazette.com/*
 
+# Up North News (USA)
+*://*.upnorthnewswi.com/*
+
