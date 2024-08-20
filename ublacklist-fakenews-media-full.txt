@@ -1232,3 +1232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Filming Cops (USA)
 *://*.filmingcops.com/*
 
+# Findlay Times (USA)
+*://*.findlaytimes.com/*
+
