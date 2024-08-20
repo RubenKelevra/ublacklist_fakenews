@@ -2171,3 +2171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mohawk Valley Times (USA)
 *://*.mohawkvalleytimes.com/*
 
+# Moms for Liberty (USA)
+*://*.momsforliberty.org/*
+
