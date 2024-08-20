@@ -2275,3 +2275,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nation and State (USA)
 *://*.nationandstate.com/*
 
+# Natural State News (USA)
+*://*.naturalstatenews.com/*
+
