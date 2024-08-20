@@ -4053,3 +4053,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.thejewishvoice.com/*
 *://*.tjvnews.com/*
 
+# The Joe Rogan Experience (USA)
+*://*.joerogan.com/*
+
