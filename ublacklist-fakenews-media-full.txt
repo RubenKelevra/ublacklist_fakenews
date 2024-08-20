@@ -653,3 +653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Christians for Truth (Unknown)
 *://*.christiansfortruth.com/*
 
+# Church Militant (USA)
+*://*.churchmilitant.com/*
+
