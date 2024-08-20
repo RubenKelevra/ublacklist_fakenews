@@ -551,3 +551,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Catholic Tribune (USA)
 *://*.mncatholictribune.com/*
 
+# Catholic Tribune (USA)
+*://*.pacatholictribune.com/*
+
