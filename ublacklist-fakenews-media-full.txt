@@ -2024,3 +2024,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MediaBuzz.org (Singapore)
 *://*.mediabuzz.org/*
 
+# Medina Today (USA)
+*://*.medinatoday.com/*
+
