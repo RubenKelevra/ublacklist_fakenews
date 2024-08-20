@@ -3332,3 +3332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Santa Monica Observer (USA)
 *://*.smobserved.com/*
 
+# Sarasota Review- Bias and Credibility (USA)
+*://*.sarasotareview.com/*
+
