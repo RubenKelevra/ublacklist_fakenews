@@ -64,3 +64,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Alliance Defending Freedom (USA)
 *://*.adflegal.org/*
 
+# Al Manar (Lebanon)
+*://*.english.almanar.com.lb/*
+
