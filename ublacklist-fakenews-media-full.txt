@@ -2589,3 +2589,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Essex News (USA)
 *://*.northessexnews.com/*
 
+# North Fulton Today (USA)
+*://*.northfultontoday.com/*
+
