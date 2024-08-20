@@ -1262,3 +1262,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Focus on the Family (USA)
 *://*.focusonthefamily.com/*
 
+# Foothills Review (USA)
+*://*.foothillsreview.com/*
+
