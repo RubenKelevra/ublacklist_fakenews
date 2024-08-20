@@ -3290,3 +3290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Cristobal Post (Unknown)
 *://*.sancristobalpost.com/*
 
+# Sandhills Today (USA)
+*://*.sandhillstoday.com/*
+
