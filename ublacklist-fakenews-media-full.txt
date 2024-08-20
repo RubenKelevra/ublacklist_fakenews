@@ -3132,3 +3132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Redacted (Portugal)
 *://*.redacted.inc/*
 
+# Redding Today (USA)
+*://*.reddingtoday.com/*
+
