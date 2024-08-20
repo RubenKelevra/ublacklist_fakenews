@@ -4183,3 +4183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Science Times (USA)
 *://*.sciencetimes.com/*
 
+# The Scoop (USA)
+*://*.thescoop.us/*
+
