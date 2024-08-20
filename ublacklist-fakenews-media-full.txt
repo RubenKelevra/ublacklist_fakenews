@@ -1271,3 +1271,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Foreign Policy Initiative (USA)
 *://*.foreignpolicyi.org/*
 
+# For the Right News (USA)
+*://*.conservativeglobe.com/*
+
