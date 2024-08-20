@@ -4684,3 +4684,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WLT Report (USA)
 *://*.wltreport.com/*
 
+# WND News Center (USA)
+*://*.wndnewscenter.org/*
+
