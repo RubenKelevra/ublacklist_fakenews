@@ -2514,3 +2514,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Norfolk Reporter (USA)
 *://*.norfolkreporter.com/*
 
+# North Acadiana News (USA)
+*://*.northacadiananews.com/*
+
