@@ -4384,3 +4384,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Upper Delta News (USA)
 *://*.upperdeltanews.com/*
 
+# Upper Peninsula Times (USA)
+*://*.upperpeninsulatimes.com/*
+
