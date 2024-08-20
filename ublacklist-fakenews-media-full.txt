@@ -4705,3 +4705,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # World News (USA)
 *://*.wn.com/*
 
+# WorldNewsERA (Unknown)
+*://*.worldnewsera.com/*
+
