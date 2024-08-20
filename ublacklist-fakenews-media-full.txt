@@ -3816,3 +3816,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Summerlin Reporter (USA)
 *://*.summerlinreporter.com/*
 
+# Summit News (USA)
+*://*.summit.news/*
+*://*.modernity.news/*
+
