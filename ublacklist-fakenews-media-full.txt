@@ -4237,3 +4237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Thumb Reporter (USA)
 *://*.thumbreporter.com/*
 
+# Tobacco News Wire (USA)
+*://*.tobacconewswire.com/*
+
