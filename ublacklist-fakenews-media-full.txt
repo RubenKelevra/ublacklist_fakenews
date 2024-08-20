@@ -695,3 +695,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Coastal GA News (USA)
 *://*.coastalganews.com/*
 
+# Cobb News (USA)
+*://*.cobbnewsga.com/*
+
