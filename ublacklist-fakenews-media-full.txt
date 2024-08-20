@@ -4753,3 +4753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Young Conservatives (USA)
 *://*.analyzingamerica.org/*
 
+# Youngstown Times (USA)
+*://*.youngstowntimes.com/*
+
