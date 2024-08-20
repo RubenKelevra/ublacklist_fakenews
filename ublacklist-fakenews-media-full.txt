@@ -103,3 +103,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American College of Pediatricians (USA)
 *://*.acpeds.org/*
 
+# American Conservative Movement (USA)
+*://*.americanconservativemovement.com/*
+
