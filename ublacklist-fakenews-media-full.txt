@@ -4110,3 +4110,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The National (United Arab Emirates)
 *://*.thenationalnews.com/*
 
+# The Nevadan (USA)
+*://*.thenevadannews.com/*
+
