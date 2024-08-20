@@ -2953,3 +2953,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pensacola Times (USA)
 *://*.pensacolatimes.com/*
 
+# Peoria Standard (USA)
+*://*.peoriastandard.com/*
+
