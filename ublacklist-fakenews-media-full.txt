@@ -1001,3 +1001,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Eagle Valley Times (USA)
 *://*.eaglevalleytimes.com/*
 
+# East Alameda News (USA)
+*://*.eastalamedanews.com/*
+
