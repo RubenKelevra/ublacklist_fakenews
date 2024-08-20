@@ -3650,3 +3650,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Ohio News (USA)
 *://*.southohionews.com/*
 
+# South OKC News (USA)
+*://*.southokcnews.com/*
+
