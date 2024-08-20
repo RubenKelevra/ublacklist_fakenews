@@ -1903,3 +1903,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LifeSiteNews (Canada)
 *://*.lifesitenews.com/*
 
+# LifeZette (USA)
+*://*.lifezette.com/*
+
