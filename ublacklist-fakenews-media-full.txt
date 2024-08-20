@@ -1810,3 +1810,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LA Harbor News (USA)
 *://*.laharbornews.com/*
 
+# Lake County Gazette (USA)
+*://*.lakecountygazette.com/*
+
