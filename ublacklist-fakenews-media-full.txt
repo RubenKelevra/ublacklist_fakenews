@@ -4062,3 +4062,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Last American Vagabond (USA)
 *://*.thelastamericanvagabond.com/*
 
+# The Last Refuge (USA)
+*://*.theconservativetreehouse.com/*
+
