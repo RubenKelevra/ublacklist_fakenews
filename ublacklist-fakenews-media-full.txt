@@ -3958,3 +3958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Bearded Patriot (USA)
 *://*.thebeardedpatriot.com/*
 
+# The Beltway Report (USA)
+*://*.thebeltwayreport.com/*
+
