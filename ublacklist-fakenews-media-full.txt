@@ -3656,3 +3656,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Omaha Times (USA)
 *://*.southomahatimes.com/*
 
+# South Oregon News (USA)
+*://*.southoregonnews.com/*
+
