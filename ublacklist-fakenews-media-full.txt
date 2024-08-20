@@ -3093,3 +3093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pro Trump News (Unknown)
 *://*.protrumpnews.com/*
 
+# Puebla Post (Unknown)
+*://*.pueblapost.com/*
+
