@@ -3401,3 +3401,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Seekr (USA)
 *://*.seekr.com/*
 
+# SE Georgia News (USA)
+*://*.segeorgianews.com/*
+
