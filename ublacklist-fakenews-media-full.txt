@@ -713,3 +713,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Columbia News (USA)
 *://*.columbiamonews.com/*
 
+# Columbus News (USA)
+*://*.colonews.org/*
+
