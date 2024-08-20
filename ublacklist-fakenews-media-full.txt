@@ -382,3 +382,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bristol Reporter (USA)
 *://*.bristolreporter.com/*
 
+# Britain First (UK)
+*://*.britainfirst.org/*
+
