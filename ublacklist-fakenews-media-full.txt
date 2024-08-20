@@ -343,3 +343,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Boise City Wire (USA)
 *://*.boisecitywire.com/*
 
+# Bongino.com (USA)
+*://*.bongino.com/*
+
