@@ -860,3 +860,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Star UK (UK)
 *://*.dailystar.co.uk/*
 
+# Daily Stormer (USA)
+*://*.dailystormer.in/*
+
