@@ -2661,3 +2661,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Palm Beach Today (USA)
 *://*.auburntimes.com/*
 
+# North Panhandle News (USA)
+*://*.northpanhandlenews.com/*
+
