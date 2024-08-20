@@ -509,3 +509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Canary Mission (USA)
 *://*.canarymission.org/*
 
+# Cancun Post (Unknown)
+*://*.thecancunpost.com/*
+
