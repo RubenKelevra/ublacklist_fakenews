@@ -2359,3 +2359,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Iowa News (USA)
 *://*.auburntimes.com/*
 
+# NE Kansas City News (USA)
+*://*.nekansascitynews.com/*
+
