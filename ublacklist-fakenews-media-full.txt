@@ -2619,3 +2619,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Iredell News (USA)
 *://*.northiredellnews.com/*
 
+# North Jefferson Country News (USA)
+*://*.northjeffconews.com/*
+
