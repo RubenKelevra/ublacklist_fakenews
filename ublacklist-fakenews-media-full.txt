@@ -632,3 +632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Chapel Hill Review (USA)
 *://*.chapelhillreview.com/*
 
+# Chicago City Wire (USA)
+*://*.chicagocitywire.com/*
+
