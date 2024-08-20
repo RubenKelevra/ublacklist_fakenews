@@ -6,3 +6,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # 4Chan (USA)
 *://*.4chan.org/*
 
+# 9GAG (Hong Kong)
+*://*.9gag.com/*
+
