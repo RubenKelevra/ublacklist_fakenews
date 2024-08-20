@@ -1536,3 +1536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hidalgo Daily Post (Unknown)
 *://*.hidalgodailypost.com/*
 
+# High Country Times (USA)
+*://*.highcountrytimes.com/*
+
