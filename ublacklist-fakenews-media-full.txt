@@ -1448,3 +1448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GreatReject Bias (Netherlands)
 *://*.greatreject.org/*
 
+# Greene County Times (USA)
+*://*.greenecotimes.com/*
+
