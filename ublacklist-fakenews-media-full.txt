@@ -4246,3 +4246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Toledo Reporter (USA)
 *://*.toledoreporter.com/*
 
+# TooFab (USA)
+*://*.toofab.com/*
+
