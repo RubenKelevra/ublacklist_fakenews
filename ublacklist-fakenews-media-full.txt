@@ -1726,3 +1726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Jonesboro Times (USA)
 *://*.jonesborotimes.com/*
 
+# JordanBPeterson.com (USA)
+*://*.jordanbpeterson.com/*
+
