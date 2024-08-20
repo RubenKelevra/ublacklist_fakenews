@@ -1949,3 +1949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Macomb Digest (USA)
 *://*.macombdigest.com/*
 
+# Macomb Today (USA)
+*://*.macombtoday.com/*
+
