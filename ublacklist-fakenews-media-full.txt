@@ -3747,3 +3747,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Star News Network (USA)
 *://*.thestarnewsnetwork.com/*
 
+# State of the Nation (USA)
+*://*.stateofthenation.co/*
+
