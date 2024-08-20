@@ -173,3 +173,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Amoskeag Times (USA)
 *://*.amoskeagtimes.com/*
 
+# Analyzing America (USA)
+*://*.analyzingamerica.org/*
+
