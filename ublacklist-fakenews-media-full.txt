@@ -1632,3 +1632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Imperial CA News (USA)
 *://*.imperialcanews.com/*
 
+# InfoGalactic (Switzerland)
+*://*.infogalactic.com/*
+
