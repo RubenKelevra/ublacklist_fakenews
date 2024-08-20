@@ -2655,3 +2655,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Omaha Times (USA)
 *://*.northomahatimes.com/*
 
+# North Orlando News (USA)
+*://*.auburntimes.com/*
+
