@@ -1768,3 +1768,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kentucky Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Kern County Times (USA)
+*://*.kerncountytimes.com/*
+
