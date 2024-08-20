@@ -4393,3 +4393,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # US Backlash (USA)
 *://*.usbacklash.org/*
 
+# USA Really (Russia)
+*://*.usareally.com/*
+
