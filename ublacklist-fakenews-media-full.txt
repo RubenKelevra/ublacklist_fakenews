@@ -373,3 +373,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Breitbart (USA)
 *://*.breitbart.com/*
 
+# Brevard Sun (USA)
+*://*.brevardsun.com/*
+
