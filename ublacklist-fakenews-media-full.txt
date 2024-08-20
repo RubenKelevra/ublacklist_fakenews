@@ -1554,3 +1554,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Honolulu Reporter (USA)
 *://*.honolulureporter.com/*
 
+# Holland Reporter (USA)
+*://*.hollandreporter.com/*
+
