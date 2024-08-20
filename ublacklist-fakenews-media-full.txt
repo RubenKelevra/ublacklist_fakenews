@@ -33,3 +33,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ada Reporter (USA)
 *://*.adareporter.com/*
 
+# Adams County Times (USA)
+*://*.adamscountytimes.com/*
+
