@@ -4660,3 +4660,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Will County Gazette (USA)
 *://*.willcountygazette.com/*
 
+# Wine Country Times (USA)
+*://*.winecountrytimes.com/*
+
