@@ -2253,3 +2253,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # National Alliance (USA)
 *://*.natall.com/*
 
+# National Enquirer (USA)
+*://*.nationalenquirer.com/*
+*://*.intouchweekly.com/*
+
