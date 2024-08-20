@@ -2697,3 +2697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Summit News (USA)
 *://*.northsummitnews.com/*
 
+# North Triangle News (USA)
+*://*.northtrianglenews.com/*
+
