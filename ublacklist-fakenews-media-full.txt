@@ -297,3 +297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Beijing Review (China)
 *://*.bjreview.com/*
 
+# Benton Times (USA)
+*://*.bentontimes.com/*
+
