@@ -1331,3 +1331,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Garden State Times (USA)
 *://*.gardenstatetimes.com/*
 
+# Gastonia Times (USA)
+*://*.gastoniatimes.com/*
+
