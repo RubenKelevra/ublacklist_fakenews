@@ -3446,3 +3446,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Ohio Times (USA)
 *://*.seohiotimes.com/*
 
+# SE Oklahoma News (USA)
+*://*.seoklahomanews.com/*
+
