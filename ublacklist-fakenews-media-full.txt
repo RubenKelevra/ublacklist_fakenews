@@ -2302,3 +2302,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Kentucky News (USA)
 *://*.nckentuckynews.com/*
 
+# NC Massachusetts News (USA)
+*://*.ncmassnews.com/*
+
