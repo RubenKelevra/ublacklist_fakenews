@@ -4003,3 +4003,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The D.C. Clothesline (USA)
 *://*.dcclothesline.com/*
 
+# The DC Patriot (USA)
+*://*.thedcpatriot.com/*
+*://*.dcpatriot.com/*
+
