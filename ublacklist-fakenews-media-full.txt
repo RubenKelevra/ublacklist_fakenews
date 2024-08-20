@@ -46,3 +46,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Alabama Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Alaska Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
