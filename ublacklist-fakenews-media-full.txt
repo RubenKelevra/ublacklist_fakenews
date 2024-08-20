@@ -3138,3 +3138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Red Ice TV (Sweden)
 *://*.redice.tv/*
 
+# RedOrbit (USA)
+*://*.redorbit.com/*
+
