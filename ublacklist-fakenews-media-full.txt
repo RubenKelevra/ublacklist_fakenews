@@ -2613,3 +2613,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Inland News (USA)
 *://*.northinlandnews.com/*
 
+# North Iowa Reporter (USA)
+*://*.northiowareporter.com/*
+
