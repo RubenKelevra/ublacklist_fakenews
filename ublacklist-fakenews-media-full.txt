@@ -4558,3 +4558,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Contra Costa News (USA)
 *://*.westcontracostanews.com/*
 
+# West Cook News (USA)
+*://*.westcooknews.com/*
+
