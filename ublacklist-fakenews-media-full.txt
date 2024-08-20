@@ -1211,3 +1211,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fayetteville Standard (USA)
 *://*.fayettevillestandard.com/*
 
+# Fayetteville Today (USA)
+*://*.fayettevilletoday.com/*
+
