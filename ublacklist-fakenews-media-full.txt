@@ -1527,3 +1527,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hernando Reporter (USA)
 *://*.hernandoreporter.com/*
 
+# Heartland Institute (USA)
+*://*.heartland.org/*
+
