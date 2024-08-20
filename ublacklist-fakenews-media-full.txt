@@ -1061,3 +1061,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Oregon News (USA)
 *://*.eastoregonnews.com/*
 
+# East Panhandle News (USA)
+*://*.eastpanhandlenews.com/*
+
