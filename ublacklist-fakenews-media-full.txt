@@ -845,3 +845,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.dailycitizen.focusonthefamily.com/*
 *://*.focusonthefamily.com/*
 
+# Daily Headlines (Unknown)
+*://*.dailyheadlines.net/*
+
