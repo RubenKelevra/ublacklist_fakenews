@@ -2848,3 +2848,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # O’Keefe Media Group (USA)
 *://*.okeefemediagroup.com/*
 
+# Oklahoma Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
