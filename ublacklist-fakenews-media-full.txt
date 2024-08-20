@@ -2652,3 +2652,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North OKC News (USA)
 *://*.northokcnews.com/*
 
+# North Omaha Times (USA)
+*://*.northomahatimes.com/*
+
