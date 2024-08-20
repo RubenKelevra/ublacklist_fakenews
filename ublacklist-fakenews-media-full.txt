@@ -2673,3 +2673,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Raleigh Today (USA)
 *://*.northraleightoday.com/*
 
+# North Ramsey News (USA)
+*://*.northramseynews.com/*
+
