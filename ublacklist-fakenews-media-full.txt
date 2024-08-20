@@ -185,3 +185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Anne Arundel Today (USA)
 *://*.annearundeltoday.com/*
 
+# Anoka Times (USA)
+*://*.anokatimes.com/*
+
