@@ -1683,3 +1683,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Iowa City Today (USA)
 *://*.iowacitytoday.com/*
 
+# Iowa Star (USA)
+*://*.theiowastar.com/*
+*://*.thestarnewsnetwork.com/*
+
