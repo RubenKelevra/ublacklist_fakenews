@@ -2278,3 +2278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Natural State News (USA)
 *://*.naturalstatenews.com/*
 
+# Naugatuck Times (USA)
+*://*.naugatucktimes.com/*
+
