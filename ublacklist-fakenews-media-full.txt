@@ -1680,3 +1680,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Iowa Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Iowa City Today (USA)
+*://*.iowacitytoday.com/*
+
