@@ -1067,3 +1067,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East PDX Today (USA)
 *://*.eastpdxtoday.com/*
 
+# East Pennyroyal News (USA)
+*://*.eastpennyroyalnews.com/*
+
