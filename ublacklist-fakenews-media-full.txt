@@ -1494,3 +1494,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hal Turner Radio Show (USA)
 *://*.halturnerradioshow.com/*
 
+# Hannity.com (USA)
+*://*.hannity.com/*
+
