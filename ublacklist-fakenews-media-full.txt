@@ -2368,3 +2368,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Kentucky News (USA)
 *://*.nekentuckynews.com/*
 
+# NE Louisiana News (USA)
+*://*.nelouisiananews.com/*
+
