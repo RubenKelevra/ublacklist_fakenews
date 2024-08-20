@@ -337,3 +337,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Blue State Blues News (USA)
 *://*.bluestatebluesnews.com/*
 
+# Blunt Force Truth (USA)
+*://*.bluntforcetruth.com/*
+
