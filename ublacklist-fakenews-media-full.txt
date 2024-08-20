@@ -3838,3 +3838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sussex Review (USA)
 *://*.sussexreview.com/*
 
+# SwampDrain.com (Unknown)
+*://*.swampdrain.com/*
+
