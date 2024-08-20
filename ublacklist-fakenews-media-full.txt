@@ -30,3 +30,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Activist Mommy/Elizabeth Johnston (USA)
 *://*.elizabethjohnston.org/*
 
+# Ada Reporter (USA)
+*://*.adareporter.com/*
+
