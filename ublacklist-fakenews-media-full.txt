@@ -2078,3 +2078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Miami Independent (USA)
 *://*.miamiindependent.com/*
 
+# Miami Standard (USA)
+*://*.miamistandard.news/*
+
