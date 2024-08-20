@@ -4201,3 +4201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Thinking Conservative (USA)
 *://*.thethinkingconservative.com/*
 
+# The Times of America (Unknown)
+*://*.digifection.com/*
+
