@@ -1855,3 +1855,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Left Action (USA)
 *://*.leftaction.com/*
 
+# Legal Newsline (USA)
+*://*.legalnewsline.com/*
+
