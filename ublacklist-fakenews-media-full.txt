@@ -2410,3 +2410,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nevada Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Newark Reporter (USA)
+*://*.newarkreporter.com/*
+
