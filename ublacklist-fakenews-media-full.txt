@@ -3449,3 +3449,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Oklahoma News (USA)
 *://*.seoklahomanews.com/*
 
+# SE Twin Cities (USA)
+*://*.setwincities.com/*
+
