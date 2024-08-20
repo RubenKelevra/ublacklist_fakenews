@@ -3150,3 +3150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Red State Nation (USA)
 *://*.redstatenation.com/*
 
+# Red State Watcher (USA)
+*://*.redstatewatcher.com/*
+
