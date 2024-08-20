@@ -668,3 +668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Clarion Project (USA)
 *://*.clarionproject.org/*
 
+# Clash Daily (USA)
+*://*.clashdaily.com/*
+
