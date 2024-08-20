@@ -4597,3 +4597,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West LA Times (USA)
 *://*.westlatimes.com/*
 
+# West Lake Norman News (USA)
+*://*.westlakenormannews.com/*
+
