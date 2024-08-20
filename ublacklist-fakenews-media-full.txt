@@ -1777,3 +1777,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kings County Times (USA)
 *://*.kingscountytimes.com/*
 
+# Knights Templar International (USA)
+*://*.knightstemplarorder.com/*
+
