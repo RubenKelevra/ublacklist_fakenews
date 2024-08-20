@@ -518,3 +518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cap News (Unknown)
 *://*.cap-news.com/*
 
+# Cape Cod Ledger (USA)
+*://*.capecodledger.com/*
+
