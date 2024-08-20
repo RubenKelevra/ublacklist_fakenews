@@ -2938,3 +2938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Peachtree Gazette (USA)
 *://*.peachtreegazette.com/*
 
+# Peach Tree Times (USA)
+*://*.peachtreetimes.com/*
+
