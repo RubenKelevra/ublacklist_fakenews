@@ -3153,3 +3153,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Red State Watcher (USA)
 *://*.redstatewatcher.com/*
 
+# Red Voice Media (USA)
+*://*.redvoicemedia.com/*
+*://*.rvmnews.com/*
+
