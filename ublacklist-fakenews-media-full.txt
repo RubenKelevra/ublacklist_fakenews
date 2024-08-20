@@ -4636,3 +4636,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Twin Cities (USA)
 *://*.westtwincities.com/*
 
+# West Ventura News (USA)
+*://*.westventuranews.com/*
+
