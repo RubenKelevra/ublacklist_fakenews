@@ -128,3 +128,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.americanmediaperiscope.com/*
 *://*.patriot.tv/*
 
+# American Partisan (USA)
+*://*.americanpartisan.org/*
+
