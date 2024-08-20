@@ -2941,3 +2941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Peach Tree Times (USA)
 *://*.peachtreetimes.com/*
 
+# Pelican State News (USA)
+*://*.pelicanstatenews.com/*
+
