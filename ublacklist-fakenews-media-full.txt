@@ -3967,3 +3967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Blaze (USA)
 *://*.theblaze.com/*
 
+# The Blue State Conservative (USA)
+*://*.thebluestateconservative.com/*
+
