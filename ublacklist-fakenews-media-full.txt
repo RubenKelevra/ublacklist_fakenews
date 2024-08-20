@@ -4192,3 +4192,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TheSpectator.info (USA)
 *://*.thespectator.info/*
 
+# The Tennessee Star (USA)
+*://*.tennesseestar.com/*
+
