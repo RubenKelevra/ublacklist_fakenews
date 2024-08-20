@@ -1229,3 +1229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Femalista (USA)
 *://*.femalista.com/*
 
+# Filming Cops (USA)
+*://*.filmingcops.com/*
+
