@@ -2535,3 +2535,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Broward News (USA)
 *://*.northbrowardnews.com/*
 
+# North Central Arkansas News (USA)
+*://*.ncarkansasnews.com/*
+
