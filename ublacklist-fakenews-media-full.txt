@@ -3904,3 +3904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Syracuse Sun (USA)
 *://*.syracusesun.com/*
 
+# Syriana Analysis (Germany)
+*://*.syriana-analysis.com/*
+
