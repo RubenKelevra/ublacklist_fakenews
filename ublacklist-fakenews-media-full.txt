@@ -4195,3 +4195,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Tennessee Star (USA)
 *://*.tennesseestar.com/*
 
+# Tehran Times (Iran)
+*://*.tehrantimes.com/*
+
