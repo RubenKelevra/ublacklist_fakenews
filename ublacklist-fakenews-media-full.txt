@@ -527,3 +527,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Capitol News (USA)
 *://*.micapitolnews.com/*
 
+# Cape News (USA)
+*://*.capemonews.com/*
+
