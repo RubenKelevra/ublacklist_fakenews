@@ -3614,3 +3614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Jersey Sun (USA)
 *://*.southjerseysun.com/*
 
+# South KC News (USA)
+*://*.southkcnews.com/*
+
