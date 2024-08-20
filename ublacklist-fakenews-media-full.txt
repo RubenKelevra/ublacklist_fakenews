@@ -2658,3 +2658,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Orlando News (USA)
 *://*.auburntimes.com/*
 
+# North Palm Beach Today (USA)
+*://*.auburntimes.com/*
+
