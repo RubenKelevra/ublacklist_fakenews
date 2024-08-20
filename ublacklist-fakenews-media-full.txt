@@ -3041,3 +3041,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.populistpress.com/*
 *://*.thepoliticalsignal.com/*
 
+# Portage Times (USA)
+*://*.portagetimes.com/*
+
