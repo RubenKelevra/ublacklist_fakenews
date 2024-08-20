@@ -3317,3 +3317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Miguel Post (Unknown)
 *://*.sanmiguelpost.com/*
 
+# Santa Clara Today (USA)
+*://*.santaclaratoday.com/*
+
