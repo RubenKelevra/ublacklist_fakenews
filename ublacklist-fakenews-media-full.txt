@@ -3925,3 +3925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tasnim News Agency (Iran)
 *://*.tasnimnews.com/*
 
+# TB Daily News (USA)
+*://*.tbdailynews.com/*
+
