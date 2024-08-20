@@ -451,3 +451,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19melatonin.com (Unknown)
 *://*.c19melatonin.com/*
 
+# C19mp.com (Unknown)
+*://*.c19mp.com/*
+
