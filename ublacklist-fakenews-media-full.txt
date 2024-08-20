@@ -2559,3 +2559,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Dakota Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# North DSM News (USA)
+*://*.northdsmnews.com/*
+
