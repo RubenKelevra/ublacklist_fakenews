@@ -2595,3 +2595,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Guilford News (USA)
 *://*.northguilfordnews.com/*
 
+# North Gwinnett News (USA)
+*://*.northgwinnettnews.com/*
+
