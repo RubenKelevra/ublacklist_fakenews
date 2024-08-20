@@ -2186,3 +2186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monroe Review (USA)
 *://*.monroereview.com/*
 
+# Montana Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
