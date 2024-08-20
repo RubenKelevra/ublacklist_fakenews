@@ -118,3 +118,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Gulag (USA)
 *://*.americangulag.org/*
 
+# American Liberty Report (USA)
+*://*.americanlibertyemail.com/*
+
