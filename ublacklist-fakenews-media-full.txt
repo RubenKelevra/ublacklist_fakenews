@@ -1337,3 +1337,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gatestone Institute (USA)
 *://*.gatestoneinstitute.org/*
 
+# Gays Against Groomers (USA)
+*://*.gaysagainstgroomers.com/*
+
