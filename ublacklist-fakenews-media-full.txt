@@ -3293,3 +3293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sandhills Today (USA)
 *://*.sandhillstoday.com/*
 
+# San Diego City Wire (USA)
+*://*.sandiegocitywire.com/*
+
