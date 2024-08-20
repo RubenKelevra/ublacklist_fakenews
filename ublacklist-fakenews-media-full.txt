@@ -4117,3 +4117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.ohioindependent.com/*
 *://*.tainews.com/*
 
+# The Ohio Star (USA)
+*://*.theohiostar.com/*
+
