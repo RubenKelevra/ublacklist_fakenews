@@ -3464,3 +3464,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Shafaq News (Iraq)
 *://*.shafaq.com/*
 
+# Shelby Review (USA)
+*://*.shelbyreview.com/*
+
