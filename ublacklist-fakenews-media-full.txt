@@ -3707,3 +3707,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sovren Media (USA)
 *://*.sovren.media/*
 
+# Springfield City Wire (USA)
+*://*.springfieldcitywire.com/*
+
