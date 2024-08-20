@@ -4318,3 +4318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth Press (USA)
 *://*.truthpress.com/*
 
+# Tsargrad TV (Russia)
+*://*.tsargrad.tv/*
+
