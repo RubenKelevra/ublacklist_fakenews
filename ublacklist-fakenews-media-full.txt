@@ -683,3 +683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Clermont Times (USA)
 *://*.clermonttimes.com/*
 
+# Cleveland Reporter (USA)
+*://*.clevelandreporter.com/*
+
