@@ -4375,3 +4375,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Unmuzzled News (USA)
 *://*.unmuzzlednews.com/*
 
+# UP Gazette (USA)
+*://*.upgazette.com/*
+
