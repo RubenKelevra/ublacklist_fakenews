@@ -4492,3 +4492,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Waterloo Times (USA)
 *://*.waterlootimes.com/*
 
+# Wayne County Today (USA)
+*://*.waynecountytoday.com/*
+
