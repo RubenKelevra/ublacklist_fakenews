@@ -4186,3 +4186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Scoop (USA)
 *://*.thescoop.us/*
 
+# The Sons of Liberty Media (USA)
+*://*.sonsoflibertymedia.com/*
+
