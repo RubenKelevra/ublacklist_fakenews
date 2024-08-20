@@ -3404,3 +3404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Georgia News (USA)
 *://*.segeorgianews.com/*
 
+# SE Grand Rapids News (USA)
+*://*.segrandrapids.com/*
+
