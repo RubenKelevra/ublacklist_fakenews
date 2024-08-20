@@ -998,3 +998,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Eagle Rising (Unknown)
 *://*.eaglerising.com/*
 
+# Eagle Valley Times (USA)
+*://*.eaglevalleytimes.com/*
+
