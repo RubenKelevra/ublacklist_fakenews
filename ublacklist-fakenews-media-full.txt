@@ -4065,3 +4065,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Last Refuge (USA)
 *://*.theconservativetreehouse.com/*
 
+# The Last Resistance (USA)
+*://*.lastresistance.com/*
+
