@@ -2794,3 +2794,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Missouri Times (USA)
 *://*.nwmissouritimes.com/*
 
+# NW New Mexico News (USA)
+*://*.nwnewmexiconews.com/*
+
