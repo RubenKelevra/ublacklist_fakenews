@@ -1991,3 +1991,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Marin Leader (USA)
 *://*.marinleader.com/*
 
+# Marion-Morrow Times (USA)
+*://*.marionmorrowtimes.com/*
+
