@@ -3569,3 +3569,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Cuyahoga News (USA)
 *://*.southcuyahoganews.com/*
 
+# South Dayton News (USA)
+*://*.southdaytonnews.com/*
+
