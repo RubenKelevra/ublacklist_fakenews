@@ -2135,3 +2135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Milwaukee Metro Times (USA)
 *://*.milwaukeemetrotimes.com/*
 
+# Minneapolis Review (USA)
+*://*.minneapolisreview.com/*
+
