@@ -2260,3 +2260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # National Insiders (USA)
 *://*.nationalinsiders.com/*
 
+# National Rifle Association (USA)
+*://*.home.nra.org/*
+
