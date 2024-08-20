@@ -3476,3 +3476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Show-Me State Times (USA)
 *://*.showmestatetimes.com/*
 
+# Shreveport Reporter (USA)
+*://*.shreveportreporter.com/*
+
