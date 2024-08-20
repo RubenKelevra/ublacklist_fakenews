@@ -2592,3 +2592,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Fulton Today (USA)
 *://*.northfultontoday.com/*
 
+# North Guilford News (USA)
+*://*.northguilfordnews.com/*
+
