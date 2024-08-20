@@ -878,3 +878,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dayton Reporter (USA)
 *://*.daytonreporter.com/*
 
+# DC Dirty Laundry (USA)
+*://*.dcdirtylaundry.com/*
+
