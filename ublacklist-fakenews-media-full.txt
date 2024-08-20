@@ -2845,3 +2845,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Okeechobee Times (USA)
 *://*.okeechobeetimes.com/*
 
+# O’Keefe Media Group (USA)
+*://*.okeefemediagroup.com/*
+
