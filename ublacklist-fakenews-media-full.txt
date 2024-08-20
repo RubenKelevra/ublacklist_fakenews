@@ -2198,3 +2198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Montgomery News (USA)
 *://*.montgomerymdnews.com/*
 
+# MoonBattery (USA)
+*://*.moonbattery.com/*
+
