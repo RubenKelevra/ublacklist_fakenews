@@ -3166,3 +3166,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Renew America (USA)
 *://*.renewamerica.com/*
 
+# RenewedRight.com (USA)
+*://*.renewedright.com/*
+
