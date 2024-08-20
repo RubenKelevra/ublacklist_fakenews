@@ -21,3 +21,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # A Voice for Men (USA)
 *://*.avoiceformen.com/*
 
+# ABQ Times (USA)
+*://*.abqtimes.com/*
+
