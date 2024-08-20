@@ -4222,3 +4222,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Warren Sun (USA)
 *://*.warrensun.com/*
 
+# The Washington Standard
+*://*.thewashingtonstandard.com/*
+
