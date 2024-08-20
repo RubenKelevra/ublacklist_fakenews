@@ -4465,3 +4465,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Warren-Clinton News (USA)
 *://*.warrenclintonnews.com/*
 
+# War Room (USA)
+*://*.warroom.org/*
+
