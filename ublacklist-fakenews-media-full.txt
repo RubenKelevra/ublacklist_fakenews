@@ -4633,3 +4633,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West STL News (USA)
 *://*.stlwestnews.com/*
 
+# West Twin Cities (USA)
+*://*.westtwincities.com/*
+
