@@ -1364,3 +1364,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Georgia Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Georgia Mountain News (USA)
+*://*.georgiamountainnews.com/*
+
