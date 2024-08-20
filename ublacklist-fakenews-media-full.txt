@@ -4327,3 +4327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tsionizm (USA)
 *://*.tsionizm.com/*
 
+# Tucker Carlson Network (USA)
+*://*.tuckercarlson.com/*
+
