@@ -2483,3 +2483,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newsner (Sweden)
 *://*.en.newsner.com/*
 
+# Newsview (Greece)
+*://*.newsview.gr/*
+
