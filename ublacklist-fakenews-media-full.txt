@@ -1409,3 +1409,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GoodGopher (USA)
 *://*.goodgopher.com/*
 
+# GOP Daily Brief (USA)
+*://*.gopdailybrief.com/*
+
