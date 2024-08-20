@@ -2634,3 +2634,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Little Rock Times (USA)
 *://*.northlittlerocktimes.com/*
 
+# North Mecklenburg News (USA)
+*://*.northmecklenburgnews.com/*
+
