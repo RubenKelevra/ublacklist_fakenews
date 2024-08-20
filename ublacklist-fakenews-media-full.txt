@@ -1955,3 +1955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Macon Reporter (USA)
 *://*.maconreporter.com/*
 
+# Macon Times (USA)
+*://*.macontimes.com/*
+
