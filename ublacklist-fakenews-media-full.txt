@@ -1762,3 +1762,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kent County Today (USA)
 *://*.kentcountytoday.com/*
 
+# Kentuckiana Times (USA)
+*://*.kentuckianatimes.com/*
+
