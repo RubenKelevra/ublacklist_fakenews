@@ -1367,3 +1367,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Georgia Mountain News (USA)
 *://*.georgiamountainnews.com/*
 
+# Georgia Record (USA)
+*://*.georgiarecord.com/*
+
