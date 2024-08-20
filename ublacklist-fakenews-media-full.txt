@@ -258,3 +258,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Baltimore City Wire (USA)
 *://*.baltimorecitywire.com/*
 
+# Bare Naked Islam (USA)
+*://*.barenakedislam.com/*
+
