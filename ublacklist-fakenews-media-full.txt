@@ -3762,3 +3762,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Steadfast and Loyal (USA)
 *://*.steadfastandloyal.com/*
 
+# Steadfast Clash (USA)
+*://*.steadfastclash.com/*
+
