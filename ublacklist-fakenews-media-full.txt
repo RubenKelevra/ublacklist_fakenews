@@ -3659,3 +3659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Oregon News (USA)
 *://*.southoregonnews.com/*
 
+# South Orlando News (USA)
+*://*.southorlandonews.com/*
+
