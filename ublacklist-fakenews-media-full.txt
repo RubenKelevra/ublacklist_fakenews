@@ -1831,3 +1831,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lansing Sun (USA)
 *://*.lansingsun.com/*
 
+# Larimer News (USA)
+*://*.larimernews.com/*
+
