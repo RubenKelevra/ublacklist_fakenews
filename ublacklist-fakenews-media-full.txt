@@ -4049,3 +4049,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Thejeffreylord.com (USA)
 *://*.thejeffreylord.com/*
 
+# The Jewish Voice (USA)
+*://*.thejewishvoice.com/*
+*://*.tjvnews.com/*
+
