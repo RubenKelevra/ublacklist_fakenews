@@ -2556,3 +2556,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Country Reporter (USA)
 *://*.northcountryreporter.com/*
 
+# North Dakota Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
