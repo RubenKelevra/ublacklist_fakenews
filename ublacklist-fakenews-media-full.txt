@@ -1843,3 +1843,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # La Verità (Italy)
 *://*.laverita.info/*
 
+# Lawrence Reporter (USA)
+*://*.lawrencereporter.com/*
+
