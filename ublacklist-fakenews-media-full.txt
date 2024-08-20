@@ -3022,3 +3022,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PolitNavigator (Ukraine)
 *://*.politnavigator.net/*
 
+# PolitRussia (Russia)
+*://*.politros.com/*
+
