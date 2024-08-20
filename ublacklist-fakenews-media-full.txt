@@ -2839,3 +2839,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ohio Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# OKC Standard (USA)
+*://*.okcstandard.com/*
+
