@@ -4750,3 +4750,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Young Americans for Liberty (USA)
 *://*.yaliberty.org/*
 
+# Young Conservatives (USA)
+*://*.analyzingamerica.org/*
+
