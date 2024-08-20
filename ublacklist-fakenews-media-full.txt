@@ -3013,3 +3013,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Political Flare (USA)
 *://*.politicalflare.com/*
 
+# Political Insider (USA)
+*://*.thepoliticalinsider.com/*
+
