@@ -2812,3 +2812,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NYC Gazette (USA)
 *://*.nycgazette.com/*
 
+# Trending Politics (USA)
+*://*.trendingpolitics.com/*
+
