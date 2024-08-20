@@ -4285,3 +4285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tri-City Sun (USA)
 *://*.tricitysun.com/*
 
+# Tri County News (USA)
+*://*.triconews.com/*
+
