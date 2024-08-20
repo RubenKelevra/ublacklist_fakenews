@@ -2365,3 +2365,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Kansas News (USA)
 *://*.nekansasnews.com/*
 
+# NE Kentucky News (USA)
+*://*.nekentuckynews.com/*
+
