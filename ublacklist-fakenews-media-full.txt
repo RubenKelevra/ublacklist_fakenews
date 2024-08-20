@@ -3841,3 +3841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SwampDrain.com (Unknown)
 *://*.swampdrain.com/*
 
+# Swarajya (India)
+*://*.swarajyamag.com/*
+
