@@ -3203,3 +3203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Riposte Laique (France)
 *://*.ripostelaique.com/*
 
+# River Bend Times (USA)
+*://*.riverbendtimes.com/*
+
