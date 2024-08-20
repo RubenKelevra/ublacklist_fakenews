@@ -659,3 +659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cincy Reporter (USA)
 *://*.cincyreporter.com/*
 
+# CitizenGO (Spain)
+*://*.citizengo.org/*
+
