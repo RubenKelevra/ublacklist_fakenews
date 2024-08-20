@@ -2694,3 +2694,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North STL News (USA)
 *://*.northstlnews.com/*
 
+# North Summit News (USA)
+*://*.northsummitnews.com/*
+
