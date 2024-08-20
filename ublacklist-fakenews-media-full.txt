@@ -4654,3 +4654,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # What’s the Harm (Unknown)
 *://*.whatstheharm.net/*
 
+# Wichita Standard (USA)
+*://*.wichitastandard.com/*
+
