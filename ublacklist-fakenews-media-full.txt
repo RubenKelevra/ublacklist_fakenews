@@ -569,3 +569,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cedar Rapids Today (USA)
 *://*.cedarrapidstoday.com/*
 
+# Centennial State News (USA)
+*://*.centennialstatenews.com/*
+
