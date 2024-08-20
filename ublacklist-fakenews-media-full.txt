@@ -3163,3 +3163,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Reformed Media (USA)
 *://*.reformedmedia.net/*
 
+# Renew America (USA)
+*://*.renewamerica.com/*
+
