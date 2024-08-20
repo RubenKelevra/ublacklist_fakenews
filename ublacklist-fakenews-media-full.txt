@@ -2210,3 +2210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Morning Poll (USA)
 *://*.morningpoll.com/*
 
+# Morris Leader (USA)
+*://*.morrisleader.com/*
+
