@@ -2709,3 +2709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northwest Montana News (USA)
 *://*.nwmontananews.com/*
 
+# Northwest Wayne News (USA)
+*://*.nwwaynenews.com/*
+
