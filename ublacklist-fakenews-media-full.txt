@@ -3732,3 +3732,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sputnik News Agency (Russia)
 *://*.it.sputniknews.com/*
 
+# St. Joe-Benton Harbor News (USA)
+*://*.stjoebentonharbor.com/*
+
