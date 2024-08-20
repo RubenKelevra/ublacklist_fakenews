@@ -1463,3 +1463,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Grundy Reporter (USA)
 *://*.grundyreporter.com/*
 
+# Grunge (USA)
+*://*.grunge.com/*
+
