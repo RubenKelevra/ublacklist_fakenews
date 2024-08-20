@@ -1693,3 +1693,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Israel Unwired – Bias and Credibility (USA)
 *://*.israelunwired.com/*
 
+# Israel War Room (USA)
+*://*.israelwarroom.com/*
+
