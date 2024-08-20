@@ -4459,3 +4459,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # War On Fakes (Russia)
 *://*.waronfakes.com/*
 
+# Warner Robins Today (USA)
+*://*.warnerrobinstoday.com/*
+
