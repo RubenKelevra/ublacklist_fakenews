@@ -1879,3 +1879,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty Hangout (USA)
 *://*.libertyhangout.org/*
 
+# Liberty News (USA)
+*://*.libertynews.com/*
+
