@@ -3916,3 +3916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tallahassee Sun (USA)
 *://*.tallahasseesun.com/*
 
+# Tamaulipas Post (Unknown)
+*://*.tamaulipaspost.com/*
+
