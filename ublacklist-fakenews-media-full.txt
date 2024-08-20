@@ -1451,3 +1451,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Greene County Times (USA)
 *://*.greenecotimes.com/*
 
+# Greensboro Reporter (USA)
+*://*.greensbororeporter.com/*
+
