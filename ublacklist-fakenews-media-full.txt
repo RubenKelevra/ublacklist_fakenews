@@ -3025,3 +3025,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PolitRussia (Russia)
 *://*.politros.com/*
 
+# Polk Times (USA)
+*://*.polktimes.com/*
+
