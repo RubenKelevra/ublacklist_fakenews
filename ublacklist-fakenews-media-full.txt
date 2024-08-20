@@ -4333,3 +4333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tucson Standard (USA)
 *://*.tucsonstandard.com/*
 
+# Tulare Times (USA)
+*://*.tularetimes.com/*
+
