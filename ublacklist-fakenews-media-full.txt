@@ -3470,3 +3470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Shiawassee Times (USA)
 *://*.shiawasseetimes.com/*
 
+# Shoals Today (USA)
+*://*.shoalstoday.com/*
+
