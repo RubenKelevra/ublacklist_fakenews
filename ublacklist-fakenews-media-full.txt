@@ -1457,3 +1457,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Greenville Reporter (USA)
 *://*.greenvillereporter.com/*
 
+# Gript.ie (Unknown)
+*://*.gript.ie/*
+
