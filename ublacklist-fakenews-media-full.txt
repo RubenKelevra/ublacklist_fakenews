@@ -1840,3 +1840,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Las Vegas City Wire (USA)
 *://*.lasvegascitywire.com/*
 
+# La Verità (Italy)
+*://*.laverita.info/*
+
