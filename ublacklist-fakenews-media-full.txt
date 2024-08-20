@@ -1472,3 +1472,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Guadalajara Post (Unknown)
 *://*.theguadalajarapost.com/*
 
+# Guardian Nigeria (Nigeria)
+*://*.guardian.ng/*
+
