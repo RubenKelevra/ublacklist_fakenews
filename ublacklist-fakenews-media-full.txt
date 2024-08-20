@@ -935,3 +935,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Detroit City Wire (USA)
 *://*.detroitcitywire.com/*
 
+# DiamondandSilkinc.com (USA)
+*://*.diamondandsilkinc.com/*
+
