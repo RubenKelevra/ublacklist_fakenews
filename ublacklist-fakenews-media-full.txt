@@ -2335,3 +2335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nebraska Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Nebraska Panhandle News (USA)
+*://*.nepanhandlenews.com/*
+
