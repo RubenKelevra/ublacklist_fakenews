@@ -200,3 +200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Arab News (Saudi Arabia)
 *://*.arabnews.com/*
 
+# Archaeology World (Unknown)
+*://*.archaeology-world.com/*
+
