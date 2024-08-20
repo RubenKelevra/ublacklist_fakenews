@@ -4342,3 +4342,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Turning Point USA (USA)
 *://*.tpusa.com/*
 
+# Tuscaloosa Leader (USA)
+*://*.tuscaloosaleader.com/*
+
