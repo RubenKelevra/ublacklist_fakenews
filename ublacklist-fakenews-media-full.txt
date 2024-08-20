@@ -4276,3 +4276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TrendingPoliticsNews.com (USA)
 *://*.trendingpoliticsnews.com/*
 
+# Triangle News (USA)
+*://*.trianglenews.org/*
+
