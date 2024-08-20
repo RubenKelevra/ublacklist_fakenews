@@ -4498,3 +4498,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WayneDupree.com (USA)
 *://*.waynedupree.com/*
 
+# Wayne Herald (USA)
+*://*.wayneherald.org/*
+
