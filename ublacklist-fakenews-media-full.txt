@@ -2323,3 +2323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # ND North News (USA)
 *://*.ndnorthnews.com/*
 
+# NE Alabama News (USA)
+*://*.nealabamanews.com/*
+
