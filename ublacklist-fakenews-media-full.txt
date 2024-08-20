@@ -2009,3 +2009,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Maui Reporter (USA)
 *://*.mauireporter.com/*
 
+# Mazatlan Post (Unknown)
+*://*.themazatlanpost.com/*
+
