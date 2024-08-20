@@ -4585,3 +4585,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Florida News (USA)
 *://*.westflnews.com/*
 
+# West Hillsborough News (USA)
+*://*.westhillsboroughnews.com/*
+
