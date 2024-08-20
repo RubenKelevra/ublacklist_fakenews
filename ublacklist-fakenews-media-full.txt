@@ -4025,3 +4025,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Federation for American Immigration Reform (USA)
 *://*.fairus.org/*
 
+# The Freedom Times (USA)
+*://*.thefreedomtimes.com/*
+
