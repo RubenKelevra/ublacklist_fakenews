@@ -2836,3 +2836,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ocean County Leader (USA)
 *://*.oceancountyleader.com/*
 
+# Ohio Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
