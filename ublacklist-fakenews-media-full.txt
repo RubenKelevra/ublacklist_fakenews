@@ -4669,3 +4669,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wiregrass Times (USA)
 *://*.wiregrasstimes.com/*
 
+# Wisconsin Daily Star (USA)
+*://*.wisconsindailystar.com/*
+
