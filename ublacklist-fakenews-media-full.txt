@@ -249,3 +249,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # AustraliaOne (Australia)
 *://*.australiaoneparty.com/*
 
+# Baja California Post (Unknown)
+*://*.bajacaliforniapost.com/*
+
