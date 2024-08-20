@@ -2144,3 +2144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Minnesota State Wire (USA)
 *://*.minnesotastatewire.com/*
 
+# Minnesota Sun (USA)
+*://*.theminnesotasun.com/*
+
