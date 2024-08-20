@@ -3007,3 +3007,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Political Animal News (USA)
 *://*.politicalanimalnews.com/*
 
+# PoliticalDiscussion (Unknown)
+*://*.political-discussion.com/*
+
