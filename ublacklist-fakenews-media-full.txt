@@ -2995,3 +2995,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Platte News (USA)
 *://*.plattenews.com/*
 
+# Plymouth Reporter (USA)
+*://*.plymouthreporter.com/*
+
