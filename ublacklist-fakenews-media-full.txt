@@ -1355,3 +1355,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Genesee News (USA)
 *://*.geneseenews.com/*
 
+# Gen Z Conservative (USA)
+*://*.genzconservative.com/*
+
