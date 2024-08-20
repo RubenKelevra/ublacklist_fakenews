@@ -2407,3 +2407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NetEase (China)
 *://*.163.com/*
 
+# Nevada Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
