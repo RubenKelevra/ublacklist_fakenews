@@ -240,3 +240,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # ATL Standard (USA)
 *://*.atlstandard.com/*
 
+# Auburn Times (USA)
+*://*.auburntimes.com/*
+
