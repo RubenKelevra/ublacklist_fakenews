@@ -1931,3 +1931,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lorain Times (USA)
 *://*.loraintimes.com/*
 
+# Louder With Crowder (USA)
+*://*.louderwithcrowder.com/*
+
