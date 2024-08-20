@@ -1566,3 +1566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hopkinsville Times (USA)
 *://*.hopkinsvilletimes.com/*
 
+# Hot Springs Times (USA)
+*://*.hotspringstimes.com/*
+
