@@ -1581,3 +1581,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # HR Daily Wire (USA)
 *://*.hrdailywire.com/*
 
+# Hudson Today (USA)
+*://*.hudsontoday.com/*
+
