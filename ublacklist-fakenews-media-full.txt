@@ -2443,3 +2443,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Global (USA)
 *://*.newsglobal.com/*
 
+# News Heist (USA)
+*://*.newsheist.com/*
+
