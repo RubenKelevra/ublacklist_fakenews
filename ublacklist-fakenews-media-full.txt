@@ -319,3 +319,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BitChute (UK)
 *://*.bitchute.com/*
 
+# Black Eye Politics (USA)
+*://*.blackeyepolitics.com/*
+
