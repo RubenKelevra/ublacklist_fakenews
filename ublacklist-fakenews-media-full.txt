@@ -346,3 +346,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bongino.com (USA)
 *://*.bongino.com/*
 
+# Boston Broadside (USA)
+*://*.bostonbroadside.com/*
+
