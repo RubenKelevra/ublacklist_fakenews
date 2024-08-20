@@ -3,3 +3,6 @@ name: Fake News Media (full version)
 description: Hides (most) Fake News Media sites
 homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 ---
+# 4Chan (USA)
+*://*.4chan.org/*
+
