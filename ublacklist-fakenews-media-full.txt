@@ -3578,3 +3578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southern Indiana Today (USA)
 *://*.southernindianatoday.com/*
 
+# South DSM News (USA)
+*://*.southdsmnews.com/*
+
