@@ -3037,3 +3037,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Population Research Institute (USA)
 *://*.pop.org/*
 
+# Populist Press (USA)
+*://*.populistpress.com/*
+*://*.thepoliticalsignal.com/*
+
