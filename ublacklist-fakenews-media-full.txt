@@ -4037,3 +4037,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Gateway Pundit (USA)
 *://*.thegatewaypundit.com/*
 
+# The Grayzone (USA)
+*://*.thegrayzone.com/*
+
