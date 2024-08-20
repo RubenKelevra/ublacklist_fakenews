@@ -4513,3 +4513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Minnesota News (USA)
 *://*.wcminnesotanews.com/*
 
+# WC Mississippi News (USA)
+*://*.wcmissnews.com/*
+
