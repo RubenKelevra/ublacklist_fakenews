@@ -3545,3 +3545,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Bergen News (USA)
 *://*.southbergennews.com/*
 
+# South Broward News (USA)
+*://*.southbrowardnews.com/*
+
