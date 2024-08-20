@@ -1487,3 +1487,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gunster News (Unknown)
 *://*.gunsternews.com/*
 
+# The Hagmann Report (USA)
+*://*.hagmannreport.com/*
+*://*.hagmannpi.com/*
+
