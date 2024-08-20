@@ -4423,3 +4423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # VDARE (USA)
 *://*.vdare.com/*
 
+# Veracruz Daily Post (Unknown)
+*://*.veracruzdailypost.com/*
+
