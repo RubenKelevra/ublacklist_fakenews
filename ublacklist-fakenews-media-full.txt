@@ -4189,3 +4189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Sons of Liberty Media (USA)
 *://*.sonsoflibertymedia.com/*
 
+# TheSpectator.info (USA)
+*://*.thespectator.info/*
+
