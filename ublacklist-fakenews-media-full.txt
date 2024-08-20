@@ -3281,3 +3281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ruth Institute (USA)
 *://*.ruthinstitute.org/*
 
+# Sacramento Standard (USA)
+*://*.sacramentostandard.com/*
+
