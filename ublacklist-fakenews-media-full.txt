@@ -3551,3 +3551,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Central Reporter (USA)
 *://*.southcentralreporter.com/*
 
+# South Charlotte Today (USA)
+*://*.southcharlottetoday.com/*
+
