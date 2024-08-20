@@ -1873,3 +1873,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty Bell (USA)
 *://*.libertybell.com/*
 
+# Liberty Counsel (USA)
+*://*.lc.org/*
+
