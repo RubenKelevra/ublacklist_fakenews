@@ -1650,3 +1650,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Informer (Serbia)
 *://*.informer.rs/*
 
+# InfoScum (Canada)
+*://*.infoscum.com/*
+
