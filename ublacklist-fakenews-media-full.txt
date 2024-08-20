@@ -917,3 +917,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Delaware County Review (USA)
 *://*.delcoreview.com/*
 
+# Delaware Valley Sun (USA)
+*://*.delawarevalleysun.com/*
+
