@@ -2490,3 +2490,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.newswars.com/*
 *://*.infowars.com/*
 
+# New York Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
