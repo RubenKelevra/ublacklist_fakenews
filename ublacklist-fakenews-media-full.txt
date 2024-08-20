@@ -1629,3 +1629,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Il Primato Nazionale (Italy)
 *://*.ilprimatonazionale.it/*
 
+# Imperial CA News (USA)
+*://*.imperialcanews.com/*
+
