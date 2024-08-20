@@ -539,3 +539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cardinal & Pine (USA)
 *://*.cardinalpine.com/*
 
+# Catholic Tribune (USA)
+*://*.azcatholictribune.com/*
+
