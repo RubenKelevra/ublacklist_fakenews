@@ -4537,3 +4537,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # We The People Daily (USA)
 *://*.wethepeopledaily.com/*
 
+# Westbank Louisiana News (USA)
+*://*.westbanklanews.com/*
+
