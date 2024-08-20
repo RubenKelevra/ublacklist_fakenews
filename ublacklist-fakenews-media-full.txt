@@ -243,3 +243,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Auburn Times (USA)
 *://*.auburntimes.com/*
 
+# Augusta-Richmond Herald (USA)
+*://*.augustarichmondherald.com/*
+
