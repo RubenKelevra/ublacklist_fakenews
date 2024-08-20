@@ -4474,3 +4474,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Washington Stand (USA)
 *://*.washingtonstand.com/*
 
+# Washington Times (USA)
+*://*.twitter.com/WashTimes*
+*://*.x.com/WashTimes*
+*://*.facebook.com/TheWashingtonTimes*
+*://*.washingtontimes.com/*
+
