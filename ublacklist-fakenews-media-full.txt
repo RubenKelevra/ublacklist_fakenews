@@ -932,3 +932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DeSantis Daily (USA)
 *://*.desantisdaily.com/*
 
+# Detroit City Wire (USA)
+*://*.detroitcitywire.com/*
+
