@@ -2401,3 +2401,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Valley Times (USA)
 *://*.nevalleytimes.com/*
 
+# NEO (Russia)
+*://*.journal-neo.org/*
+
