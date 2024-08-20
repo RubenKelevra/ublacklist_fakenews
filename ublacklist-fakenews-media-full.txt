@@ -225,3 +225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Агрегатор 24СМИ (Russia)
 *://*.ex.24smi.info/*
 
+# Asheville Reporter (USA)
+*://*.ashevillereporter.com/*
+
