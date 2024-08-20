@@ -3105,3 +3105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Quillette (Australia)
 *://*.quillette.com/*
 
+# Quincy Reporter (USA)
+*://*.quincyreporter.com/*
+
