@@ -3497,3 +3497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Slay News (USA)
 *://*.slaynews.com/*
 
+# SLO Reporter (USA)
+*://*.sloreporter.com/*
+
