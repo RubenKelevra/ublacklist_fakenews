@@ -36,3 +36,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Adams County Times (USA)
 *://*.adamscountytimes.com/*
 
+# Aguascalientes Daily Post (Unknown)
+*://*.aguascalientesdailypost.com/*
+*://*.mexicodailypost.com/*
+
