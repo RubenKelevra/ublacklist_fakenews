@@ -4345,3 +4345,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tuscaloosa Leader (USA)
 *://*.tuscaloosaleader.com/*
 
+# Tuscarawas News (USA)
+*://*.tuscarawasnews.com/*
+
