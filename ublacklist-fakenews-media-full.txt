@@ -3371,3 +3371,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SC Nebraska News (USA)
 *://*.scnebraskanews.com/*
 
+# SC New York News (USA)
+*://*.scnewyorknews.com/*
+
