@@ -3536,3 +3536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Bay SD News (USA)
 *://*.southbaysdnews.com/*
 
+# South Bend Times (USA)
+*://*.southbendtimes.com/*
+
