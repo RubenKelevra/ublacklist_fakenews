@@ -2544,3 +2544,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Coast California News (USA)
 *://*.northcoastcanews.com/*
 
+# North Coast Today (USA)
+*://*.northcoasttoday.com/*
+
