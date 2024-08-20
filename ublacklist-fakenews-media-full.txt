@@ -2162,3 +2162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mixi.Media (USA)
 *://*.mixi.media/*
 
+# Mobile Courant (USA)
+*://*.mobilecourant.com/*
+
