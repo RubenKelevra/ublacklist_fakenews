@@ -2477,3 +2477,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NewsAmmo (USA)
 *://*.newsammo.com/*
 
+# Newsmax (USA)
+*://*.newsmax.com/*
+
