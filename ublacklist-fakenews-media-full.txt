@@ -3422,3 +3422,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Kansas City News (USA)
 *://*.sekansascitynews.com/*
 
+# SE Kentucky News (USA)
+*://*.sekentuckynews.com/*
+
