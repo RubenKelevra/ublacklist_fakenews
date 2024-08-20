@@ -506,3 +506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Canada Free Press (Canada)
 *://*.canadafreepress.com/*
 
+# Canary Mission (USA)
+*://*.canarymission.org/*
+
