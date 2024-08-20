@@ -4034,3 +4034,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Frisky (Serbia)
 *://*.thefrisky.com/*
 
+# The Gateway Pundit (USA)
+*://*.thegatewaypundit.com/*
+
