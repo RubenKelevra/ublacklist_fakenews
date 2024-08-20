@@ -88,3 +88,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # America First Legal (USA)
 *://*.aflegal.org/*
 
+# America First Report (USA)
+*://*.americafirstreport.com/*
+
