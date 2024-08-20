@@ -2529,3 +2529,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Bluegrass News (USA)
 *://*.northbluegrassnews.com/*
 
+# North Boston News (USA)
+*://*.northbostonnews.com/*
+
