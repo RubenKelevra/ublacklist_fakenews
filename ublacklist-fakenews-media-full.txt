@@ -1786,3 +1786,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Komsomolskaya Pravda (Russia)
 *://*.kp.ru/*
 
+# Korean Central News Agency (North Korea)
+*://*.kcna.kp/*
+
