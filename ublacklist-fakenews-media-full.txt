@@ -2920,3 +2920,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriot NewsFeed (USA)
 *://*.patriotnewsfeed.com/*
 
+# Patriot Pulse (USA)
+*://*.patriotpulse.net/*
+
