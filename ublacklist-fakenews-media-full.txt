@@ -680,3 +680,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Clay Reporter (USA)
 *://*.clayreporter.com/*
 
+# Clermont Times (USA)
+*://*.clermonttimes.com/*
+
