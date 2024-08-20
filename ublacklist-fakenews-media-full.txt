@@ -587,3 +587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Florida Post (USA)
 *://*.centralfloridapost.com/*
 
+# Central Georgia News (USA)
+*://*.centralgeorgianews.com/*
+
