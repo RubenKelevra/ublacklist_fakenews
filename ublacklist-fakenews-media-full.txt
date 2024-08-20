@@ -2462,3 +2462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NewsReady (USA)
 *://*.newsready.com/*
 
+# Newsrael (Israel)
+*://*.newsrael.com/*
+
