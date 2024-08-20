@@ -279,3 +279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BDNews24 (Bangladesh)
 *://*.bdnews24.com/*
 
+# Beach Broadcast News (USA)
+*://*.beachbroadcastnews.com/*
+
