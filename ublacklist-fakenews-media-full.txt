@@ -1136,3 +1136,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # EC Oklahoma News (USA)
 *://*.ecoklahomanews.com/*
 
+# Education Daily Wire (USA)
+*://*.educationdailywire.com/*
+
