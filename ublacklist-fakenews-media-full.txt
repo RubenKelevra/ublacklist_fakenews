@@ -94,3 +94,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # America Out Loud (USA)
 *://*.americaoutloud.news/*
 
+# American Action News (USA)
+*://*.americanactionnews.com/*
+
