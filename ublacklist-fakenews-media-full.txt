@@ -2830,3 +2830,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ocala Standard (USA)
 *://*.ocalastandard.com/*
 
+# Occupy Democrats (USA)
+*://*.occupydemocrats.com/*
+
