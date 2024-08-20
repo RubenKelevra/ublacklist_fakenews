@@ -3188,3 +3188,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Revolver.News (Unknown)
 *://*.revolver.news/*
 
+# RIA Novosti (Russia)
+*://*.ria.ru/*
+
