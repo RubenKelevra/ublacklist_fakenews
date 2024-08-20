@@ -3431,3 +3431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Minnesota News (USA)
 *://*.seminnesotanews.com/*
 
+# SE Missouri News (USA)
+*://*.semissourinews.com/*
+
