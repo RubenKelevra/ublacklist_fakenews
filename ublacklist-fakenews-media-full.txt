@@ -3698,3 +3698,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southwest Montana News (USA)
 *://*.swmontanatimes.com/*
 
+# South Wichita News (USA)
+*://*.southwichitanews.com/*
+
