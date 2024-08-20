@@ -2580,3 +2580,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Dayton News (USA)
 *://*.northdaytonnews.com/*
 
+# Northern Wisconsin Times (USA)
+*://*.northernwitimes.com/*
+
