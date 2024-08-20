@@ -732,3 +732,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Congressional Agenda (USA)
 *://*.congressionalagenda.com/*
 
+# Connecticut Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
