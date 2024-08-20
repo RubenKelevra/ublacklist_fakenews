@@ -1641,3 +1641,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Indiana Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Indy Standard (USA)
+*://*.indystandard.com/*
+
