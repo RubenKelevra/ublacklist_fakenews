@@ -4666,3 +4666,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Winston Salem Times (USA)
 *://*.winstonsalemtimes.com/*
 
+# Wiregrass Times (USA)
+*://*.wiregrasstimes.com/*
+
