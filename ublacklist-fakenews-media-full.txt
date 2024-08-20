@@ -4330,3 +4330,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tucker Carlson Network (USA)
 *://*.tuckercarlson.com/*
 
+# Tucson Standard (USA)
+*://*.tucsonstandard.com/*
+
