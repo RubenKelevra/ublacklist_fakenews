@@ -3440,3 +3440,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE North Carolina News (USA)
 *://*.senorthcarolinanews.com/*
 
+# SE Oakland News (USA)
+*://*.seoaklandnews.com/*
+
