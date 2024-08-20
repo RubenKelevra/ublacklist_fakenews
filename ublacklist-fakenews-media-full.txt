@@ -963,3 +963,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Doug Casey’s International Man (USA)
 *://*.internationalman.com/*
 
+# Down East Times (USA)
+*://*.downeasttimes.com/*
+
