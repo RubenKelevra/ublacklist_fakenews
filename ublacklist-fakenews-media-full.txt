@@ -4471,3 +4471,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Washington Sources (USA)
 *://*.washingtonsources.org/*
 
+# Washington Stand (USA)
+*://*.washingtonstand.com/*
+
