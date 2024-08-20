@@ -2700,3 +2700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Triangle News (USA)
 *://*.northtrianglenews.com/*
 
+# North Tulsa Today (USA)
+*://*.northtulsatoday.com/*
+
