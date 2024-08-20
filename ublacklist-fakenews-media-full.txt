@@ -12,3 +12,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # 100 Percent Fed Up (USA)
 *://*.100percentfedup.com/*
 
+# 24Jours.com (Cameroon)
+*://*.24jours.com/*
+
