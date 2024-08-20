@@ -121,3 +121,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Liberty Report (USA)
 *://*.americanlibertyemail.com/*
 
+# American Lookout (USA)
+*://*.americanlookout.com/*
+
