@@ -1699,3 +1699,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ivermectin for Covid-19 (Unknown)
 *://*.ivmmeta.com/*
 
+# Izvestia (Russia)
+*://*.iz.ru/*
+
