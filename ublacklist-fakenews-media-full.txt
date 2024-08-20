@@ -2081,3 +2081,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Miami Standard (USA)
 *://*.miamistandard.news/*
 
+# Mic Drop Politics (USA)
+*://*.micdroppolitics.com/*
+
