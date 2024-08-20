@@ -2902,3 +2902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pasco Reporter (USA)
 *://*.auburntimes.com/*
 
+# Passaic Today (USA)
+*://*.passaictoday.com/*
+
