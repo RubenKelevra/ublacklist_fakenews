@@ -237,3 +237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Atlantic County Times (USA)
 *://*.atlanticcotimes.com/*
 
+# ATL Standard (USA)
+*://*.atlstandard.com/*
+
