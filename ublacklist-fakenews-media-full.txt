@@ -310,3 +310,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Big Sky Times (USA)
 *://*.bigskytimes.com/*
 
+# BillionBibles.org (USA)
+*://*.billionbibles.org/*
+
