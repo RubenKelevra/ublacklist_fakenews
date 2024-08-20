@@ -2854,3 +2854,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Old North News (USA)
 *://*.oldnorthnews.com/*
 
+# Oneida Times (USA)
+*://*.oneidatimes.com/*
+
