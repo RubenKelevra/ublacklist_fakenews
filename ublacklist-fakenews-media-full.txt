@@ -3611,3 +3611,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Jefferson County News (USA)
 *://*.southjeffconews.com/*
 
+# South Jersey Sun (USA)
+*://*.southjerseysun.com/*
+
