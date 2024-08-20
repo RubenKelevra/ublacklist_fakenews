@@ -2347,3 +2347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Connecticut News (USA)
 *://*.neconnnews.com/*
 
+# NE Florida News (USA)
+*://*.nefloridanews.com/*
+
