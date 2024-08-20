@@ -1940,3 +1940,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Louisville City Wire (USA)
 *://*.louisvillecitywire.com/*
 
+# Lowe Delta News (USA)
+*://*.lowedeltanews.com/*
+
