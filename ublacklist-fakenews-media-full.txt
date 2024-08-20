@@ -2493,3 +2493,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # New York Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Next News Network (USA)
+*://*.nextnewsnetwork.com/*
+
