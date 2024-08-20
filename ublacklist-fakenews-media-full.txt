@@ -1340,3 +1340,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gays Against Groomers (USA)
 *://*.gaysagainstgroomers.com/*
 
+# Gazeta.ru (Russia)
+*://*.gazeta.ru/*
+
