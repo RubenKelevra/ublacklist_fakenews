@@ -3377,3 +3377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Seacoast Standard (USA)
 *://*.seacoaststandard.org/*
 
+# SE Alaska News (USA)
+*://*.sealaskanews.com/*
+
