@@ -692,3 +692,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Coachella Today (USA)
 *://*.coachellatoday.com/*
 
+# Coastal GA News (USA)
+*://*.coastalganews.com/*
+
