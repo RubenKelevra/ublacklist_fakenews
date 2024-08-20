@@ -188,3 +188,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Anoka Times (USA)
 *://*.anokatimes.com/*
 
+# Anonymous Wire (Unknown)
+*://*.anonymouswire.com/*
+
