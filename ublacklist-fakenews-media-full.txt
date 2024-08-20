@@ -4714,3 +4714,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldStarHipHop (USA)
 *://*.worldstarhiphop.com/*
 
+# WorldTimeTodays (USA)
+*://*.worldtimetodays.com/*
+
