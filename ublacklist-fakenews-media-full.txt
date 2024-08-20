@@ -2129,3 +2129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Military Review (Russia)
 *://*.topwar.ru/*
 
+# Military Watch Magazine (Unknown)
+*://*.militarywatchmagazine.com/*
+
