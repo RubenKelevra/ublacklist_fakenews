@@ -213,3 +213,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Arizona Sun Times (USA)
 *://*.arizonasuntimes.com/*
 
+# Arkansas Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
