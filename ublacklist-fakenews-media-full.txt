@@ -722,3 +722,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Competitive Enterprise Institute (USA)
 *://*.cei.org/*
 
+# Concerned Women for America (USA)
+*://*.concernedwomen.org/*
+*://*.cwfa.org/*
+
