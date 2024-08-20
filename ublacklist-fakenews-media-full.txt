@@ -3242,3 +3242,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rodong Sinmun (North Korea)
 *://*.rodong.rep.kp/*
 
+# Rogue Review (USA)
+*://*.roguereview.net/*
+
