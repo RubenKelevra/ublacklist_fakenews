@@ -1967,3 +1967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Maine Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Maine Highlands News (USA)
+*://*.mainehighlandsnews.com/*
+
