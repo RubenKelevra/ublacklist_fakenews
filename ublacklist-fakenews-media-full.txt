@@ -3395,3 +3395,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Connecticut News (USA)
 *://*.seconnnews.com/*
 
+# SE Denver News (USA)
+*://*.sedenvernews.com/*
+
