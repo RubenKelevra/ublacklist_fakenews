@@ -1524,3 +1524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Here Is The Evidence (UK)
 *://*.hereistheevidence.com/*
 
+# Hernando Reporter (USA)
+*://*.hernandoreporter.com/*
+
