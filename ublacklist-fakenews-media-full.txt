@@ -3001,3 +3001,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pocatello Times (USA)
 *://*.pocatellotimes.com/*
 
+# Point Report (USA)
+*://*.pointreport.org/*
+
