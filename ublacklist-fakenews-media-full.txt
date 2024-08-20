@@ -626,3 +626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Chambana Sun (USA)
 *://*.chambanasun.com/*
 
+# Channel One Russia (Russia)
+*://*.1tv.ru/*
+
