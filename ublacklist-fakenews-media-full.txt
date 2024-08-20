@@ -977,3 +977,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.druthers.net/*
 *://*.druthers.ca/*
 
+# Dubuque Times (USA)
+*://*.dubuquetimes.com/*
+
