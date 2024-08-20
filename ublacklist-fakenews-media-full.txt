@@ -3832,3 +3832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SurvivalBlog.com (USA)
 *://*.survivalblog.com/*
 
+# Survive The News (USA)
+*://*.survivethenews.com/*
+
