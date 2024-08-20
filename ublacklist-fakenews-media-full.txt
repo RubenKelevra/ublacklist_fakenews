@@ -376,3 +376,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Brevard Sun (USA)
 *://*.brevardsun.com/*
 
+# Bridgeport Times (USA)
+*://*.bridgeporttimes.com/*
+
