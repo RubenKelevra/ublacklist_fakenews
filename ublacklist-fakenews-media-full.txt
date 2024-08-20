@@ -4258,3 +4258,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Toutiao (China)
 *://*.toutiao.com/*
 
+# Townhall (USA)
+*://*.twitter.com/townhallcom*
+*://*.x.com/townhallcom*
+*://*.facebook.com/townhallcom*
+*://*.townhall.com/*
+
