@@ -1638,3 +1638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Independent Sentinel (USA)
 *://*.independentsentinel.com/*
 
+# Indiana Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
