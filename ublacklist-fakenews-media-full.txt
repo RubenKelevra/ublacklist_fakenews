@@ -2667,3 +2667,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Pima News (USA)
 *://*.northpimanews.com/*
 
+# North Pinellas News (USA)
+*://*.auburntimes.com/*
+
