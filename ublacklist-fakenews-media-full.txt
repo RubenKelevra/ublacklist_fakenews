@@ -1491,3 +1491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.hagmannreport.com/*
 *://*.hagmannpi.com/*
 
+# Hal Turner Radio Show (USA)
+*://*.halturnerradioshow.com/*
+
