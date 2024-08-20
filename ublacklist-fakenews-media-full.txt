@@ -3780,3 +3780,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Fulton Today (USA)
 *://*.southfultontoday.com/*
 
+# South OC Times (USA)
+*://*.southoctimes.com/*
+
