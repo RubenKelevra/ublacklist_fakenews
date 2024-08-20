@@ -1073,3 +1073,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East San Diego News (USA)
 *://*.eastsandiegonews.com/*
 
+# East SBV Times (USA)
+*://*.eastsbvtimes.com/*
+
