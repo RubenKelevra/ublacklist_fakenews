@@ -3224,3 +3224,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rockingham Journal (USA)
 *://*.rockinghamjournal.com/*
 
+# Rockingham Times (USA)
+*://*.rockinghamtimes.com/*
+
