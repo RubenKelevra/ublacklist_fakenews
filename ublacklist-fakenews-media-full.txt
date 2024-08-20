@@ -1010,3 +1010,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Arizona News (USA)
 *://*.eastarizonanews.com/*
 
+# East Central Alabama News (USA)
+*://*.ecalabamanews.com/*
+
