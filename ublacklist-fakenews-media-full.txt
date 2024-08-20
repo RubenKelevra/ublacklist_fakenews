@@ -4007,3 +4007,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.thedcpatriot.com/*
 *://*.dcpatriot.com/*
 
+# The Desert Review (USA)
+*://*.thedesertreview.com/*
+
