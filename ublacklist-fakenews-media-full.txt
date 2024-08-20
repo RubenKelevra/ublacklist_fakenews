@@ -1145,3 +1145,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Elkhart Times (USA)
 *://*.elkharttimes.com/*
 
+# Emerald Coast Times (USA)
+*://*.emeraldcoasttimes.com/*
+
