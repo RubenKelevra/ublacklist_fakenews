@@ -2715,3 +2715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northwest Lake Times (USA)
 *://*.nwlaketimes.com/*
 
+# North Wake News (USA)
+*://*.northwakenews.com/*
+
