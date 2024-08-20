@@ -1049,3 +1049,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Louisville News (USA)
 *://*.eastlouisvillenews.com/*
 
+# East Michigan News (USA)
+*://*.eastmichigannews.com/*
+
