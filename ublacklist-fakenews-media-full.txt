@@ -707,3 +707,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Colorado Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Colorado Free Press (USA)
+*://*.coloradofreepress.com/*
+
