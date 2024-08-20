@@ -4210,3 +4210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The True Reporter (USA)
 *://*.thetruereporter.com/*
 
+# The Truth Voice (Unknown)
+*://*.thetruthvoice.net/*
+
