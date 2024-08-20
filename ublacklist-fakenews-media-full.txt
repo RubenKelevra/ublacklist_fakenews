@@ -960,3 +960,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DNyuz (Armenia)
 *://*.dnyuz.com/*
 
+# Doug Casey’s International Man (USA)
+*://*.internationalman.com/*
+
