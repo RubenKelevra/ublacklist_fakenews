@@ -4171,3 +4171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Right Scoop (Canada)
 *://*.therightscoop.com/*
 
+# The Right Stuff (USA)
+*://*.therightstuff.biz/*
+
