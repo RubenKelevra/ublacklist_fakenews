@@ -735,3 +735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Connecticut Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Connecticut Centinal (USA)
+*://*.connecticutcentinal.com/*
+
