@@ -689,3 +689,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CNS News (USA)
 *://*.mrctv.org/*
 
+# Coachella Today (USA)
+*://*.coachellatoday.com/*
+
