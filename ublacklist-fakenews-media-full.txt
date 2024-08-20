@@ -1247,3 +1247,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Flashout (Unknown)
 *://*.thecareerbd.com/*
 
+# Flex Mag (Macedonia)
+*://*.usafortrumponline.com/*
+
