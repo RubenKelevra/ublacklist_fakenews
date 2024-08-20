@@ -4573,3 +4573,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Hamilton News (USA)
 *://*.westhamiltonnews.com/*
 
+# West Hudson Valley News (USA)
+*://*.westhudvalleynews.com/*
+
