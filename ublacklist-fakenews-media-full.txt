@@ -656,3 +656,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Church Militant (USA)
 *://*.churchmilitant.com/*
 
+# Cincy Reporter (USA)
+*://*.cincyreporter.com/*
+
