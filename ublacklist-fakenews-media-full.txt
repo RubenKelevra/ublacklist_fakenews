@@ -1852,3 +1852,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Leading Report (USA)
 *://*.theleadingreport.com/*
 
+# Left Action (USA)
+*://*.leftaction.com/*
+
