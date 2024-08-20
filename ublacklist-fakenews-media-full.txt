@@ -4462,3 +4462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Warner Robins Today (USA)
 *://*.warnerrobinstoday.com/*
 
+# Warren-Clinton News (USA)
+*://*.warrenclintonnews.com/*
+
