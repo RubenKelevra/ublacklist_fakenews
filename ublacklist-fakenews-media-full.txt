@@ -2550,3 +2550,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Columbus News (USA)
 *://*.northcolumbusnews.com/*
 
+# North Cook News (USA)
+*://*.northcooknews.com/*
+
