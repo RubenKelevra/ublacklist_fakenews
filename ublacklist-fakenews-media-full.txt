@@ -4225,3 +4225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Washington Standard
 *://*.thewashingtonstandard.com/*
 
+# The Wisconsin Independent (USA)
+*://*.wisconsinindependent.com/*
+
