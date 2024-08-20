@@ -1241,3 +1241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # First in Freedom Daily (USA)
 *://*.firstinfreedomdaily.com/*
 
+# First State Times (USA)
+*://*.firststatetimes.com/*
+
