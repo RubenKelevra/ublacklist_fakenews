@@ -4411,3 +4411,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Valeurs Actuelles (France)
 *://*.valeursactuelles.com/*
 
+# Valley Gazette (USA)
+*://*.valleygazette.org/*
+
