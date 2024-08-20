@@ -425,3 +425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19colchicine.com (Unknown)
 *://*.c19colchicine.com/*
 
+# C19curcumin.com (Unknown)
+*://*.c19curcumin.com/*
+
