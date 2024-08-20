@@ -791,3 +791,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Constative (Unknown)
 *://*.constative.com/*
 
+# Constitution State News (USA)
+*://*.constitutionstatenews.com/*
+
