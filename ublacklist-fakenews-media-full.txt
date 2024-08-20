@@ -869,3 +869,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Veracity (USA)
 *://*.dailyveracity.com/*
 
+# Darntons (USA)
+*://*.darntons.com/*
+
