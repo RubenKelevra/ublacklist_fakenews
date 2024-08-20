@@ -2054,3 +2054,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Metric Media (USA)
 *://*.metricmedianews.com/*
 
+# Metro East Sun (USA)
+*://*.metroeastsun.com/*
+
