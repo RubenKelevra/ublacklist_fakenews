@@ -3428,3 +3428,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE LA Times (USA)
 *://*.selatimes.com/*
 
+# SE Minnesota News (USA)
+*://*.seminnesotanews.com/*
+
