@@ -137,3 +137,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American People Daily (USA)
 *://*.americanpeopledaily.com/*
 
+# American Pharmacy News (USA)
+*://*.americanpharmacynews.com/*
+
