@@ -43,3 +43,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Akron Reporter (USA)
 *://*.akronreporter.com/*
 
+# Alabama Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
