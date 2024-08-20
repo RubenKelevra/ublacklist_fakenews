@@ -4570,3 +4570,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Essex News (USA)
 *://*.westessexnews.com/*
 
+# West Hamilton News (USA)
+*://*.westhamiltonnews.com/*
+
