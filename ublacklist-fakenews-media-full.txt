@@ -3759,3 +3759,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Cloud Sun (USA)
 *://*.stcloudsun.com/*
 
+# Steadfast and Loyal (USA)
+*://*.steadfastandloyal.com/*
+
