@@ -602,3 +602,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Missouri News (USA)
 *://*.centralmissourinews.com/*
 
+# Central Montana Times (USA)
+*://*.centralmontanatimes.com/*
+
