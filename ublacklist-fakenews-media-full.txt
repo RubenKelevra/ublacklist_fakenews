@@ -1985,3 +1985,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Manila Business Daily (USA)
 *://*.manilabusinessdaily.com/*
 
+# Mansfield Times (USA)
+*://*.mansfieldtimes.com/*
+
