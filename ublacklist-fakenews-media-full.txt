@@ -24,3 +24,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # ABQ Times (USA)
 *://*.abqtimes.com/*
 
+# Action News 3 (Unknown)
+*://*.actionnews3.com/*
+
