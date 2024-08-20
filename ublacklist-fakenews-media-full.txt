@@ -4294,3 +4294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # True Viral News (Russia)
 *://*.trueviralnews.com/*
 
+# Tulsa Standard (USA)
+*://*.tulsastandard.com/*
+
