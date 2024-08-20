@@ -106,3 +106,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Conservative Movement (USA)
 *://*.americanconservativemovement.com/*
 
+# American Family Association (USA)
+*://*.afa.net/*
+
