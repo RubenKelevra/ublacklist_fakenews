@@ -970,3 +970,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.download.news/*
 *://*.downloaddotnews.substack.com/*
 
+# Down River Today (USA)
+*://*.downrivertoday.com/*
+
