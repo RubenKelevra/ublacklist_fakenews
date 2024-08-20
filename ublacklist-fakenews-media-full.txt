@@ -2866,3 +2866,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Origo (Hungary)
 *://*.origo.hu/*
 
+# Orinoco Tribune (Venezuela)
+*://*.orinocotribune.com/*
+
