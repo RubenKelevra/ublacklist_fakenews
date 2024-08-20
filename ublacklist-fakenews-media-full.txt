@@ -2341,3 +2341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Cali News (USA)
 *://*.necalinews.com/*
 
+# NE Colorado News (USA)
+*://*.necoloradonews.com/*
+
