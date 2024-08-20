@@ -3305,3 +3305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sangamon Sun (USA)
 *://*.sangamonsun.com/*
 
+# San Joaquin Times (USA)
+*://*.sanjoaquintimes.com/*
+
