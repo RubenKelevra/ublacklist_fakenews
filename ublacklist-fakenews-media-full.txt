@@ -1837,3 +1837,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Last Frontier News (USA)
 *://*.lastfrontiernews.com/*
 
+# Las Vegas City Wire (USA)
+*://*.lasvegascitywire.com/*
+
