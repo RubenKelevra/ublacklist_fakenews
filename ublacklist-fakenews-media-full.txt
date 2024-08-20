@@ -4150,3 +4150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Published Reporter (USA)
 *://*.publishedreporter.com/*
 
+# The Raging Patriot (USA)
+*://*.theragingpatriot.org/*
+
