@@ -3961,3 +3961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Beltway Report (USA)
 *://*.thebeltwayreport.com/*
 
+# The Blacksphere (USA)
+*://*.theblacksphere.net/*
+
