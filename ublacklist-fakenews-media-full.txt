@@ -1025,3 +1025,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Hillsborough News (USA)
 *://*.easthillsboroughnews.com/*
 
+# East Hudson Valley News (USA)
+*://*.easthudvalleynews.com/*
+
