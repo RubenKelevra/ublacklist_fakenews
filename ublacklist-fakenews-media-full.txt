@@ -4300,3 +4300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Trumball News (USA)
 *://*.trumballnews.com/*
 
+# Trump.News (USA)
+*://*.trump.news/*
+
