@@ -1313,3 +1313,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Frontpage Magazine (USA)
 *://*.frontpagemag.com/*
 
+# FrontPage NewsPaper (USA)
+*://*.frontpagenewspaper.com/*
+
