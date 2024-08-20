@@ -2968,3 +2968,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PHX Reporter (USA)
 *://*.phxreporter.com/*
 
+# Piedmont Tribune (USA)
+*://*.piedmonttribune.com/*
+
