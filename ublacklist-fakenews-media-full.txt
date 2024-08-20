@@ -4732,3 +4732,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # X Strategies (USA)
 *://*.xstrategies.com/*
 
+# XYZ.net.au (Australia)
+*://*.xyz.net.au/*
+
