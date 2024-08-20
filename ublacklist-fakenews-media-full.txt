@@ -2353,3 +2353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Franklin News (USA)
 *://*.nefranklinnews.com/*
 
+# NE Indiana News (USA)
+*://*.neindiananews.com/*
+
