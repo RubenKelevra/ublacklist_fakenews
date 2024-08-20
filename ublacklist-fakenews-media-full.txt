@@ -2989,3 +2989,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pine State News (USA)
 *://*.pinestatenews.com/*
 
+# PJ Media (USA)
+*://*.pjmedia.com/*
+
