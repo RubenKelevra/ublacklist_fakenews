@@ -835,3 +835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Current Science Daily (USA)
 *://*.currentsciencedaily.com/*
 
+# Dagospia (Italy)
+*://*.dagospia.com/*
+
