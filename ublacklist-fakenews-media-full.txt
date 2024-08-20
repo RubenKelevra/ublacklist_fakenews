@@ -3320,3 +3320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Santa Clara Today (USA)
 *://*.santaclaratoday.com/*
 
+# Santa Cruz Standard (USA)
+*://*.santacruzstandard.com/*
+
