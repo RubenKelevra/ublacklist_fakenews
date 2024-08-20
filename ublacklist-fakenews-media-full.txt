@@ -2809,3 +2809,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Valley Times (USA)
 *://*.nwvalleytimes.com/*
 
+# NYC Gazette (USA)
+*://*.nycgazette.com/*
+
