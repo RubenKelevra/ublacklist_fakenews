@@ -4372,3 +4372,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Unity News Network (UK)
 *://*.unitynewsnetwork.co.uk/*
 
+# Unmuzzled News (USA)
+*://*.unmuzzlednews.com/*
+
