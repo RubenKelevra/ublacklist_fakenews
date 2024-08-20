@@ -2223,3 +2223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Muncie (USA)
 *://*.munciereporter.com/*
 
+# Muskegon Sun (USA)
+*://*.muskegonsun.com/*
+
