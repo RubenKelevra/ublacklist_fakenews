@@ -3823,3 +3823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sumter Times (USA)
 *://*.auburntimes.com/*
 
+# Sunflower State News (USA)
+*://*.sunflowerstatenews.com/*
+
