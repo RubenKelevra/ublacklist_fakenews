@@ -2815,3 +2815,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Trending Politics (USA)
 *://*.trendingpolitics.com/*
 
+# Oakland City Wire (USA)
+*://*.oaklandcitywire.com/*
+
