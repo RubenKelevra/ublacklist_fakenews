@@ -4651,3 +4651,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WhatRegistrater.com (Unknown)
 *://*.whatregistrater.com/*
 
+# What’s the Harm (Unknown)
+*://*.whatstheharm.net/*
+
