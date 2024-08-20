@@ -2099,3 +2099,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michoacan Post (Unknown)
 *://*.michoacanpost.com/*
 
+# Mid Coast Times (USA)
+*://*.midcoasttimes.com/*
+
