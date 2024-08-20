@@ -3028,3 +3028,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Polk Times (USA)
 *://*.polktimes.com/*
 
+# Pomona Valley News (USA)
+*://*.pomonavalleynews.com/*
+
