@@ -524,3 +524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Capital District Times (USA)
 *://*.capitaldistricttimes.com/*
 
+# Capitol News (USA)
+*://*.micapitolnews.com/*
+
