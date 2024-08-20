@@ -923,3 +923,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Democratic National Committee (USA)
 *://*.democrats.org/*
 
+# Denver City Wire (USA)
+*://*.denvercitywire.com/*
+
