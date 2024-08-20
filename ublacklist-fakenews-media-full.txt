@@ -3895,3 +3895,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Riverside News (USA)
 *://*.swriversidenews.com/*
 
+# SW Valley Times (USA)
+*://*.swvalleytimes.com/*
+
