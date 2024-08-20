@@ -67,3 +67,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Al Manar (Lebanon)
 *://*.english.almanar.com.lb/*
 
+# Al Mayadeen (Lebanon)
+*://*.english.almayadeen.net/*
+
