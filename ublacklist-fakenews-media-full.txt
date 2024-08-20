@@ -1187,3 +1187,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fairfield Reporter (USA)
 *://*.fairfieldreporter.com/*
 
+# Fairport Educational Alliance (USA)
+*://*.fairporteducationalalliance.org/*
+
