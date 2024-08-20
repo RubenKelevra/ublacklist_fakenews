@@ -2317,3 +2317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Oklahoma News (USA)
 *://*.ncoklahomanews.com/*
 
+# NC Union News (USA)
+*://*.ncunionnews.com/*
+
