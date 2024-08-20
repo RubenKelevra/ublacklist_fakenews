@@ -4486,3 +4486,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Washoe News (USA)
 *://*.washoenews.com/*
 
+# Waterford Today (USA)
+*://*.waterfordtoday.com/*
+
