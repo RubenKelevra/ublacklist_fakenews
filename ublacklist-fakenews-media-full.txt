@@ -4031,3 +4031,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Free Telegraph (USA)
 *://*.freetelegraph.com/*
 
+# The Frisky (Serbia)
+*://*.thefrisky.com/*
+
