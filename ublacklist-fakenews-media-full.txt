@@ -2622,3 +2622,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Jefferson Country News (USA)
 *://*.northjeffconews.com/*
 
+# North Kent News (USA)
+*://*.northkentnews.com/*
+
