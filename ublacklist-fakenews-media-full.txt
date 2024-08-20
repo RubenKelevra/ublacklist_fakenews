@@ -1497,3 +1497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hannity.com (USA)
 *://*.hannity.com/*
 
+# Harford News (USA)
+*://*.harfordnews.com/*
+
