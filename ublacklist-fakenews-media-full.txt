@@ -754,3 +754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Choice Campaign (USA)
 *://*.conservativechoicecampaign.com/*
 
+# Conservative Daily News (USA)
+*://*.conservativedailynews.com/*
+
