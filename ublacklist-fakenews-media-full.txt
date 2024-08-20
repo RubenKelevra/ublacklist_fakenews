@@ -536,3 +536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Carbondale Reporter (USA)
 *://*.carbondalereporter.com/*
 
+# Cardinal & Pine (USA)
+*://*.cardinalpine.com/*
+
