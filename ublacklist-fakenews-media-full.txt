@@ -4444,3 +4444,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Virginia Dogwood (USA)
 *://*.vadogwood.com/*
 
+# Virginia Star (USA)
+*://*.thevirginiastar.com/*
+
