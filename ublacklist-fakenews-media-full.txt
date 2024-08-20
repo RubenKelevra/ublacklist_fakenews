@@ -1521,3 +1521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Henderson Times (USA)
 *://*.hendersontimes.org/*
 
+# Here Is The Evidence (UK)
+*://*.hereistheevidence.com/*
+
