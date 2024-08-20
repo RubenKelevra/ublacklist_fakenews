@@ -1919,3 +1919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Little Apple Times (USA)
 *://*.littleappletimes.com/*
 
+# Livingston Today (USA)
+*://*.livingstontoday.com/*
+
