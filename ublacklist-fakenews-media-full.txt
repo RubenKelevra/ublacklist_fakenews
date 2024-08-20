@@ -203,3 +203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Archaeology World (Unknown)
 *://*.archaeology-world.com/*
 
+# Arizona Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
