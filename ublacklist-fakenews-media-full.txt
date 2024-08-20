@@ -2896,3 +2896,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Panama City Reporter (USA)
 *://*.panamacityreporter.com/*
 
+# Parler (USA)
+*://*.parler.com/*
+
