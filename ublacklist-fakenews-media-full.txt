@@ -2003,3 +2003,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Massachusetts Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Mat-Su Times (USA)
+*://*.matsutimes.com/*
+
