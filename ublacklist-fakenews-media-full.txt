@@ -665,3 +665,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Citizens Journal (USA)
 *://*.citizensjournal.us/*
 
+# Clarion Project (USA)
+*://*.clarionproject.org/*
+
