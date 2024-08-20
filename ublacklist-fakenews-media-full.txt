@@ -2800,3 +2800,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Ohio Times (USA)
 *://*.nwohiotimes.com/*
 
+# NW Oklahoma News (USA)
+*://*.nwoklahomanews.com/*
+
