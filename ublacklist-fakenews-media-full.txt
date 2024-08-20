@@ -757,3 +757,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Daily News (USA)
 *://*.conservativedailynews.com/*
 
+# Conservative Firing Line (USA)
+*://*.conservativefiringline.com/*
+
