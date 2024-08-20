@@ -1533,3 +1533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hickory Sun (USA)
 *://*.hickorysun.com/*
 
+# Hidalgo Daily Post (Unknown)
+*://*.hidalgodailypost.com/*
+
