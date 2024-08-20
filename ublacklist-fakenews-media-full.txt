@@ -1385,3 +1385,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gingrich 360 (USA)
 *://*.gingrich360.com/*
 
+# GiveSendGo (USA)
+*://*.givesendgo.com/*
+
