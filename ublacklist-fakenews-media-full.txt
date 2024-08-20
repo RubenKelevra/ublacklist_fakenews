@@ -3218,3 +3218,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rochester Reporter (USA)
 *://*.rochesterreporter.com/*
 
+# Rockford Sun (USA)
+*://*.rockfordsun.com/*
+
