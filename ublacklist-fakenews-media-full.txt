@@ -1593,3 +1593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hutch Today (USA)
 *://*.hutchtoday.com/*
 
+# IBX News (USA)
+*://*.ibxnews.com/*
+
