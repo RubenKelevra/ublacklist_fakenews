@@ -4399,3 +4399,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # USA Supreme (Unknown)
 *://*.usasupreme.com/*
 
+# USAnetwork.info (Unknown)
+*://*.usanetwork.info/*
+
