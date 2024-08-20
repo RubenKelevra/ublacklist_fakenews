@@ -813,3 +813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Council of Conservative Citizens (USA)
 *://*.conservative-headlines.org/*
 
+# CovertAction Magazine (USA)
+*://*.covertactionmagazine.com/*
+
