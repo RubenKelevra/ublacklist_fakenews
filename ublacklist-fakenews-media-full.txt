@@ -2042,3 +2042,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MercoPress (Uruguay)
 *://*.en.mercopress.com/*
 
+# Merrimack Valley News (USA)
+*://*.merrimackvalleynews.com/*
+
