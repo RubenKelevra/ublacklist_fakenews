@@ -3233,3 +3233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rockland Reporter (USA)
 *://*.rocklandreporter.com/*
 
+# Rock Valley Times (USA)
+*://*.rockvalleytimes.com/*
+
