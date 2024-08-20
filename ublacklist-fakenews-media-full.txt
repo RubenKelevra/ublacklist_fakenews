@@ -76,3 +76,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Alpha News (USA)
 *://*.alphanews.org/*
 
+# Altoona Times (USA)
+*://*.altoonatimes.com/*
+
