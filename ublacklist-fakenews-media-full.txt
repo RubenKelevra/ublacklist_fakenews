@@ -361,3 +361,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Breaking911 (USA)
 *://*.breaking911.com/*
 
+# Breaking Christian News (USA)
+*://*.breakingchristiannews.com/*
+
