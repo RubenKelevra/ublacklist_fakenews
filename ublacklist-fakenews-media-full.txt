@@ -4351,3 +4351,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Two Rivers News (USA)
 *://*.tworiversnews.org/*
 
+# Ukraina.ru (Russia)
+*://*.ukraina.ru/*
+
