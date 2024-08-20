@@ -73,3 +73,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Aloha State News (USA)
 *://*.alohastatenews.com/*
 
+# Alpha News (USA)
+*://*.alphanews.org/*
+
