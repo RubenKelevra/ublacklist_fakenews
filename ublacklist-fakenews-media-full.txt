@@ -3047,3 +3047,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Portland Courant (USA)
 *://*.portlandcourant.com/*
 
+# Portland Maine News (USA)
+*://*.portlandmainenews.com/*
+
