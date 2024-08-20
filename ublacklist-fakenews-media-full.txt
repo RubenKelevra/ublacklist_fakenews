@@ -620,3 +620,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Pennsylvania Times (USA)
 *://*.centralpatimes.com/*
 
+# Central STL News (USA)
+*://*.centralstlnews.com/*
+
