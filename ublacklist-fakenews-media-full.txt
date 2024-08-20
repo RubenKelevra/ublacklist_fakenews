@@ -1196,3 +1196,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Family Survival Headlines (USA)
 *://*.familysurvivalheadlines.com/*
 
+# Fargo Standard (USA)
+*://*.fargostandard.com/*
+
