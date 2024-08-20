@@ -3491,3 +3491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sioux City Times (USA)
 *://*.siouxcitytimes.com/*
 
+# Skeptic Ink (Unknown)
+*://*.skepticink.com/*
+
