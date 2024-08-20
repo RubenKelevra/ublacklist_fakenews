@@ -294,3 +294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Before it’s News (USA)
 *://*.beforeitsnews.com/*
 
+# Beijing Review (China)
+*://*.bjreview.com/*
+
