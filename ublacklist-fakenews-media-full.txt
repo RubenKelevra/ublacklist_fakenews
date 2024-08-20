@@ -409,3 +409,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BuzzLoving (USA)
 *://*.buzzloving.com/*
 
+# ByoBlu (Italy)
+*://*.byoblu.com/*
+
