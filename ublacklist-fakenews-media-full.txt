@@ -2247,3 +2247,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nassau Standard (USA)
 *://*.nassaustandard.com/*
 
+# Nature Coast Times (USA)
+*://*.naturecoasttimes.com/*
+
