@@ -3608,3 +3608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Iowa News (USA)
 *://*.southiowanews.com/*
 
+# South Jefferson County News (USA)
+*://*.southjeffconews.com/*
+
