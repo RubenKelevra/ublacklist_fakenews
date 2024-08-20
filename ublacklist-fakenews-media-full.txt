@@ -3129,3 +3129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Real Science (Unknown)
 *://*.goodsciencing.com/*
 
+# Redacted (Portugal)
+*://*.redacted.inc/*
+
