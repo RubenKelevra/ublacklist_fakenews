@@ -2299,3 +2299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Indiana News (USA)
 *://*.ncindiananews.com/*
 
+# NC Kentucky News (USA)
+*://*.nckentuckynews.com/*
+
