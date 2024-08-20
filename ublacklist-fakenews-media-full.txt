@@ -3044,3 +3044,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Portage Times (USA)
 *://*.portagetimes.com/*
 
+# Portland Courant (USA)
+*://*.portlandcourant.com/*
+
