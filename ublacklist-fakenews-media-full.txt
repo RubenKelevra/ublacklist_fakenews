@@ -2670,3 +2670,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Pinellas News (USA)
 *://*.auburntimes.com/*
 
+# North Raleigh Today (USA)
+*://*.northraleightoday.com/*
+
