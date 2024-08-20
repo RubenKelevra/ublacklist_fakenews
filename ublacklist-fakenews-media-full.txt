@@ -1804,3 +1804,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lafayette Reporter (USA)
 *://*.lafayettereporter.com/*
 
+# Lafayette Times (USA)
+*://*.lafayettetimes.com/*
+
