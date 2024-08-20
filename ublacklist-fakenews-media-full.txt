@@ -1575,3 +1575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Housatonic Valley News (USA)
 *://*.housatonicvalleynews.com/*
 
+# Howard County News (USA)
+*://*.howardconews.com/*
+
