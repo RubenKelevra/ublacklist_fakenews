@@ -4441,3 +4441,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Viral Cocaine (Unknown)
 *://*.viralcocaine.com/*
 
+# Virginia Dogwood (USA)
+*://*.vadogwood.com/*
+
