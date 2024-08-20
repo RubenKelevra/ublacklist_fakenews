@@ -2565,3 +2565,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northeast Herald (USA)
 *://*.northeastherald.org/*
 
+# Northeast Montana News (USA)
+*://*.nemontananews.com/*
+
