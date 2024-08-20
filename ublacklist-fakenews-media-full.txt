@@ -1433,3 +1433,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Granite Grok (USA)
 *://*.granitegrok.com/*
 
+# Granite Post (USA)
+*://*.granitepostnews.com/*
+
