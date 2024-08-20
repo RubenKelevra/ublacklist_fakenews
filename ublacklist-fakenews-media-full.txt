@@ -2195,3 +2195,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monterrey Daily Post (Unknown)
 *://*.monterreydailypost.com/*
 
+# Montgomery News (USA)
+*://*.montgomerymdnews.com/*
+
