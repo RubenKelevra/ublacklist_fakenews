@@ -1361,3 +1361,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Geology In (USA)
 *://*.geologyin.com/*
 
+# Georgia Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
