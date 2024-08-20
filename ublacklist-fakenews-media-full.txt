@@ -3955,3 +3955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Angry Patriot (Unknown)
 *://*.angrypatriotmovement.com/*
 
+# The Bearded Patriot (USA)
+*://*.thebeardedpatriot.com/*
+
