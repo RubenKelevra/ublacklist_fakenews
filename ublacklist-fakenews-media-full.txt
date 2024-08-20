@@ -2571,3 +2571,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Cincy News (USA)
 *://*.northcincynews.com/*
 
+# Northern Clark County Herald (USA)
+*://*.northernclarkcountyherald.com/*
+
