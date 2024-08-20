@@ -3774,3 +3774,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Paul Reporter (USA)
 *://*.stpaulreporter.com/*
 
+# South Birmingham Times (USA)
+*://*.southbirminghamtimes.com/*
+
