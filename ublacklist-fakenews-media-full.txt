@@ -3236,3 +3236,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rock Valley Times (USA)
 *://*.rockvalleytimes.com/*
 
+# Rocky Mount Today (USA)
+*://*.rockymounttoday.com/*
+
