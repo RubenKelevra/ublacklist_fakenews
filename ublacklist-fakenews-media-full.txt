@@ -15,3 +15,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # 24Jours.com (Cameroon)
 *://*.24jours.com/*
 
+# 2020 Conservative (Unknown)
+*://*.2020conservative.com/*
+
