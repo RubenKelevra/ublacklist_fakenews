@@ -3356,3 +3356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SC Connecticut News (USA)
 *://*.scconnnews.com/*
 
+# SC Kansas News (USA)
+*://*.sckansasnews.com/*
+
