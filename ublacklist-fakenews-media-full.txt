@@ -2983,3 +2983,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pinehurst Today (USA)
 *://*.pinehursttoday.com/*
 
+# Pinellas Times (USA)
+*://*.pinellastimes.com/*
+
