@@ -3056,3 +3056,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Prairie State Wire (USA)
 *://*.prairiestatewire.com/*
 
+# Pravda Report (Russia)
+*://*.pravdareport.com/*
+*://*.pravda.ru/*
+
