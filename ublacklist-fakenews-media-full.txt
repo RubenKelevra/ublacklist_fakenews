@@ -1729,3 +1729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # JordanBPeterson.com (USA)
 *://*.jordanbpeterson.com/*
 
+# Judicial Watch (USA)
+*://*.judicialwatch.org/*
+
