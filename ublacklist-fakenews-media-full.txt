@@ -1503,3 +1503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hartford Reporter (USA)
 *://*.hartfordreporter.com/*
 
+# Hawaii Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
