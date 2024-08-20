@@ -1530,3 +1530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Heartland Institute (USA)
 *://*.heartland.org/*
 
+# Hickory Sun (USA)
+*://*.hickorysun.com/*
+
