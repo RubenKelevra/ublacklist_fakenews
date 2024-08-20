@@ -4162,3 +4162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Remnant Newspaper (USA)
 *://*.remnantnewspaper.com/*
 
+# The RFAngle (USA)
+*://*.rfangle.com/*
+
