@@ -647,3 +647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # China Global Television Network (China)
 *://*.cgtn.com/*
 
+# Christian Action Network (USA)
+*://*.christianaction.org/*
+
