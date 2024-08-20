@@ -4456,3 +4456,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WallBuilders (USA)
 *://*.wallbuilders.com/*
 
+# War On Fakes (Russia)
+*://*.waronfakes.com/*
+
