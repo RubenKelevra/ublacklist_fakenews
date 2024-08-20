@@ -3723,3 +3723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.sputniknews.com/*
 *://*.sputniknews.africa/*
 
+# Sputnik News Agency (Russia)
+*://*.snanews.de/*
+
