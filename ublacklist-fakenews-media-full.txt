@@ -1882,3 +1882,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty News (USA)
 *://*.libertynews.com/*
 
+# LibertyTalk.FM (USA)
+*://*.libertytalk.fm/*
+
