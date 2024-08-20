@@ -3227,3 +3227,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rockingham Times (USA)
 *://*.rockinghamtimes.com/*
 
+# Rock Island Today (USA)
+*://*.rockislandtoday.com/*
+
