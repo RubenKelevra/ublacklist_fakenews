@@ -2431,3 +2431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News18 (India)
 *://*.news18.com/*
 
+# News Addicts (USA)
+*://*.newsaddicts.com/*
+
