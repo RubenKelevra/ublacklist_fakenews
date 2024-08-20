@@ -358,3 +358,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Branson Times (USA)
 *://*.bransontimes.com/*
 
+# Breaking911 (USA)
+*://*.breaking911.com/*
+
