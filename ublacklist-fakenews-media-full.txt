@@ -3299,3 +3299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sandoval News (USA)
 *://*.sandovalnews.com/*
 
+# San Francisco Sun (USA)
+*://*.sanfransun.com/*
+
