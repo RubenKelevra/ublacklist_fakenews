@@ -1304,3 +1304,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fresh Off The Press (USA)
 *://*.freshoffthepress.org/*
 
+# Fresno Leader (USA)
+*://*.fresnoleader.com/*
+
