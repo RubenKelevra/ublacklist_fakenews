@@ -3877,3 +3877,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Louisiana News (USA)
 *://*.swlouisiananews.com/*
 
+# SW Minnesota Today (USA)
+*://*.swminnesotatoday.com/*
+
