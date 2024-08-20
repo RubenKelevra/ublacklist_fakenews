@@ -3230,3 +3230,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rock Island Today (USA)
 *://*.rockislandtoday.com/*
 
+# Rockland Reporter (USA)
+*://*.rocklandreporter.com/*
+
