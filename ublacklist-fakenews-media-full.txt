@@ -1979,3 +1979,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Make America Great Again Inc (USA)
 *://*.magapac.com/*
 
+# Manatee Review (USA)
+*://*.manateereview.com/*
+
