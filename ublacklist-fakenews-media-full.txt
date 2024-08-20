@@ -1572,3 +1572,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Houma Thibodaux News (USA)
 *://*.houmathibodauxnews.com/*
 
+# Housatonic Valley News (USA)
+*://*.housatonicvalleynews.com/*
+
