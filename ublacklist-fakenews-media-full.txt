@@ -1620,3 +1620,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Illicit Info (USA)
 *://*.illicitinfo.com/*
 
+# Illinois Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
