@@ -222,3 +222,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Aroostook News (USA)
 *://*.aroostooknews.com/*
 
+# Агрегатор 24СМИ (Russia)
+*://*.ex.24smi.info/*
+
