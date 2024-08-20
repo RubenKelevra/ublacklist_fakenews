@@ -2413,3 +2413,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newark Reporter (USA)
 *://*.newarkreporter.com/*
 
+# New Discourses (USA)
+*://*.newdiscourses.com/*
+
