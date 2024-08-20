@@ -3016,3 +3016,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Political Insider (USA)
 *://*.thepoliticalinsider.com/*
 
+# Politifact News (Unkown)
+*://*.politifact.news/*
+
