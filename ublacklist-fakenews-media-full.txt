@@ -497,3 +497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Caldron Pool (Australia)
 *://*.caldronpool.com/*
 
+# California Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
