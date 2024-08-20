@@ -4132,3 +4132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Patriot Nation (USA)
 *://*.thepatriotnation.net/*
 
+# The Patriot Nurse (USA)
+*://*.thepatriotnurse.com/*
+
