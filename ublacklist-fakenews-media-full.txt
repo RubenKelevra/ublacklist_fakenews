@@ -1545,3 +1545,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hillsborough Sun (USA)
 *://*.hillsboroughsun.com/*
 
+# Hindustan Times (India)
+*://*.hindustantimes.com/*
+
