@@ -3901,3 +3901,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Vegas News (USA)
 *://*.swvegasnews.com/*
 
+# Syracuse Sun (USA)
+*://*.syracusesun.com/*
+
