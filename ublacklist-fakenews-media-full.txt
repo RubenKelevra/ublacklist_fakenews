@@ -4534,3 +4534,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Atlanta News (USA)
 *://*.westatlantanews.com/*
 
+# We The People Daily (USA)
+*://*.wethepeopledaily.com/*
+
