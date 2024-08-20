@@ -3034,3 +3034,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pontiac Times (USA)
 *://*.pontiactimes.com/*
 
+# Population Research Institute (USA)
+*://*.pop.org/*
+
