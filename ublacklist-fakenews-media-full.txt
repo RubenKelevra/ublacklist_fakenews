@@ -4768,3 +4768,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yuma Standard (USA)
 *://*.yumastandard.com/*
 
+# Z3 News (USA)
+*://*.z3news.com/*
+
