@@ -3596,3 +3596,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Guilford News (USA)
 *://*.southguilfordnews.com/*
 
+# South Gwinnett News (USA)
+*://*.southgwinnettnews.com/*
+
