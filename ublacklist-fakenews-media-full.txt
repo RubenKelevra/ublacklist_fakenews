@@ -4059,3 +4059,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Keystone (USA)
 *://*.keystonenewsroom.com/*
 
+# The Last American Vagabond (USA)
+*://*.thelastamericanvagabond.com/*
+
