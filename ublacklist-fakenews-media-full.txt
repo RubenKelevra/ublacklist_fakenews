@@ -1484,3 +1484,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gulf News (United Arab Emirates)
 *://*.gulfnews.com/*
 
+# Gunster News (Unknown)
+*://*.gunsternews.com/*
+
