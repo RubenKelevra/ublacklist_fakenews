@@ -2048,3 +2048,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mesa Times (USA)
 *://*.mesatimes.org/*
 
+# Metapedia (Sweden)
+*://*.en.metapedia.org/*
+
