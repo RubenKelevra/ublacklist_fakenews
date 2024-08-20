@@ -3254,3 +3254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rowan News (USA)
 *://*.rowannews.com/*
 
+# RT DE (Russia)
+*://*.de.rt.com/*
+
