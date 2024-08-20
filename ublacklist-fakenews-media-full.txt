@@ -4678,3 +4678,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wisevoter (USA)
 *://*.wisevoter.com/*
 
+# Witherspoon Institute (USA)
+*://*.thepublicdiscourse.com/*
+
