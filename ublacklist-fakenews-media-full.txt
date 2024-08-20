@@ -2480,3 +2480,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newsmax (USA)
 *://*.newsmax.com/*
 
+# Newsner (Sweden)
+*://*.en.newsner.com/*
+
