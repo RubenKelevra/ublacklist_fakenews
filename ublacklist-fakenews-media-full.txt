@@ -3245,3 +3245,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rogue Review (USA)
 *://*.roguereview.net/*
 
+# Rome Reporter (USA)
+*://*.romereporter.com/*
+
