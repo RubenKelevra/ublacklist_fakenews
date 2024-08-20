@@ -134,3 +134,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Patriot Daily (USA)
 *://*.americanpatriotdaily.com/*
 
+# American People Daily (USA)
+*://*.americanpeopledaily.com/*
+
