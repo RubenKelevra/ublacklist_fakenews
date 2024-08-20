@@ -4216,3 +4216,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Union Journal (Unknown)
 *://*.theunionjournal.com/*
 
+# The Unz Review (USA)
+*://*.unz.com/*
+
