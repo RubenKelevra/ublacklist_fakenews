@@ -3200,3 +3200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Right Side Broadcasting Network (USA)
 *://*.rsbnetwork.com/*
 
+# Riposte Laique (France)
+*://*.ripostelaique.com/*
+
