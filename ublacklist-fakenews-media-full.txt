@@ -4648,3 +4648,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Whatfinger (USA)
 *://*.whatfinger.com/*
 
+# WhatRegistrater.com (Unknown)
+*://*.whatregistrater.com/*
+
