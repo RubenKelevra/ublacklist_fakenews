@@ -911,3 +911,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DeKalb Times (USA)
 *://*.dekalbtimes.com/*
 
+# Delaware Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
