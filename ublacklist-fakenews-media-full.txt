@@ -2266,3 +2266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # National Right to Life Committee (USA)
 *://*.nrlc.org/*
 
+# National Vanguard (USA)
+*://*.nationalvanguard.org/*
+
