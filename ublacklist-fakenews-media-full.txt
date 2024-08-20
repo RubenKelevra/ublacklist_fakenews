@@ -491,3 +491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cabarrus Today (USA)
 *://*.cabarrustoday.com/*
 
+# Caixin Global (China)
+*://*.caixinglobal.com/*
+
