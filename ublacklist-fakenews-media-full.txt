@@ -1774,3 +1774,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Key West Reporter (USA)
 *://*.keywestreporter.com/*
 
+# Kings County Times (USA)
+*://*.kingscountytimes.com/*
+
