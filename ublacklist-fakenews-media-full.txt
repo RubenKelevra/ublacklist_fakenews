@@ -686,3 +686,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cleveland Reporter (USA)
 *://*.clevelandreporter.com/*
 
+# CNS News (USA)
+*://*.mrctv.org/*
+
