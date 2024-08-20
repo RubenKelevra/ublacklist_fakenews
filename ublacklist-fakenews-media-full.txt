@@ -4348,3 +4348,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tuscarawas News (USA)
 *://*.tuscarawasnews.com/*
 
+# Two Rivers News (USA)
+*://*.tworiversnews.org/*
+
