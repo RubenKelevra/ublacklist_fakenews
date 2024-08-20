@@ -4489,3 +4489,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Waterford Today (USA)
 *://*.waterfordtoday.com/*
 
+# Waterloo Times (USA)
+*://*.waterlootimes.com/*
+
