@@ -1214,3 +1214,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fayetteville Today (USA)
 *://*.fayettevilletoday.com/*
 
+# FDA Health News (USA)
+*://*.fdahealthnews.com/*
+
