@@ -4270,3 +4270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Treasure Valley Times (USA)
 *://*.treasurevalleytimes.com/*
 
+# Trending Politics (USA)
+*://*.trendingpolitics.com/*
+
