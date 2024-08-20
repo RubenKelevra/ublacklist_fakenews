@@ -4723,3 +4723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wyandotte Times (USA)
 *://*.wyandottetimes.com/*
 
+# Xinhua English (China)
+*://*.news.cn/*
+
