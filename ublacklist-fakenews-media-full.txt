@@ -1418,3 +1418,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GOPUSA (USA)
 *://*.gopusa.com/*
 
+# Grand Canyon Times (USA)
+*://*.grandcanyontimes.com/*
+
