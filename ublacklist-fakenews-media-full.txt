@@ -1193,3 +1193,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Family Research Council (USA)
 *://*.frc.org/*
 
+# Family Survival Headlines (USA)
+*://*.familysurvivalheadlines.com/*
+
