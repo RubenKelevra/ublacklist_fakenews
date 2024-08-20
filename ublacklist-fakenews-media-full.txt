@@ -1346,3 +1346,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GB News UK (UK)
 *://*.gbnews.com/*
 
+# Geller Report (USA)
+*://*.gellerreport.com/*
+
