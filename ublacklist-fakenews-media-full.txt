@@ -2156,3 +2156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mississippi Gulf News (USA)
 *://*.msgulfnews.com/*
 
+# Missouri Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
