@@ -2180,3 +2180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monmouth Times (USA)
 *://*.monmouthtimes.com/*
 
+# Monroe NY News (USA)
+*://*.monroenynews.com/*
+
