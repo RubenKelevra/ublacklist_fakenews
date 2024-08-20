@@ -3413,3 +3413,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Indiana News (USA)
 *://*.seindiananews.com/*
 
+# SE Iowa News (USA)
+*://*.seiowanews.com/*
+
