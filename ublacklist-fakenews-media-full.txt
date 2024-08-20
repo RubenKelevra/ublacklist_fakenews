@@ -3964,3 +3964,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Blacksphere (USA)
 *://*.theblacksphere.net/*
 
+# The Blaze (USA)
+*://*.theblaze.com/*
+
