@@ -3810,3 +3810,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sturgis-Coldwater News (USA)
 *://*.sturgiscoldwaternews.com/*
 
+# Suffolk Reporter (USA)
+*://*.suffolkreporter.com/*
+
