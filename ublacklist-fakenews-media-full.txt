@@ -3323,3 +3323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Santa Cruz Standard (USA)
 *://*.santacruzstandard.com/*
 
+# San Mateo Sun (USA)
+*://*.sanmateosun.com/*
+
