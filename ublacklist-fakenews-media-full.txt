@@ -1043,3 +1043,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Lake Norman News (USA)
 *://*.eastlakenormannews.com/*
 
+# East Little Rock Times (USA)
+*://*.eastlittlerocktimes.com/*
+
