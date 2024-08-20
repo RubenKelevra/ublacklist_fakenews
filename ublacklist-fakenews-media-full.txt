@@ -2737,3 +2737,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NPR.News (USA)
 *://*.npr.news/*
 
+# NRL News Today (USA)
+*://*.nationalrighttolifenews.org/*
+
