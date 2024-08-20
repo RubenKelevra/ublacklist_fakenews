@@ -1647,3 +1647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Information Liberation (USA)
 *://*.informationliberation.com/*
 
+# Informer (Serbia)
+*://*.informer.rs/*
+
