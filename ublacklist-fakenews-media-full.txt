@@ -3287,3 +3287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Salem News Wire (USA)
 *://*.salemnewswire.com/*
 
+# San Cristobal Post (Unknown)
+*://*.sancristobalpost.com/*
+
