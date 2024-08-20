@@ -4043,3 +4043,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Hayride (USA)
 *://*.thehayride.com/*
 
+# The Horn News (USA)
+*://*.thehornnews.com/*
+
