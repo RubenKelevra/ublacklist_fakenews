@@ -58,3 +58,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Al Bawaba (Jordan)
 *://*.albawaba.com/*
 
+# All News Pipeline (USA)
+*://*.allnewspipeline.com/*
+
