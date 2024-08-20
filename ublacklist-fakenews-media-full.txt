@@ -1076,3 +1076,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East SBV Times (USA)
 *://*.eastsbvtimes.com/*
 
+# East SFV Today (USA)
+*://*.eastsfvtoday.com/*
+
