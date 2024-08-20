@@ -2117,3 +2117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mid Massachusetts News (USA)
 *://*.midmassnews.com/*
 
+# Mid Michigan Standard (USA)
+*://*.midmichiganstd.com/*
+
