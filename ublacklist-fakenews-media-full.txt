@@ -2706,3 +2706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Vegas Times (USA)
 *://*.northvegastimes.com/*
 
+# Northwest Montana News (USA)
+*://*.nwmontananews.com/*
+
