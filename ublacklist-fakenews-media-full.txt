@@ -49,3 +49,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Alaska Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Al Arabiya (Saudi Arabia)
+*://*.english.alarabiya.net/*
+
