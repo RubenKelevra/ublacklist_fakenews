@@ -1439,3 +1439,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Granma (Cuba)
 *://*.en.granma.cu/*
 
+# Great American Daily (USA)
+*://*.greatamericandaily.com/*
+
