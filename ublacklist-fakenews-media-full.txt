@@ -4123,3 +4123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Other 98% (USA)
 *://*.other98.com/*
 
+# The Patriotic Times (USA)
+*://*.thepatriotictimes.com/*
+
