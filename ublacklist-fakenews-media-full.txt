@@ -3581,3 +3581,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South DSM News (USA)
 *://*.southdsmnews.com/*
 
+# Southeast Montana News (USA)
+*://*.semontananews.com/*
+
