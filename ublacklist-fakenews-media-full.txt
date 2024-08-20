@@ -2824,3 +2824,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Oaxaca Post (Unknown)
 *://*.theoaxacapost.com/*
 
+# Objectivist (USA)
+*://*.objectivist.co/*
+
