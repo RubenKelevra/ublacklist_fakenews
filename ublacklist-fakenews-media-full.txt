@@ -1160,3 +1160,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Enchantment State News (USA)
 *://*.enchantmentstatenews.com/*
 
+# End the Fed (USA)
+*://*.endthefed.org/*
+
