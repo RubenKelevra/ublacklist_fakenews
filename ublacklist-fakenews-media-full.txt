@@ -1223,3 +1223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Federalist Press (USA)
 *://*.federalistpress.com/*
 
+# Felix Rex (Canada)
+*://*.felixrex.net/*
+
