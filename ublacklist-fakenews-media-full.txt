@@ -3844,3 +3844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Swarajya (India)
 *://*.swarajyamag.com/*
 
+# SW Alaska News (USA)
+*://*.swalaskanews.com/*
+
