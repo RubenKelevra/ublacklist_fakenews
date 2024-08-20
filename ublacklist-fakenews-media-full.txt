@@ -1783,3 +1783,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kokomo Standard (USA)
 *://*.kokomostandard.com/*
 
+# Komsomolskaya Pravda (Russia)
+*://*.kp.ru/*
+
