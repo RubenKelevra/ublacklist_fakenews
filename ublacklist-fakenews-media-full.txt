@@ -947,3 +947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Discover the Networks (USA)
 *://*.discoverthenetworks.org/*
 
+# Disntr (USA)
+*://*.disntr.com/*
+
