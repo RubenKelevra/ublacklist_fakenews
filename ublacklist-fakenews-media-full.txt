@@ -2241,3 +2241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nantahala News (USA)
 *://*.nantahalanews.com/*
 
+# Naples Standard (USA)
+*://*.naplesstandard.com/*
+
