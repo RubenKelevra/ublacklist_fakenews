@@ -4642,3 +4642,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Volusia News (USA)
 *://*.westvolusianews.com/*
 
+# West Wake News (USA)
+*://*.westwakenews.com/*
+
