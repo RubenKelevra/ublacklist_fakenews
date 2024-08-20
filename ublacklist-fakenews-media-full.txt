@@ -3506,3 +3506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Solano Sun (USA)
 *://*.solanosun.com/*
 
+# Somerset Times (USA)
+*://*.somersettimes.com/*
+
