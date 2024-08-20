@@ -3922,3 +3922,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tampa Republic (USA)
 *://*.tamparepublic.com/*
 
+# Tasnim News Agency (Iran)
+*://*.tasnimnews.com/*
+
