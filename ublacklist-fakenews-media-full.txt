@@ -2287,3 +2287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# NC Florida News (USA)
+*://*.ncfloridanews.com/*
+
