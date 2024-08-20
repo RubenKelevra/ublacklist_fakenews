@@ -4288,3 +4288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tri County News (USA)
 *://*.triconews.com/*
 
+# Truth Examiner (Unknown)
+*://*.truthexam.com/*
+
