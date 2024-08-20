@@ -2238,3 +2238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # New Jersey Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Nantahala News (USA)
+*://*.nantahalanews.com/*
+
