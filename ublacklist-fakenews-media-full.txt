@@ -826,3 +826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Creative Destruction Media (USA)
 *://*.creativedestructionmedia.com/*
 
+# Cultural Action Party of Canada (Canada)
+*://*.capforcanada.com/*
+
