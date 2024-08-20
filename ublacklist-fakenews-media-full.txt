@@ -4255,3 +4255,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Torreon Post (Unknown)
 *://*.thetorreonpost.com/*
 
+# Toutiao (China)
+*://*.toutiao.com/*
+
