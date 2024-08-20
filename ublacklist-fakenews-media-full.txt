@@ -617,3 +617,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Oregon Times (USA)
 *://*.centraloregontimes.com/*
 
+# Central Pennsylvania Times (USA)
+*://*.centralpatimes.com/*
+
