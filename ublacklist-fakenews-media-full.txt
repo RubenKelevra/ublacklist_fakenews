@@ -872,3 +872,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Darntons (USA)
 *://*.darntons.com/*
 
+# DavidHarrisJr.com (USA)
+*://*.davidharrisjr.com/*
+
