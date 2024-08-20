@@ -2374,3 +2374,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Mississippi News (USA)
 *://*.nemissnews.com/*
 
+# NE Missouri News (USA)
+*://*.nemissourinews.com/*
+
