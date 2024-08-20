@@ -893,3 +893,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Deep Left Field (USA)
 *://*.new.deepleftfield.info/*
 
+# Deep State Journal (USA)
+*://*.deepstatejournal.com/*
+
