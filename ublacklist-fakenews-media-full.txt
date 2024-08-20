@@ -530,3 +530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cape News (USA)
 *://*.capemonews.com/*
 
+# Capstone Report (USA)
+*://*.capstonereport.com/*
+
