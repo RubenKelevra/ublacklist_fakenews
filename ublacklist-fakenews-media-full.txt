@@ -2577,3 +2577,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Country Leader (USA)
 *://*.northcountryleader.com/*
 
+# North Dayton News (USA)
+*://*.northdaytonnews.com/*
+
