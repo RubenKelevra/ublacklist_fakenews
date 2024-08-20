@@ -1705,3 +1705,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Jackson Purchase News (USA)
 *://*.jacksonpurchasenews.com/*
 
+# Jefferson City News (USA)
+*://*.jeffcitynews.com/*
+
