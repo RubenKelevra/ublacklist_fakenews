@@ -1154,3 +1154,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Empire State Today (USA)
 *://*.empirestatetoday.com/*
 
+# En Volve (USA)
+*://*.en-volve.com/*
+
