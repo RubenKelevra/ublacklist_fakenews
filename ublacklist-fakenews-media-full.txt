@@ -1112,3 +1112,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Echo Check (USA)
 *://*.echocheck.org/*
 
+# EC Georgia News (USA)
+*://*.ecgeorgianews.com/*
+
