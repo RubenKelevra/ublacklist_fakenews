@@ -2821,3 +2821,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Oakland Times (USA)
 *://*.oaklandtimes.org/*
 
+# Oaxaca Post (Unknown)
+*://*.theoaxacapost.com/*
+
