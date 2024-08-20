@@ -2682,3 +2682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North New Castle News (USA)
 *://*.northnewcastlenews.com/*
 
+# North SFV Today (USA)
+*://*.northsfvtoday.com/*
+
