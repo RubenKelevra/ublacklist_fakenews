@@ -4495,3 +4495,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wayne County Today (USA)
 *://*.waynecountytoday.com/*
 
+# WayneDupree.com (USA)
+*://*.waynedupree.com/*
+
