@@ -563,3 +563,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CCTV International (China)
 *://*.english.cctv.com/*
 
+# CDA Reporter (USA)
+*://*.cdareporter.com/*
+
