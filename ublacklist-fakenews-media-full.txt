@@ -2474,3 +2474,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News With Views (USA)
 *://*.newswithviews.com/*
 
+# NewsAmmo (USA)
+*://*.newsammo.com/*
+
