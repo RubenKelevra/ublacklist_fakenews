@@ -4177,3 +4177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Ron Paul Institute (USA)
 *://*.ronpaulinstitute.org/*
 
+# The Science News Reporter (Pakistan)
+*://*.thescinewsreporter.com/*
+
