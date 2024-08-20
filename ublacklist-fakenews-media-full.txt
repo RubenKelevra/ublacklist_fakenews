@@ -4101,3 +4101,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The National Patriot (USA)
 *://*.thenationalpatriot.com/*
 
+# The National Pulse (USA)
+*://*.twitter.com/TheNatPulse*
+*://*.x.com/TheNatPulse*
+*://*.facebook.com/thenationalpulse*
+*://*.thenationalpulse.com/*
+
