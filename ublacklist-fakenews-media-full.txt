@@ -1352,3 +1352,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gem State Wire (USA)
 *://*.gemstatewire.com/*
 
+# Genesee News (USA)
+*://*.geneseenews.com/*
+
