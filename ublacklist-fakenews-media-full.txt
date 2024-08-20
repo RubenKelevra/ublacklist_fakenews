@@ -3178,3 +3178,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Republican National Committee (USA)
 *://*.gop.com/*
 
+# Resist The Mainstream (Macedonia)
+*://*.resistthemainstream.org/*
+*://*.resistthemainstream.com/*
+
