@@ -1605,3 +1605,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Idaho Tribune (USA)
 *://*.idahotribune.org/*
 
+# iHarare (Zimbabwe)
+*://*.iharare.com/*
+
