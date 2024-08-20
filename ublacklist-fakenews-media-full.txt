@@ -3623,3 +3623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Lake Today (USA)
 *://*.southlaketoday.com/*
 
+# South Louisiana News (USA)
+*://*.southlouisiananews.com/*
+
