@@ -4438,3 +4438,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Vigilant News (USA)
 *://*.vigilantnews.com/*
 
+# Viral Cocaine (Unknown)
+*://*.viralcocaine.com/*
+
