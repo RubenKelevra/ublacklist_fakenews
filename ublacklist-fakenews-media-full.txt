@@ -2833,3 +2833,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Occupy Democrats (USA)
 *://*.occupydemocrats.com/*
 
+# Ocean County Leader (USA)
+*://*.oceancountyleader.com/*
+
