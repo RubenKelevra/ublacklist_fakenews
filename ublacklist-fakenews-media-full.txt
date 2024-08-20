@@ -4519,3 +4519,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Missouri News (USA)
 *://*.wcmissourinews.com/*
 
+# WC New Mexico News (USA)
+*://*.wcnewmexiconews.com/*
+
