@@ -1175,3 +1175,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Evie Magazine (USA)
 *://*.eviemagazine.com/*
 
+# Evil.News (USA)
+*://*.evil.news/*
+
