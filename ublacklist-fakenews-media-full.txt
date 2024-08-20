@@ -1469,3 +1469,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GTR Times (USA)
 *://*.gtrtimes.com/*
 
+# Guadalajara Post (Unknown)
+*://*.theguadalajarapost.com/*
+
