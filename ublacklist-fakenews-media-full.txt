@@ -1268,3 +1268,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Forbidden News Network (Unknown)
 *://*.bannedbook.org/*
 
+# Foreign Policy Initiative (USA)
+*://*.foreignpolicyi.org/*
+
