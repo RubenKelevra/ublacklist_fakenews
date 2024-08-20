@@ -2842,3 +2842,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # OKC Standard (USA)
 *://*.okcstandard.com/*
 
+# Okeechobee Times (USA)
+*://*.okeechobeetimes.com/*
+
