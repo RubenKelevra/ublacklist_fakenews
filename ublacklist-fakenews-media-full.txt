@@ -941,3 +941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Discern Report (USA)
 *://*.discernreport.com/*
 
+# Disclose TV (Germany)
+*://*.disclose.tv/*
+
