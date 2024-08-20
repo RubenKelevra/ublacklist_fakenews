@@ -273,3 +273,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bay State News (USA)
 *://*.baystatenews.com/*
 
+# Bbarta24 (Bangladesh)
+*://*.en.bbarta24.net/*
+
