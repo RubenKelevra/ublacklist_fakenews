@@ -3826,3 +3826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sunflower State News (USA)
 *://*.sunflowerstatenews.com/*
 
+# Sunshine Sentinel (USA)
+*://*.sunshinesentinel.com/*
+
