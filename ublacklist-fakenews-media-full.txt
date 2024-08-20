@@ -671,3 +671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Clash Daily (USA)
 *://*.clashdaily.com/*
 
+# ClayandBuck.com (USA)
+*://*.clayandbuck.com/*
+
