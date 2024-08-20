@@ -3548,3 +3548,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Broward News (USA)
 *://*.southbrowardnews.com/*
 
+# South Central Reporter (USA)
+*://*.southcentralreporter.com/*
+
