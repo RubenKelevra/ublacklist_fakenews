@@ -4113,3 +4113,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Nevadan (USA)
 *://*.thenevadannews.com/*
 
+# The Ohio Independent (USA)
+*://*.ohioindependent.com/*
+*://*.tainews.com/*
+
