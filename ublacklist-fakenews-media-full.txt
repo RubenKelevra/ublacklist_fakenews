@@ -1199,3 +1199,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fargo Standard (USA)
 *://*.fargostandard.com/*
 
+# Farm Insurance News (USA)
+*://*.farminsurancenews.com/*
+
