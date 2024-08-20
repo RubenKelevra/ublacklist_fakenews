@@ -1750,3 +1750,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Katehon (Russia)
 *://*.katehon.com/*
 
+# Kauai Sun (USA)
+*://*.kauaisun.com/*
+
