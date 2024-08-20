@@ -3892,3 +3892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Oklahoma News (USA)
 *://*.swoklahomanews.com/*
 
+# SW Riverside News (USA)
+*://*.swriversidenews.com/*
+
