@@ -1427,3 +1427,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Grand Rapids News (USA)
 *://*.grandrapidsminews.com/*
 
+# Grand Rapids Reporter (USA)
+*://*.grandrapidsreporter.com/*
+
