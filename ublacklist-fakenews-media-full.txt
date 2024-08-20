@@ -2574,3 +2574,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northern Clark County Herald (USA)
 *://*.northernclarkcountyherald.com/*
 
+# North Country Leader (USA)
+*://*.northcountryleader.com/*
+
