@@ -560,3 +560,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Causeur (France)
 *://*.causeur.fr/*
 
+# CCTV International (China)
+*://*.english.cctv.com/*
+
