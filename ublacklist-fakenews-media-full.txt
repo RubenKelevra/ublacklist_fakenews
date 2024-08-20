@@ -1106,3 +1106,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Eastern Wayne Today (USA)
 *://*.easternwaynetoday.com/*
 
+# eBaum’s World (USA)
+*://*.ebaumsworld.com/*
+
