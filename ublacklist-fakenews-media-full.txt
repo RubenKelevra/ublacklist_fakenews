@@ -3783,3 +3783,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South OC Times (USA)
 *://*.southoctimes.com/*
 
+# South Pima News (USA)
+*://*.southpimanews.com/*
+
