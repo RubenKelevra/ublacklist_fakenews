@@ -3692,3 +3692,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Tulsa Today (USA)
 *://*.southtulsatoday.com/*
 
+# South West Illinois News (USA)
+*://*.swillinoisnews.com/*
+
