@@ -2869,3 +2869,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Orinoco Tribune (Venezuela)
 *://*.orinocotribune.com/*
 
+# Orlando Standard (USA)
+*://*.orlandostandard.com/*
+
