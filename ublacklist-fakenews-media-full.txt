@@ -124,3 +124,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Lookout (USA)
 *://*.americanlookout.com/*
 
+# American Media Periscope (USA)
+*://*.americanmediaperiscope.com/*
+*://*.patriot.tv/*
+
