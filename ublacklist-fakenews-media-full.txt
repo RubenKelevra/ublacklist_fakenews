@@ -1500,3 +1500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Harford News (USA)
 *://*.harfordnews.com/*
 
+# Hartford Reporter (USA)
+*://*.hartfordreporter.com/*
+
