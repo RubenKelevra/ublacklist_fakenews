@@ -4618,3 +4618,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Pennyroyal News (USA)
 *://*.westpennyroyalnews.com/*
 
+# West SBV Times (USA)
+*://*.westsbvtimes.com/*
+
