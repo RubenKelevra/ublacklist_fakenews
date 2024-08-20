@@ -3856,3 +3856,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Bluegrass News (USA)
 *://*.swbluegrassnews.com/*
 
+# SW Colorado News (USA)
+*://*.swcoloradonews.com/*
+
