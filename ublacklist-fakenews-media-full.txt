@@ -1070,3 +1070,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Pennyroyal News (USA)
 *://*.eastpennyroyalnews.com/*
 
+# East San Diego News (USA)
+*://*.eastsandiegonews.com/*
+
