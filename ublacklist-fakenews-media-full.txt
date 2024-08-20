@@ -3880,3 +3880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Minnesota Today (USA)
 *://*.swminnesotatoday.com/*
 
+# SW Mississippi News (USA)
+*://*.swmissnews.com/*
+
