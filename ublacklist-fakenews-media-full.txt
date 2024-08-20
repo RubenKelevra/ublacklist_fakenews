@@ -2018,3 +2018,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # McLean County Times (USA)
 *://*.mcleancountytimes.com/*
 
+# Mecklenburg Herald (USA)
+*://*.mecklenburgherald.com/*
+
