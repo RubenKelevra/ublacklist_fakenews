@@ -3221,3 +3221,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rockford Sun (USA)
 *://*.rockfordsun.com/*
 
+# Rockingham Journal (USA)
+*://*.rockinghamjournal.com/*
+
