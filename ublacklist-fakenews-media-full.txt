@@ -2284,3 +2284,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nayarit Post (Unknown)
 *://*.thenayaritpost.com/*
 
+# NC Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
