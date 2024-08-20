@@ -2616,3 +2616,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Iowa Reporter (USA)
 *://*.northiowareporter.com/*
 
+# North Iredell News (USA)
+*://*.northiredellnews.com/*
+
