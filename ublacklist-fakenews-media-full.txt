@@ -2093,3 +2093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michigan Gander (USA)
 *://*.gandernewsroom.com/*
 
+# Michigan Star (USA)
+*://*.themichiganstar.com/*
+
