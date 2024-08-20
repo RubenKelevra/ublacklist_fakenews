@@ -2547,3 +2547,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Coast Today (USA)
 *://*.northcoasttoday.com/*
 
+# North Columbus News (USA)
+*://*.northcolumbusnews.com/*
+
