@@ -3102,3 +3102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Queretaro Post (Unknown)
 *://*.thequeretaropost.com/*
 
+# Quillette (Australia)
+*://*.quillette.com/*
+
