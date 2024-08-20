@@ -1753,3 +1753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kauai Sun (USA)
 *://*.kauaisun.com/*
 
+# KC Reporter (USA)
+*://*.kcreporter.com/*
+
