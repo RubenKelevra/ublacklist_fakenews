@@ -1934,3 +1934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Louder With Crowder (USA)
 *://*.louderwithcrowder.com/*
 
+# Louisiana Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
