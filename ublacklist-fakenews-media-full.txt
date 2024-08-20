@@ -3729,3 +3729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sputnik News Agency (Russia)
 *://*.sputniknews.in/*
 
+# Sputnik News Agency (Russia)
+*://*.it.sputniknews.com/*
+
