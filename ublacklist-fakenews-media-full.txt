@@ -2806,3 +2806,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Riverside News (USA)
 *://*.nwriversidenews.com/*
 
+# NW Valley Times (USA)
+*://*.nwvalleytimes.com/*
+
