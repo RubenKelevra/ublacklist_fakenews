@@ -1286,3 +1286,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Frank Speech (USA)
 *://*.frankspeech.com/*
 
+# Freedom First Network (USA)
+*://*.freedomfirstnetwork.com/*
+
