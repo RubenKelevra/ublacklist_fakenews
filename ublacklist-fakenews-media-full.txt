@@ -2150,3 +2150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mint Press News (USA)
 *://*.mintpressnews.com/*
 
+# Mississippi Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
