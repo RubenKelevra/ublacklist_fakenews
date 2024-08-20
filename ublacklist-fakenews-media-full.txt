@@ -3530,3 +3530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Atlanta News (USA)
 *://*.southatlantanews.com/*
 
+# South Bay Leader (USA)
+*://*.southbayleader.com/*
+
