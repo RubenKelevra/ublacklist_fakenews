@@ -608,3 +608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central ND News (USA)
 *://*.centralndnews.com/*
 
+# Central OC Times (USA)
+*://*.centraloctimes.com/*
+
