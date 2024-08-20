@@ -2250,3 +2250,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nature Coast Times (USA)
 *://*.naturecoasttimes.com/*
 
+# National Alliance (USA)
+*://*.natall.com/*
+
