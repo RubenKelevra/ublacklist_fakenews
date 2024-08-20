@@ -3443,3 +3443,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Oakland News (USA)
 *://*.seoaklandnews.com/*
 
+# SE Ohio Times (USA)
+*://*.seohiotimes.com/*
+
