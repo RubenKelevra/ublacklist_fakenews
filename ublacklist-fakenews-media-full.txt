@@ -261,3 +261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bare Naked Islam (USA)
 *://*.barenakedislam.com/*
 
+# Basnews Agency (Iraq)
+*://*.basnews.com/*
+
