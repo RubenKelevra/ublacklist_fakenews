@@ -1283,3 +1283,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.facebook.com/FoxNews*
 *://*.foxnews.com/*
 
+# Frank Speech (USA)
+*://*.frankspeech.com/*
+
