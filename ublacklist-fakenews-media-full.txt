@@ -4068,3 +4068,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Last Resistance (USA)
 *://*.lastresistance.com/*
 
+# The Laugh Club (Sweden)
+*://*.thelaughclub.net/*
+
