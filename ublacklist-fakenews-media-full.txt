@@ -4056,3 +4056,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Joe Rogan Experience (USA)
 *://*.joerogan.com/*
 
+# The Keystone (USA)
+*://*.keystonenewsroom.com/*
+
