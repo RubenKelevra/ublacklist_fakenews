@@ -1292,3 +1292,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Freedom News Report (USA)
 *://*.freedomnewsreport.com/*
 
+# FreedomProject Media (USA)
+*://*.freedomproject.com/*
+
