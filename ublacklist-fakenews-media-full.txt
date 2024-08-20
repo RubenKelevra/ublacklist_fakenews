@@ -2114,3 +2114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Middle East Media Research Institute (USA)
 *://*.memri.org/*
 
+# Mid Massachusetts News (USA)
+*://*.midmassnews.com/*
+
