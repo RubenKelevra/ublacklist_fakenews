@@ -1506,3 +1506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hawaii Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Hawar News Agency (Syria)
+*://*.en.hawarnews.org/*
+
