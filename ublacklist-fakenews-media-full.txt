@@ -2419,3 +2419,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # New Hampshire Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# New Mexico Business Daily (USA)
+*://*.nmbusinessdaily.com/*
+
