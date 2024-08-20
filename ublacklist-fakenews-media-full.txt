@@ -4228,3 +4228,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Wisconsin Independent (USA)
 *://*.wisconsinindependent.com/*
 
+# Three Percent Nation (USA)
+*://*.threepercenternation.com/*
+
