@@ -2884,3 +2884,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Outer Banks Times (USA)
 *://*.outerbankstimes.com/*
 
+# Oxford Reporter (USA)
+*://*.oxfordreporter.com/*
+
