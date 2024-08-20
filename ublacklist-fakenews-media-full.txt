@@ -2057,3 +2057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Metro East Sun (USA)
 *://*.metroeastsun.com/*
 
+# Metro Lex News (USA)
+*://*.metrolexnews.com/*
+
