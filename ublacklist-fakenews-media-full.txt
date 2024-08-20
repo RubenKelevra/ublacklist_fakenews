@@ -3768,3 +3768,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Steadfast Daily (USA)
 *://*.steadfastdaily.com/*
 
+# Stopping Socialism (USA)
+*://*.stoppingsocialism.com/*
+
