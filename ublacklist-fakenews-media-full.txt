@@ -838,3 +838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dagospia (Italy)
 *://*.dagospia.com/*
 
+# Daily Buzz Live (USA)
+*://*.dailybuzzlive.com/*
+
