@@ -191,3 +191,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Anonymous Wire (Unknown)
 *://*.anonymouswire.com/*
 
+# Antelope Valley Today (USA)
+*://*.antelopevalleytoday.com/*
+
