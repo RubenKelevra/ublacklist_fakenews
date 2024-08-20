@@ -3566,3 +3566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southern Colorado Times (USA)
 *://*.southerncoloradotimes.com/*
 
+# South Cuyahoga News (USA)
+*://*.southcuyahoganews.com/*
+
