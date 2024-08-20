@@ -2752,3 +2752,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Atlanta News (USA)
 *://*.nwatlantanews.com/*
 
+# NW Bergen News (USA)
+*://*.nwbergennews.com/*
+
