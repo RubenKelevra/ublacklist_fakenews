@@ -2929,3 +2929,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriots.Win (USA)
 *://*.patriots.win/*
 
+# Patriotic Viral News (USA)
+*://*.patrioticviralnews.com/*
+
