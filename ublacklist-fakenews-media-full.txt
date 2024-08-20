@@ -1807,3 +1807,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lafayette Times (USA)
 *://*.lafayettetimes.com/*
 
+# LA Harbor News (USA)
+*://*.laharbornews.com/*
+
