@@ -1849,3 +1849,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LAX Leader (USA)
 *://*.laxleader.com/*
 
+# Leading Report (USA)
+*://*.theleadingreport.com/*
+
