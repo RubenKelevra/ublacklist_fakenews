@@ -1301,3 +1301,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Free West Media (Sweden)
 *://*.freewestmedia.com/*
 
+# Fresh Off The Press (USA)
+*://*.freshoffthepress.org/*
+
