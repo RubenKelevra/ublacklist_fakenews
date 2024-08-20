@@ -3078,3 +3078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Press TV (Iran)
 *://*.presstv.ir/*
 
+# Prntly (USA)
+*://*.prntly.com/*
+
