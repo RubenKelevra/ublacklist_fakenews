@@ -2465,3 +2465,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newsrael (Israel)
 *://*.newsrael.com/*
 
+# News Rescue (Nigeria)
+*://*.newsrescue.com/*
+
