@@ -3599,3 +3599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Gwinnett News (USA)
 *://*.southgwinnettnews.com/*
 
+# South Hennepin News (USA)
+*://*.southhennepinnews.com/*
+
