@@ -823,3 +823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cowards of Canada (Canada)
 *://*.cowards.ca/*
 
+# Creative Destruction Media (USA)
+*://*.creativedestructionmedia.com/*
+
