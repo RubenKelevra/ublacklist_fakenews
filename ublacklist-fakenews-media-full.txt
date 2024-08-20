@@ -2090,3 +2090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michigan Catholic Tribune (USA)
 *://*.micatholictribune.com/*
 
+# Michigan Gander (USA)
+*://*.gandernewsroom.com/*
+
