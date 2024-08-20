@@ -2201,3 +2201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MoonBattery (USA)
 *://*.moonbattery.com/*
 
+# Moon of Alabama (USA)
+*://*.moonofalabama.org/*
+
