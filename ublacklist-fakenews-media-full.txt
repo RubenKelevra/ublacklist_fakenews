@@ -2643,3 +2643,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Middlesex Times (USA)
 *://*.northmiddlesextimes.com/*
 
+# North Nevada News (USA)
+*://*.northnevadanews.com/*
+
