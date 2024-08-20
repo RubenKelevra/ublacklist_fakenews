@@ -2232,3 +2232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mutembei TV (Kenya)
 *://*.mutembeitv.com/*
 
+# NW Iowa News (USA)
+*://*.nwiowanews.com/*
+
