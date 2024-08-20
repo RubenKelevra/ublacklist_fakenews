@@ -2168,3 +2168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mohave Today (USA)
 *://*.mohavetoday.com/*
 
+# Mohawk Valley Times (USA)
+*://*.mohawkvalleytimes.com/*
+
