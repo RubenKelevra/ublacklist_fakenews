@@ -944,3 +944,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Disclose TV (Germany)
 *://*.disclose.tv/*
 
+# Discover the Networks (USA)
+*://*.discoverthenetworks.org/*
+
