@@ -533,3 +533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Capstone Report (USA)
 *://*.capstonereport.com/*
 
+# Carbondale Reporter (USA)
+*://*.carbondalereporter.com/*
+
