@@ -1244,3 +1244,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # First State Times (USA)
 *://*.firststatetimes.com/*
 
+# Flashout (Unknown)
+*://*.thecareerbd.com/*
+
