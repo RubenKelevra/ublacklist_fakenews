@@ -2449,3 +2449,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Hour First (USA)
 *://*.newshourfirst.com/*
 
+# Newzoh (USA)
+*://*.newzoh.com/*
+
