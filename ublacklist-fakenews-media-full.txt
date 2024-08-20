@@ -2138,3 +2138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Minneapolis Review (USA)
 *://*.minneapolisreview.com/*
 
+# Minnesota Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
