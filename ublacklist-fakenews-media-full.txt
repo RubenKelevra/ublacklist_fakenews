@@ -4579,3 +4579,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Lucas News (USA)
 *://*.westlucasnews.com/*
 
+# Western Wayne Today (USA)
+*://*.westernwaynetoday.com/*
+
