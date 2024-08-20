@@ -143,3 +143,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Principles Project (USA)
 *://*.americanprinciplesproject.org/*
 
+# American Renaissance Magazine (USA)
+*://*.amren.com/*
+
