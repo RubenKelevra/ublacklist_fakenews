@@ -2827,3 +2827,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Objectivist (USA)
 *://*.objectivist.co/*
 
+# Ocala Standard (USA)
+*://*.ocalastandard.com/*
+
