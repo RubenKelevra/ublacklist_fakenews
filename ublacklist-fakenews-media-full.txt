@@ -291,3 +291,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Becker News (USA)
 *://*.beckernews.com/*
 
+# Before it’s News (USA)
+*://*.beforeitsnews.com/*
+
