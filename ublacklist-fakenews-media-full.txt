@@ -2962,3 +2962,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Personal Interpretation (Unknown)
 *://*.personalinterpretation.com/*
 
+# Personal Liberty (USA)
+*://*.personalliberty.com/*
+
