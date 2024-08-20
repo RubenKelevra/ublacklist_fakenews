@@ -1139,3 +1139,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Education Daily Wire (USA)
 *://*.educationdailywire.com/*
 
+# Elizabethtown Times (USA)
+*://*.elizabethtowntimes.com/*
+
