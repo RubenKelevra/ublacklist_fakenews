@@ -914,3 +914,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Delaware Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Delaware County Review (USA)
+*://*.delcoreview.com/*
+
