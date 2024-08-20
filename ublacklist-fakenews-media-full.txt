@@ -3572,3 +3572,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Dayton News (USA)
 *://*.southdaytonnews.com/*
 
+# Southern Illinois News (USA)
+*://*.silnews.com/*
+
