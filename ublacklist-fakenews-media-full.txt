@@ -2568,3 +2568,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northeast Montana News (USA)
 *://*.nemontananews.com/*
 
+# North Cincy News (USA)
+*://*.northcincynews.com/*
+
