@@ -677,3 +677,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Clay County Times (USA)
 *://*.claycotimes.com/*
 
+# Clay Reporter (USA)
+*://*.clayreporter.com/*
+
