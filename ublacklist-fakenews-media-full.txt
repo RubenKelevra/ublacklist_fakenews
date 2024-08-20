@@ -3934,3 +3934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tea Party Patriots (USA)
 *://*.teapartypatriots.org/*
 
+# TechStartups (USA)
+*://*.techstartups.com/*
+
