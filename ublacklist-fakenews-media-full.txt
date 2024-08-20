@@ -4357,3 +4357,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # UncoverDC (USA)
 *://*.uncoverdc.com/*
 
+# Understanding The Threat (USA)
+*://*.understandingthethreat.com/*
+
