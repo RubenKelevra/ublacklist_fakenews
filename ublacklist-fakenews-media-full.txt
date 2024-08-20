@@ -4720,3 +4720,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # World Tribune (USA)
 *://*.worldtribune.com/*
 
+# Wyandotte Times (USA)
+*://*.wyandottetimes.com/*
+
