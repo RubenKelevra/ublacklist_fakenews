@@ -3587,3 +3587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southeastern Times (USA)
 *://*.southeasterntimes.org/*
 
+# South Franklin News (USA)
+*://*.southfranklinnews.com/*
+
