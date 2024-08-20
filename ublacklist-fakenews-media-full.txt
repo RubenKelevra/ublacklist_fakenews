@@ -1256,3 +1256,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Florida Capital Star (USA)
 *://*.floridacapitalstar.com/*
 
+# Florida Parish News (USA)
+*://*.floridaparishnews.com/*
+
