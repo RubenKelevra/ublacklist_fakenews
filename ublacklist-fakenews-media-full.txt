@@ -100,3 +100,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Catholic Tribune (USA)
 *://*.americancatholictribune.com/*
 
+# American College of Pediatricians (USA)
+*://*.acpeds.org/*
+
