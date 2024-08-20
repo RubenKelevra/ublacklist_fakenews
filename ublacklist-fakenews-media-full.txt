@@ -2132,3 +2132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Military Watch Magazine (Unknown)
 *://*.militarywatchmagazine.com/*
 
+# Milwaukee Metro Times (USA)
+*://*.milwaukeemetrotimes.com/*
+
