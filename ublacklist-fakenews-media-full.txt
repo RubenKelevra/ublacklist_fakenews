@@ -4435,3 +4435,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Vidmax (Cyprus)
 *://*.vidmax.com/*
 
+# Vigilant News (USA)
+*://*.vigilantnews.com/*
+
