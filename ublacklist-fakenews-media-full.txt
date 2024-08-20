@@ -726,3 +726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.concernedwomen.org/*
 *://*.cwfa.org/*
 
+# Concord Ledger (USA)
+*://*.concordledger.com/*
+
