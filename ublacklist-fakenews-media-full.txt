@@ -3542,3 +3542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Alabama Times (USA)
 *://*.southalabamatimes.com/*
 
+# South Bergen News (USA)
+*://*.southbergennews.com/*
+
