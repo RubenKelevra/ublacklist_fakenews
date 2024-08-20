@@ -1235,3 +1235,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Findlay Times (USA)
 *://*.findlaytimes.com/*
 
+# Finger Lakes Today (USA)
+*://*.fingerlakestoday.com/*
+
