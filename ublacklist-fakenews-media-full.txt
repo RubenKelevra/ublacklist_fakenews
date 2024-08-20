@@ -457,3 +457,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19nitazoxanide.com (Unknown)
 *://*.c19nitazoxanide.com/*
 
+# C19ns.com (Unknown)
+*://*.c19ns.com/*
+*://*.c19early.org/*
+
