@@ -4525,3 +4525,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wealth Management Wire (USA)
 *://*.wealthmanagementwire.com/*
 
+# Weibo (China)
+*://*.weibo.com/*
+
