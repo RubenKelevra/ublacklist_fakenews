@@ -810,3 +810,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Council for the National Interest (USA)
 *://*.councilforthenationalinterest.org/*
 
+# Council of Conservative Citizens (USA)
+*://*.conservative-headlines.org/*
+
