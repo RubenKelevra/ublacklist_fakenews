@@ -751,3 +751,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.conservativebeaver.com/*
 *://*.ice-energy.com/*
 
+# Conservative Choice Campaign (USA)
+*://*.conservativechoicecampaign.com/*
+
