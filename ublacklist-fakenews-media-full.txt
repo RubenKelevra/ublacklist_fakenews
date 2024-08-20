@@ -3524,3 +3524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Alameda News (USA)
 *://*.southalamedanews.com/*
 
+# South Asheville News (USA)
+*://*.southashevillenews.com/*
+
