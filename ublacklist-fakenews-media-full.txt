@@ -3266,3 +3266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rumble (Canada)
 *://*.rumble.com/*
 
+# Ruptly (Russia)
+*://*.ruptly.tv/*
+
