@@ -3593,3 +3593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Georgia Times (USA)
 *://*.southgeorgiatimes.com/*
 
+# South Guilford News (USA)
+*://*.southguilfordnews.com/*
+
