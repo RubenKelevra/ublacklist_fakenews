@@ -4591,3 +4591,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Indy News (USA)
 *://*.westindynews.com/*
 
+# Western Journal (USA)
+*://*.westernjournal.com/*
+
