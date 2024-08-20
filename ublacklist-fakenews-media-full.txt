@@ -3069,3 +3069,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Presidential Hill (USA)
 *://*.presidentialhill.com/*
 
+# Press California (USA)
+*://*.presscalifornia.com/*
+
