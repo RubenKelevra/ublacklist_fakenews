@@ -4504,3 +4504,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Georgia News (USA)
 *://*.wcgeorgianews.com/*
 
+# WC Indiana News (USA)
+*://*.wcindiananews.com/*
+
