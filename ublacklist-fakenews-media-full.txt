@@ -2875,3 +2875,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # OTP Tribune (USA)
 *://*.otptribune.com/*
 
+# Outraged Patriot (Unknown)
+*://*.outragedpatriot.com/*
+
