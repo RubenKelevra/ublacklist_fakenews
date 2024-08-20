@@ -1328,3 +1328,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Galesburg Reporter (USA)
 *://*.galesburgreporter.com/*
 
+# Garden State Times (USA)
+*://*.gardenstatetimes.com/*
+
