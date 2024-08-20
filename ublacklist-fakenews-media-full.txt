@@ -1052,3 +1052,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Michigan News (USA)
 *://*.eastmichigannews.com/*
 
+# East New Mexico News (USA)
+*://*.eastnewmexiconews.com/*
+
