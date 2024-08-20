@@ -3665,3 +3665,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Palm Beach Today (USA)
 *://*.southpalmbeachtoday.com/*
 
+# South Pinellas Times (USA)
+*://*.southpinellastimes.com/*
+
