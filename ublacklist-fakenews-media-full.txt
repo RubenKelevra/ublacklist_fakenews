@@ -109,3 +109,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Family Association (USA)
 *://*.afa.net/*
 
+# American Family News (USA)
+*://*.afn.net/*
+
