@@ -2761,3 +2761,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Clark News (USA)
 *://*.nwclarknews.com/*
 
+# NW Franklin News (USA)
+*://*.nwfranklinnews.com/*
+
