@@ -1322,3 +1322,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GAB News (USA)
 *://*.news.gab.com/*
 
+# Gadsden Today (USA)
+*://*.gadsdentoday.com/*
+
