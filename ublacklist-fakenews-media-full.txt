@@ -1265,3 +1265,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Foothills Review (USA)
 *://*.foothillsreview.com/*
 
+# Forbidden News Network (Unknown)
+*://*.bannedbook.org/*
+
