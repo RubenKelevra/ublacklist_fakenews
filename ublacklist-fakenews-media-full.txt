@@ -2604,3 +2604,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Michigan News (USA)
 *://*.northmichigannews.com/*
 
+# North Idaho Times (USA)
+*://*.northidahotimes.com/*
+
