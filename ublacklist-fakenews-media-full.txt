@@ -3194,3 +3194,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Righter Way (Unknown)
 *://*.righterway.com/*
 
+# Right News Wire (USA)
+*://*.rightnewswire.com/*
+
