@@ -4657,3 +4657,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wichita Standard (USA)
 *://*.wichitastandard.com/*
 
+# Will County Gazette (USA)
+*://*.willcountygazette.com/*
+
