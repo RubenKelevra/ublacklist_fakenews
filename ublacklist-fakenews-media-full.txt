@@ -2998,3 +2998,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Plymouth Reporter (USA)
 *://*.plymouthreporter.com/*
 
+# Pocatello Times (USA)
+*://*.pocatellotimes.com/*
+
