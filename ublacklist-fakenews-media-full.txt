@@ -1238,3 +1238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Finger Lakes Today (USA)
 *://*.fingerlakestoday.com/*
 
+# First in Freedom Daily (USA)
+*://*.firstinfreedomdaily.com/*
+
