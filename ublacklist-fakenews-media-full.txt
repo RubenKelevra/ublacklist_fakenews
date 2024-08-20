@@ -4159,3 +4159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Religion of Peace (USA)
 *://*.thereligionofpeace.com/*
 
+# The Remnant Newspaper (USA)
+*://*.remnantnewspaper.com/*
+
