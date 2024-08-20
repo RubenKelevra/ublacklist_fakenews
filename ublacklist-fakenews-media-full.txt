@@ -264,3 +264,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Basnews Agency (Iraq)
 *://*.basnews.com/*
 
+# Baton Rouge Reporter (USA)
+*://*.batonrougereporter.com/*
+
