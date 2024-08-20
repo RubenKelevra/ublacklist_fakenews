@@ -3004,3 +3004,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Point Report (USA)
 *://*.pointreport.org/*
 
+# Political Animal News (USA)
+*://*.politicalanimalnews.com/*
+
