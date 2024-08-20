@@ -2758,3 +2758,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Connecticut News (USA)
 *://*.nwconnnews.com/*
 
+# NW Clark News (USA)
+*://*.nwclarknews.com/*
+
