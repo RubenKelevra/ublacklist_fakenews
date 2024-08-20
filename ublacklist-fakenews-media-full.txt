@@ -4426,3 +4426,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Veracruz Daily Post (Unknown)
 *://*.veracruzdailypost.com/*
 
+# Verdugos News (USA)
+*://*.verdugosnews.com/*
+
