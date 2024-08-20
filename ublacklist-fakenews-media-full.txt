@@ -2471,3 +2471,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Sloth (USA)
 *://*.newssloth.com/*
 
+# News With Views (USA)
+*://*.newswithviews.com/*
+
