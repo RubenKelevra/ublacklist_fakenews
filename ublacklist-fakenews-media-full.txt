@@ -3185,3 +3185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Restore American Glory (USA)
 *://*.restoreamericanglory.com/*
 
+# Revolver.News (Unknown)
+*://*.revolver.news/*
+
