@@ -3126,3 +3126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Real News Now (USA)
 *://*.realnewsnow.com/*
 
+# Real Science (Unknown)
+*://*.goodsciencing.com/*
+
