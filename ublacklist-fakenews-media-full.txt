@@ -3160,3 +3160,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Redwood Empire News (USA)
 *://*.redwoodempirenews.com/*
 
+# Reformed Media (USA)
+*://*.reformedmedia.net/*
+
