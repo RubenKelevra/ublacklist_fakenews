@@ -1644,3 +1644,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Indy Standard (USA)
 *://*.indystandard.com/*
 
+# Information Liberation (USA)
+*://*.informationliberation.com/*
+
