@@ -3644,3 +3644,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South New Castle News (USA)
 *://*.southnewcastlenews.com/*
 
+# South North Carolina News (USA)
+*://*.southncnews.com/*
+
