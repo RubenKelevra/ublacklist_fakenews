@@ -479,3 +479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19sv.com (Unknown)
 *://*.c19sv.com/*
 
+# C19VitaminC.com (Unknown)
+*://*.c19vitaminc.com/*
+
