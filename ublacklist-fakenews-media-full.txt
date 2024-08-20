@@ -3479,3 +3479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Shreveport Reporter (USA)
 *://*.shreveportreporter.com/*
 
+# SHTFplan.com (USA)
+*://*.shtfplan.com/*
+
