@@ -3807,3 +3807,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Students for Trump (USA)
 *://*.trumpstudents.org/*
 
+# Sturgis-Coldwater News (USA)
+*://*.sturgiscoldwaternews.com/*
+
