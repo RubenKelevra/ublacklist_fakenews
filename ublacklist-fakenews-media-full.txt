@@ -4735,3 +4735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # XYZ.net.au (Australia)
 *://*.xyz.net.au/*
 
+# Yadkin Valley News (USA)
+*://*.yadkinvalleynews.com/*
+
