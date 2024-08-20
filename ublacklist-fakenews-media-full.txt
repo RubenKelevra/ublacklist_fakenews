@@ -593,3 +593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Idaho Times (USA)
 *://*.centralidahotimes.com/*
 
+# Central Iowa Times (USA)
+*://*.centraliowatimes.com/*
+
