@@ -1022,3 +1022,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Contra Costa News (USA)
 *://*.eastcontracostanews.com/*
 
+# East Hillsborough News (USA)
+*://*.easthillsboroughnews.com/*
+
