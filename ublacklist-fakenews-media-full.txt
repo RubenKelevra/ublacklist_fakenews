@@ -3632,3 +3632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Mecklenburg News (USA)
 *://*.southmecklenburgnews.com/*
 
+# South Miami-Dade News (USA)
+*://*.southmianews.com/*
+
