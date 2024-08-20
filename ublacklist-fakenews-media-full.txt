@@ -4567,3 +4567,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West El Dorado News (USA)
 *://*.westeldoradonews.com/*
 
+# West Essex News (USA)
+*://*.westessexnews.com/*
+
