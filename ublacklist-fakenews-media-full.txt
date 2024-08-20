@@ -2908,3 +2908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patient Daily (USA)
 *://*.patientdaily.com/*
 
+# Patriot Fetch (USA)
+*://*.patriotfetch.com/*
+
