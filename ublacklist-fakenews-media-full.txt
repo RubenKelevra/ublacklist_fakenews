@@ -3407,3 +3407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Grand Rapids News (USA)
 *://*.segrandrapids.com/*
 
+# SE Illinois News (USA)
+*://*.seillinoisnews.com/*
+
