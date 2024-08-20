@@ -3157,3 +3157,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.redvoicemedia.com/*
 *://*.rvmnews.com/*
 
+# Redwood Empire News (USA)
+*://*.redwoodempirenews.com/*
+
