@@ -2562,3 +2562,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North DSM News (USA)
 *://*.northdsmnews.com/*
 
+# Northeast Herald (USA)
+*://*.northeastherald.org/*
+
