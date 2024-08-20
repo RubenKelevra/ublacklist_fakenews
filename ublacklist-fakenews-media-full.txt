@@ -1922,3 +1922,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Livingston Today (USA)
 *://*.livingstontoday.com/*
 
+# LiveLeak (UK)
+*://*.itemfix.com/*
+
