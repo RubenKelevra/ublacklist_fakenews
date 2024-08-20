@@ -1415,3 +1415,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GOP.gov (USA)
 *://*.gop.gov/*
 
+# GOPUSA (USA)
+*://*.gopusa.com/*
+
