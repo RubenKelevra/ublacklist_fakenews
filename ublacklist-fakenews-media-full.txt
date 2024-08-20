@@ -1103,3 +1103,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Witchita Times (USA)
 *://*.eastwichitatimes.com/*
 
+# Eastern Wayne Today (USA)
+*://*.easternwaynetoday.com/*
+
