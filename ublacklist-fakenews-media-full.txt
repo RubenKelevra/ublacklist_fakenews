@@ -1379,3 +1379,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # GETTR (USA)
 *://*.gettr.com/*
 
+# Ghost.Report (USA)
+*://*.ghost.report/*
+
