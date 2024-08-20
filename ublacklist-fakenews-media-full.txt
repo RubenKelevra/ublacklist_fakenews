@@ -4339,3 +4339,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Turley Talks (USA)
 *://*.turleytalks.com/*
 
+# Turning Point USA (USA)
+*://*.tpusa.com/*
+
