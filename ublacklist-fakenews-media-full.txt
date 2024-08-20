@@ -210,3 +210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.arizonaindependent.com/*
 *://*.tainews.com/*
 
+# Arizona Sun Times (USA)
+*://*.arizonasuntimes.com/*
+
