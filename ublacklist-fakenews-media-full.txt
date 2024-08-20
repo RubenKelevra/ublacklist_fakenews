@@ -3982,3 +3982,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Conservative Brief (USA)
 *://*.theconservativebrief.com/*
 
+# The Conservative Central (Unknown)
+*://*.theconservativecentral.com/*
+
