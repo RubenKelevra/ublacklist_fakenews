@@ -953,3 +953,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # District of Columbia Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# DJHJ Media (USA)
+*://*.djhjmedia.com/*
+*://*.davidharrisjr.store/*
+
