@@ -4098,3 +4098,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Most Important News (USA)
 *://*.themostimportantnews.com/*
 
+# The National Patriot (USA)
+*://*.thenationalpatriot.com/*
+
