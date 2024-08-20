@@ -3928,3 +3928,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TB Daily News (USA)
 *://*.tbdailynews.com/*
 
+# Tea Party Inc (USA)
+*://*.teaparty.org/*
+
