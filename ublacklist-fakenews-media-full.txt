@@ -908,3 +908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DeKalb GA News (USA)
 *://*.dekalbganews.com/*
 
+# DeKalb Times (USA)
+*://*.dekalbtimes.com/*
+
