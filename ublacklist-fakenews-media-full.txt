@@ -3335,3 +3335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sarasota Review- Bias and Credibility (USA)
 *://*.sarasotareview.com/*
 
+# Saratoga Standard (USA)
+*://*.saratogastandard.com/*
+
