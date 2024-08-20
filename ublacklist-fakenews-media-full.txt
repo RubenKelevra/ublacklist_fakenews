@@ -3919,3 +3919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tamaulipas Post (Unknown)
 *://*.tamaulipaspost.com/*
 
+# Tampa Republic (USA)
+*://*.tamparepublic.com/*
+
