@@ -340,3 +340,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Blunt Force Truth (USA)
 *://*.bluntforcetruth.com/*
 
+# Boise City Wire (USA)
+*://*.boisecitywire.com/*
+
