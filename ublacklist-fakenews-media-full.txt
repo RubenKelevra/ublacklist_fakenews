@@ -131,3 +131,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Partisan (USA)
 *://*.americanpartisan.org/*
 
+# American Patriot Daily (USA)
+*://*.americanpatriotdaily.com/*
+
