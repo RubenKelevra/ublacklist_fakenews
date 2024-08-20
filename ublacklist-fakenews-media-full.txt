@@ -1334,3 +1334,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gastonia Times (USA)
 *://*.gastoniatimes.com/*
 
+# Gatestone Institute (USA)
+*://*.gatestoneinstitute.org/*
+
