@@ -2377,3 +2377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Missouri News (USA)
 *://*.nemissourinews.com/*
 
+# NE Nebraska News (USA)
+*://*.nenebraskanews.com/*
+
