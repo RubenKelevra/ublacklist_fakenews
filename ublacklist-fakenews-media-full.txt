@@ -1421,3 +1421,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Grand Canyon Times (USA)
 *://*.grandcanyontimes.com/*
 
+# Grand Junction Times (USA)
+*://*.grandjunctiontimes.com/*
+
