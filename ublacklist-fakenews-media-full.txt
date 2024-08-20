@@ -2455,3 +2455,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The People’s Voice (USA)
 *://*.thepeoplesvoice.tv/*
 
+# News Pushed (UK)
+*://*.newspushed.com/*
+*://*.hkfreezone.com/*
+
