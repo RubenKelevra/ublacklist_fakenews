@@ -1202,3 +1202,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Farm Insurance News (USA)
 *://*.farminsurancenews.com/*
 
+# Fars News (Iran)
+*://*.farsnews.ir/*
+
