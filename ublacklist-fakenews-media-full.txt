@@ -3314,3 +3314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Luis Potosi Post (Unknown)
 *://*.sanluispotosipost.com/*
 
+# San Miguel Post (Unknown)
+*://*.sanmiguelpost.com/*
+
