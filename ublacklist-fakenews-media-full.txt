@@ -1897,3 +1897,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Licking Today (USA)
 *://*.lickingtoday.com/*
 
+# Life News (USA)
+*://*.lifenews.com/*
+
