@@ -747,3 +747,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Ammo (USA)
 *://*.conservativeammo.com/*
 
+# Conservative Beaver (Canada)
+*://*.conservativebeaver.com/*
+*://*.ice-energy.com/*
+
