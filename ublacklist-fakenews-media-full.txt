@@ -2220,3 +2220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.mtonews.com/*
 *://*.mediatakeout.com/*
 
+# Muncie (USA)
+*://*.munciereporter.com/*
+
