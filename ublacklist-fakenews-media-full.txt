@@ -4309,3 +4309,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth and Action (USA)
 *://*.truthandaction.org/*
 
+# Truth Based Media (Unknown)
+*://*.truthbasedmedia.com/*
+
