@@ -1391,3 +1391,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Glacier Country News (USA)
 *://*.glaciercountrynews.com/*
 
+# Globe Magazine (USA)
+*://*.globemagazine.com/*
+
