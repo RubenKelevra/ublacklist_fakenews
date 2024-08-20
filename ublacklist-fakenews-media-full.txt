@@ -488,3 +488,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19Zinc.com (Unknown)
 *://*.c19zinc.com/*
 
+# Cabarrus Today (USA)
+*://*.cabarrustoday.com/*
+
