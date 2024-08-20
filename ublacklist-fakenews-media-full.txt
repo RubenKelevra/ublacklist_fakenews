@@ -115,3 +115,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Americas Freedom Fighters (USA)
 *://*.americasfreedomfighters.com/*
 
+# American Gulag (USA)
+*://*.americangulag.org/*
+
