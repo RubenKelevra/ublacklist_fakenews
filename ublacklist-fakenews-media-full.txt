@@ -2033,3 +2033,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Men Going Their Own Way (USA)
 *://*.mgtow.tv/*
 
+# Merced Times (USA)
+*://*.mercedtimes.com/*
+
