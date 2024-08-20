@@ -1894,3 +1894,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Libs of TikTok (USA)
 *://*.libsoftiktok.com/*
 
+# Licking Today (USA)
+*://*.lickingtoday.com/*
+
