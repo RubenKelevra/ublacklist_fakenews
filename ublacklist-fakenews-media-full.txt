@@ -1738,3 +1738,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kalamazoo Times (USA)
 *://*.kalamazootimes.com/*
 
+# Kane County Reporter (USA)
+*://*.kanecountyreporter.com/*
+
