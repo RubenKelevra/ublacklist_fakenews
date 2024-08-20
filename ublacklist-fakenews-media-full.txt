@@ -1819,3 +1819,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lake Region News (USA)
 *://*.lakeregionnews.com/*
 
+# Lake Tahoe Sun (USA)
+*://*.laketahoesun.com/*
+
