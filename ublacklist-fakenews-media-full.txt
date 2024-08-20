@@ -140,3 +140,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Pharmacy News (USA)
 *://*.americanpharmacynews.com/*
 
+# American Principles Project (USA)
+*://*.americanprinciplesproject.org/*
+
