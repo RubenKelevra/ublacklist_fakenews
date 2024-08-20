@@ -3937,3 +3937,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TechStartups (USA)
 *://*.techstartups.com/*
 
+# Teddy Stick (Unknown)
+*://*.teddystick.com/*
+
