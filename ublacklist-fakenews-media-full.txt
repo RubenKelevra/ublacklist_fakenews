@@ -1316,3 +1316,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FrontPage NewsPaper (USA)
 *://*.frontpagenewspaper.com/*
 
+# FT Wayne Times (USA)
+*://*.ftwaynetimes.com/*
+
