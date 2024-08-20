@@ -4507,3 +4507,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Indiana News (USA)
 *://*.wcindiananews.com/*
 
+# WC Iowa News (USA)
+*://*.wciowanews.com/*
+
