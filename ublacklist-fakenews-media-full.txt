@@ -3060,3 +3060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.pravdareport.com/*
 *://*.pravda.ru/*
 
+# PravoSlavie.ru (Russia)
+*://*.pravoslavie.ru/*
+
