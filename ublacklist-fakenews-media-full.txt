@@ -3771,3 +3771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Stopping Socialism (USA)
 *://*.stoppingsocialism.com/*
 
+# St. Paul Reporter (USA)
+*://*.stpaulreporter.com/*
+
