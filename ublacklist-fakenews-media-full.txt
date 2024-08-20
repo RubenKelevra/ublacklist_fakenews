@@ -2051,3 +2051,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Metapedia (Sweden)
 *://*.en.metapedia.org/*
 
+# Metric Media (USA)
+*://*.metricmedianews.com/*
+
