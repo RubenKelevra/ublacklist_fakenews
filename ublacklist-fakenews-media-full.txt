@@ -1349,3 +1349,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Geller Report (USA)
 *://*.gellerreport.com/*
 
+# Gem State Wire (USA)
+*://*.gemstatewire.com/*
+
