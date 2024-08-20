@@ -4624,3 +4624,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West SFV Today (USA)
 *://*.westsfvtoday.com/*
 
+# West SGV News (USA)
+*://*.westsgvnews.com/*
+
