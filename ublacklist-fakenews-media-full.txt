@@ -1771,3 +1771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kern County Times (USA)
 *://*.kerncountytimes.com/*
 
+# Key West Reporter (USA)
+*://*.keywestreporter.com/*
+
