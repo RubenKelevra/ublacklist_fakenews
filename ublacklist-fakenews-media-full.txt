@@ -1217,3 +1217,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FDA Health News (USA)
 *://*.fdahealthnews.com/*
 
+# FDA Reporter (USA)
+*://*.fdareporter.com/*
+
