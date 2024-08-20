@@ -1876,3 +1876,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty Counsel (USA)
 *://*.lc.org/*
 
+# Liberty Hangout (USA)
+*://*.libertyhangout.org/*
+
