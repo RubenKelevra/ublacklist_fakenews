@@ -4306,3 +4306,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Trump Train News (USA)
 *://*.trumptrainnews.com/*
 
+# Truth and Action (USA)
+*://*.truthandaction.org/*
+
