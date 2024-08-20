@@ -3072,3 +3072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Press California (USA)
 *://*.presscalifornia.com/*
 
+# Press Corp (USA)
+*://*.presscorp.org/*
+
