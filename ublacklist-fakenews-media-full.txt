@@ -503,3 +503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Campeche Post (Unknown)
 *://*.campechepost.com/*
 
+# Canada Free Press (Canada)
+*://*.canadafreepress.com/*
+
