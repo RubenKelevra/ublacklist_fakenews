@@ -1765,3 +1765,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kentuckiana Times (USA)
 *://*.kentuckianatimes.com/*
 
+# Kentucky Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
