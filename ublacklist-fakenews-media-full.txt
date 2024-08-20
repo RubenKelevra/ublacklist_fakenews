@@ -1259,3 +1259,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Florida Parish News (USA)
 *://*.floridaparishnews.com/*
 
+# Focus on the Family (USA)
+*://*.focusonthefamily.com/*
+
