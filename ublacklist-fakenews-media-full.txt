@@ -3135,3 +3135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Redding Today (USA)
 *://*.reddingtoday.com/*
 
+# Red Ice TV (Sweden)
+*://*.redice.tv/*
+
