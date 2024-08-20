@@ -2392,3 +2392,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Ohio Times (USA)
 *://*.neohiotimes.com/*
 
+# NE Piedmont News (USA)
+*://*.nepiedmontnews.com/*
+
