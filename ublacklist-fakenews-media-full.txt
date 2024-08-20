@@ -3075,3 +3075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Press Corp (USA)
 *://*.presscorp.org/*
 
+# Press TV (Iran)
+*://*.presstv.ir/*
+
