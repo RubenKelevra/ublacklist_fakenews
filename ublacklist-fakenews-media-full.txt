@@ -2926,3 +2926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriot Uproar (USA)
 *://*.patriotuproar.com/*
 
+# Patriots.Win (USA)
+*://*.patriots.win/*
+
