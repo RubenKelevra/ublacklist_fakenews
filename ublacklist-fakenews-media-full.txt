@@ -1094,3 +1094,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Ventura News (USA)
 *://*.eastventuranews.com/*
 
+# East Volusia News (USA)
+*://*.eastvolusianews.com/*
+
