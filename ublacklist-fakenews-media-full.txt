@@ -231,3 +231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Association of American Physicians and Surgeons (USA)
 *://*.aapsonline.org/*
 
+# Athens Reporter (USA)
+*://*.athensreporter.com/*
+
