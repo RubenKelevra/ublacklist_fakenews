@@ -2468,3 +2468,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Rescue (Nigeria)
 *://*.newsrescue.com/*
 
+# News Sloth (USA)
+*://*.newssloth.com/*
+
