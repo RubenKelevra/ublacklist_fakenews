@@ -334,3 +334,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bluegrass Times (USA)
 *://*.bluegrasstimes.com/*
 
+# Blue State Blues News (USA)
+*://*.bluestatebluesnews.com/*
+
