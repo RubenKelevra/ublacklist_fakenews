@@ -4198,3 +4198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tehran Times (Iran)
 *://*.tehrantimes.com/*
 
+# Thinking Conservative (USA)
+*://*.thethinkingconservative.com/*
+
