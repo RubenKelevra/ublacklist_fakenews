@@ -164,3 +164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Amerika (USA)
 *://*.amerika.org/*
 
+# Ames Today (USA)
+*://*.amestoday.com/*
+
