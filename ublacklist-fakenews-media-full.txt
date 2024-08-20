@@ -2601,3 +2601,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Hennepin News (USA)
 *://*.northhennepinnews.com/*
 
+# North Michigan News (USA)
+*://*.northmichigannews.com/*
+
