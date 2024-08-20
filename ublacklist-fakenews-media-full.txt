@@ -2767,3 +2767,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Georgia News (USA)
 *://*.nwgeorgianews.com/*
 
+# NW Illinois News (USA)
+*://*.nwillinoisnews.com/*
+
