@@ -61,3 +61,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # All News Pipeline (USA)
 *://*.allnewspipeline.com/*
 
+# Alliance Defending Freedom (USA)
+*://*.adflegal.org/*
+
