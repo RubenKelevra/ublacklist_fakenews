@@ -454,3 +454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19mp.com (Unknown)
 *://*.c19mp.com/*
 
+# C19nitazoxanide.com (Unknown)
+*://*.c19nitazoxanide.com/*
+
