@@ -3175,3 +3175,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Republican Daily (USA)
 *://*.republicandaily.net/*
 
+# Republican National Committee (USA)
+*://*.gop.com/*
+
