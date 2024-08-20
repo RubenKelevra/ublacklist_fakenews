@@ -766,3 +766,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Free Press (USA)
 *://*.conservativefreepress.com/*
 
+# Conservative Matrix (USA)
+*://*.conservativematrix.com/*
+
