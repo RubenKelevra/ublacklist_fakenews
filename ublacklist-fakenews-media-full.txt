@@ -635,3 +635,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Chicago City Wire (USA)
 *://*.chicagocitywire.com/*
 
+# Chico Times (USA)
+*://*.chicotimes.com/*
+
