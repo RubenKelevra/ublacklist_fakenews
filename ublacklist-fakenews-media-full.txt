@@ -1861,3 +1861,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lehigh Valley News (USA)
 *://*.lehighnews.org/*
 
+# Lenta.ru (Russia)
+*://*.lenta.ru/*
+
