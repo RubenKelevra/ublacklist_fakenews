@@ -2147,3 +2147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Minnesota Sun (USA)
 *://*.theminnesotasun.com/*
 
+# Mint Press News (USA)
+*://*.mintpressnews.com/*
+
