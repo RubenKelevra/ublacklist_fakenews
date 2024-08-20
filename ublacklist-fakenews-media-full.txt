@@ -448,3 +448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.c19ivermectin.com/*
 *://*.c19ivm.org/*
 
+# C19melatonin.com (Unknown)
+*://*.c19melatonin.com/*
+
