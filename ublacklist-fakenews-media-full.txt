@@ -4672,3 +4672,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wisconsin Daily Star (USA)
 *://*.wisconsindailystar.com/*
 
+# Wisconsin Lake Times (USA)
+*://*.wisconsinlaketimes.com/*
+
