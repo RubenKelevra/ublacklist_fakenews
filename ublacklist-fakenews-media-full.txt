@@ -1587,3 +1587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Human Life International (USA)
 *://*.hli.org/*
 
+# Huntsville Leader (USA)
+*://*.huntsvilleleader.com/*
+
