@@ -2718,3 +2718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Wake News (USA)
 *://*.northwakenews.com/*
 
+# North Wichita News (USA)
+*://*.northwichitanews.com/*
+
