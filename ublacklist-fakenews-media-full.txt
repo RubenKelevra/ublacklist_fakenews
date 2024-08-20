@@ -2293,3 +2293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Georgia News (USA)
 *://*.ncgeorgianews.com/*
 
+# NC Kansas News (USA)
+*://*.nckansasnews.com/*
+
