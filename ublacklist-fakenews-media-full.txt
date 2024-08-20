@@ -2320,3 +2320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Union News (USA)
 *://*.ncunionnews.com/*
 
+# ND North News (USA)
+*://*.ndnorthnews.com/*
+
