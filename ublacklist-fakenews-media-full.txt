@@ -1906,3 +1906,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LifeZette (USA)
 *://*.lifezette.com/*
 
+# Lima Reporter (USA)
+*://*.limareporter.com/*
+
