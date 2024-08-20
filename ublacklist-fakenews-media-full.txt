@@ -161,3 +161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Americans Are Pissed (Unknown)
 *://*.americansarepissed.com/*
 
+# Amerika (USA)
+*://*.amerika.org/*
+
