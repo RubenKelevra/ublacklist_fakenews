@@ -4360,3 +4360,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Understanding The Threat (USA)
 *://*.understandingthethreat.com/*
 
+# Union County Review (USA)
+*://*.unioncountyreview.com/*
+
