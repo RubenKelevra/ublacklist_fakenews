@@ -4147,3 +4147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Proud Liberal (USA)
 *://*.theproudliberal.org/*
 
+# The Published Reporter (USA)
+*://*.publishedreporter.com/*
+
