@@ -2944,3 +2944,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pelican State News (USA)
 *://*.pelicanstatenews.com/*
 
+# Pennsylvania Daily Star (USA)
+*://*.pennsylvaniadailystar.com/*
+
