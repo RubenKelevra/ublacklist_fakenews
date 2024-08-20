@@ -3829,3 +3829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sunshine Sentinel (USA)
 *://*.sunshinesentinel.com/*
 
+# SurvivalBlog.com (USA)
+*://*.survivalblog.com/*
+
