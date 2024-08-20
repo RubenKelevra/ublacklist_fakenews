@@ -4363,3 +4363,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Union County Review (USA)
 *://*.unioncountyreview.com/*
 
+# Unite America First (USA)
+*://*.uniteamericafirst.com/*
+
