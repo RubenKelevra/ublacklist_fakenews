@@ -1118,3 +1118,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # EC Indiana News (USA)
 *://*.ecindiananews.com/*
 
+# EC Kansas News (USA)
+*://*.eckansasnews.com/*
+
