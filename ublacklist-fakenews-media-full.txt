@@ -1109,3 +1109,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # eBaum’s World (USA)
 *://*.ebaumsworld.com/*
 
+# Echo Check (USA)
+*://*.echocheck.org/*
+
