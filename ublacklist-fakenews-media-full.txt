@@ -2917,3 +2917,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriotic Post (USA)
 *://*.patrioticpost.com/*
 
+# Patriot NewsFeed (USA)
+*://*.patriotnewsfeed.com/*
+
