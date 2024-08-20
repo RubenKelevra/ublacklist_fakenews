@@ -2425,3 +2425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # New Mexico Sun (USA)
 *://*.auburntimes.com/*
 
+# New Nation News (USA)
+*://*.newnation.org/*
+
