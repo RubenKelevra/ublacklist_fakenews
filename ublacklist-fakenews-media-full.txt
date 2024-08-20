@@ -3741,3 +3741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Stanislaus News (USA)
 *://*.stanislausnews.com/*
 
+# Stares at the World (Canada)
+*://*.staresattheworld.com/*
+
