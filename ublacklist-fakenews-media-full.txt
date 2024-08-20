@@ -2272,3 +2272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # National Zero (USA)
 *://*.nationalzero.com/*
 
+# Nation and State (USA)
+*://*.nationandstate.com/*
+
