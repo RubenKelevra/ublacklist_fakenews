@@ -3789,3 +3789,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South SFV Today (USA)
 *://*.southsfvtoday.com/*
 
+# Speech Point (Unknown)
+*://*.speech-point.com/*
+
