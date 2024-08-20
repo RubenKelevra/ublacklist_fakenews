@@ -3940,3 +3940,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Teddy Stick (Unknown)
 *://*.teddystick.com/*
 
+# TeleSUR (Venezuela)
+*://*.telesurenglish.net/*
+
