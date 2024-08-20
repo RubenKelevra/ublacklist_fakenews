@@ -1205,3 +1205,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fars News (Iran)
 *://*.farsnews.ir/*
 
+# Dissident Mag (USA)
+*://*.dissident-mag.com/*
+
