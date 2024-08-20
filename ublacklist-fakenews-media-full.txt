@@ -3108,3 +3108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Quincy Reporter (USA)
 *://*.quincyreporter.com/*
 
+# Quds News Network (Palestine)
+*://*.qudsnen.co/*
+
