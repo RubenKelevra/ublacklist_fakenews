@@ -1560,3 +1560,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hoodsite-USA Crime (USA)
 *://*.usacrime.com/*
 
+# Hoosier State Today (USA)
+*://*.hoosierstatetoday.com/*
+
