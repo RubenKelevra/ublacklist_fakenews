@@ -3084,3 +3084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Profile.ru (Russia)
 *://*.profile.ru/*
 
+# Project Veritas (USA)
+*://*.projectveritas.com/*
+
