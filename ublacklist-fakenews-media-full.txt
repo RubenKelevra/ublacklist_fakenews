@@ -4135,3 +4135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Patriot Nurse (USA)
 *://*.thepatriotnurse.com/*
 
+# The Politics Brief (USA)
+*://*.thepoliticsbrief.com/*
+
