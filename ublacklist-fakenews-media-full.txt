@@ -1659,3 +1659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Inside the Magic (USA)
 *://*.insidethemagic.net/*
 
+# InstaPundit (USA)
+*://*.instapundit.com/*
+
