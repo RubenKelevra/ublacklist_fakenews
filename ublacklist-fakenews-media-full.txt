@@ -1677,3 +1677,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # International Organization for the Family (USA)
 *://*.profam.org/*
 
+# Iowa Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
