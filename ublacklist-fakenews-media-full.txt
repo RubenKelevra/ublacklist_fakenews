@@ -4603,3 +4603,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Massachusetts News (USA)
 *://*.westmassnews.com/*
 
+# Western ND News (USA)
+*://*.westernndnews.com/*
+
