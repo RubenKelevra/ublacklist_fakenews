@@ -1723,3 +1723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Johnston Reporter (USA)
 *://*.johnstonreporter.com/*
 
+# Jonesboro Times (USA)
+*://*.jonesborotimes.com/*
+
