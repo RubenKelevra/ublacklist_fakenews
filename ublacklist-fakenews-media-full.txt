@@ -2553,3 +2553,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Cook News (USA)
 *://*.northcooknews.com/*
 
+# North Country Reporter (USA)
+*://*.northcountryreporter.com/*
+
