@@ -1124,3 +1124,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # EC Mississippi News (USA)
 *://*.ecmissnews.com/*
 
+# EC Nebraska News (USA)
+*://*.ecnebraskanews.com/*
+
