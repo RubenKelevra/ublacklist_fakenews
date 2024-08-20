@@ -1813,3 +1813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lake County Gazette (USA)
 *://*.lakecountygazette.com/*
 
+# Lake County Times (USA)
+*://*.lakecountytimes.com/*
+
