@@ -2084,3 +2084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mic Drop Politics (USA)
 *://*.micdroppolitics.com/*
 
+# Michigan Business Daily (USA)
+*://*.mibusinessdaily.com/*
+
