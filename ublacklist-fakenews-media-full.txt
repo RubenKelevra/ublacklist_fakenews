@@ -905,3 +905,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Defiant America (USA)
 *://*.defiantamerica.com/*
 
+# DeKalb GA News (USA)
+*://*.dekalbganews.com/*
+
