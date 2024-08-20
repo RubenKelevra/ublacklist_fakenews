@@ -662,3 +662,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CitizenGO (Spain)
 *://*.citizengo.org/*
 
+# Citizens Journal (USA)
+*://*.citizensjournal.us/*
+
