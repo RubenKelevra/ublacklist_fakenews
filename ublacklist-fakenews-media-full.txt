@@ -1674,3 +1674,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Interior Alaska News (USA)
 *://*.interioralaskanews.com/*
 
+# International Organization for the Family (USA)
+*://*.profam.org/*
+
