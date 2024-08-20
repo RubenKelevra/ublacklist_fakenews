@@ -1512,3 +1512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hawkeye Reporter (USA)
 *://*.hawkeyereporter.com/*
 
+# Headline USA (USA)
+*://*.headlineusa.com/*
+
