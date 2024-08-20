@@ -2329,3 +2329,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Atlanta News (USA)
 *://*.neatlantanews.com/*
 
+# NE Bergen News (USA)
+*://*.nebergennews.com/*
+
