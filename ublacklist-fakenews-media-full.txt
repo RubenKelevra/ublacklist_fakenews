@@ -307,3 +307,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.bigleaguepolitics.com/*
 *://*.bigleaguepolitics.substack.com/*
 
+# Big Sky Times (USA)
+*://*.bigskytimes.com/*
+
