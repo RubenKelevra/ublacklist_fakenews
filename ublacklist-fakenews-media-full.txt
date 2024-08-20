@@ -4762,3 +4762,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yuba-Sutter Times (USA)
 *://*.yubasuttertimes.com/*
 
+# Yucatan Post (Unknown)
+*://*.theyucatanpost.com/*
+
