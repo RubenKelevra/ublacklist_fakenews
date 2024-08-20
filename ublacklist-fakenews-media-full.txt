@@ -2235,3 +2235,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Iowa News (USA)
 *://*.nwiowanews.com/*
 
+# New Jersey Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
