@@ -2746,3 +2746,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Alabama News (USA)
 *://*.nwalabamanews.com/*
 
+# NW Arkansas News (USA)
+*://*.nwarkansasnews.com/*
+
