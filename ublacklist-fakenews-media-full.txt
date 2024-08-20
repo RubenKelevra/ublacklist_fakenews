@@ -2974,3 +2974,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pima Times (USA)
 *://*.pimatimes.com/*
 
+# Pinal Today (USA)
+*://*.pinaltoday.com/*
+
