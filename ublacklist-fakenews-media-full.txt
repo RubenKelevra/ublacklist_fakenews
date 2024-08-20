@@ -2610,3 +2610,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Indy News (USA)
 *://*.northindynews.com/*
 
+# North Inland News (USA)
+*://*.northinlandnews.com/*
+
