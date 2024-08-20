@@ -3883,3 +3883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Mississippi News (USA)
 *://*.swmissnews.com/*
 
+# SW New Hampshire News (USA)
+*://*.swnewhampshirenews.com/*
+
