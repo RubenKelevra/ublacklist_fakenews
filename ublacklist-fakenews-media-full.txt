@@ -206,3 +206,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Arizona Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# The Arizona Independent (USA)
+*://*.arizonaindependent.com/*
+*://*.tainews.com/*
+
