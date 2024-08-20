@@ -2183,3 +2183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monroe NY News (USA)
 *://*.monroenynews.com/*
 
+# Monroe Review (USA)
+*://*.monroereview.com/*
+
