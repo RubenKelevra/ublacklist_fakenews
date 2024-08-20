@@ -1916,3 +1916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Litchfield Hills Today (USA)
 *://*.litchfieldhillstoday.com/*
 
+# Little Apple Times (USA)
+*://*.littleappletimes.com/*
+
