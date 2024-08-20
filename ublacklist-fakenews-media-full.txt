@@ -1557,3 +1557,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Holland Reporter (USA)
 *://*.hollandreporter.com/*
 
+# Hoodsite-USA Crime (USA)
+*://*.usacrime.com/*
+
