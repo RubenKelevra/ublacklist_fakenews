@@ -3518,3 +3518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South ABQ News (USA)
 *://*.southabqnews.com/*
 
+# South Africa Today (USA)
+*://*.southafricatoday.net/*
+
