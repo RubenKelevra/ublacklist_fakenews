@@ -1717,3 +1717,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Joco Today (USA)
 *://*.jocotoday.com/*
 
+# John Birch Society (USA)
+*://*.jbs.org/*
+
