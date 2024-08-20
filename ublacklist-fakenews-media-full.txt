@@ -1828,3 +1828,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lane County News (USA)
 *://*.laneconews.com/*
 
+# Lansing Sun (USA)
+*://*.lansingsun.com/*
+
