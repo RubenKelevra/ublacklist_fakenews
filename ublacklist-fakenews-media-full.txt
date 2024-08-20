@@ -3398,3 +3398,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Denver News (USA)
 *://*.sedenvernews.com/*
 
+# Seekr (USA)
+*://*.seekr.com/*
+
