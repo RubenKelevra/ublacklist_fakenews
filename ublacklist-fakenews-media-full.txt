@@ -1795,3 +1795,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kunstler.com (USA)
 *://*.kunstler.com/*
 
+# La Crosse Leader (USA)
+*://*.lacrosseleader.org/*
+
