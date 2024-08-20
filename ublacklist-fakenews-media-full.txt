@@ -4759,3 +4759,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # YourNews (USA)
 *://*.yournews.com/*
 
+# Yuba-Sutter Times (USA)
+*://*.yubasuttertimes.com/*
+
