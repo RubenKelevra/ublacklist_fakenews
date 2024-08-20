@@ -863,3 +863,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Stormer (USA)
 *://*.dailystormer.in/*
 
+# Dakota Times (USA)
+*://*.dakotatimes.com/*
+
