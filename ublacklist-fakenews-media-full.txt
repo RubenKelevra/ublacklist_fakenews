@@ -3284,3 +3284,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sacramento Standard (USA)
 *://*.sacramentostandard.com/*
 
+# Salem News Wire (USA)
+*://*.salemnewswire.com/*
+
