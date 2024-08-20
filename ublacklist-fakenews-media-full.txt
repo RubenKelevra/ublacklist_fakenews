@@ -848,3 +848,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Headlines (Unknown)
 *://*.dailyheadlines.net/*
 
+# Daily Honker (USA)
+*://*.dailyhonker.com/*
+
