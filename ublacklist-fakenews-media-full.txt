@@ -4234,3 +4234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Three Rivers Gazette (USA)
 *://*.threeriversgazette.com/*
 
+# Thumb Reporter (USA)
+*://*.thumbreporter.com/*
+
