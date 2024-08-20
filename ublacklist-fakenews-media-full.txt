@@ -1653,3 +1653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # InfoScum (Canada)
 *://*.infoscum.com/*
 
+# Inner Strength Zone (Canada)
+*://*.innerstrength.zone/*
+
