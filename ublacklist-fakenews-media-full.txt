@@ -704,3 +704,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Coconino News (USA)
 *://*.coconinonews.com/*
 
+# Colorado Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
