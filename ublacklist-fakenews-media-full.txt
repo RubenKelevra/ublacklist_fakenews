@@ -4207,3 +4207,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The True Defender (USA)
 *://*.thetruedefender.com/*
 
+# The True Reporter (USA)
+*://*.thetruereporter.com/*
+
