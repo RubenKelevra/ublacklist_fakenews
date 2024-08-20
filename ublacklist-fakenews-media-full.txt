@@ -2770,3 +2770,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Illinois News (USA)
 *://*.nwillinoisnews.com/*
 
+# NW Jersey News (USA)
+*://*.nwjerseynews.com/*
+
