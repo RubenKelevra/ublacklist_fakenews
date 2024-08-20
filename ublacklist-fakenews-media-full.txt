@@ -2764,3 +2764,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Franklin News (USA)
 *://*.nwfranklinnews.com/*
 
+# NW Georgia News (USA)
+*://*.nwgeorgianews.com/*
+
