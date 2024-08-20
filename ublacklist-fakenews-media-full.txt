@@ -394,3 +394,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Buffalo Ledger (USA)
 *://*.buffaloledger.com/*
 
+# Burlington Reporter (USA)
+*://*.burlingtonreporter.com/*
+
