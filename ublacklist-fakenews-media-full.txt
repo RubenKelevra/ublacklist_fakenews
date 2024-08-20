@@ -3629,3 +3629,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Maine News (USA)
 *://*.southmainenews.com/*
 
+# South Mecklenburg News (USA)
+*://*.southmecklenburgnews.com/*
+
