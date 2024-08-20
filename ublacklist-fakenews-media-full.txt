@@ -2791,3 +2791,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Mississippi News (USA)
 *://*.nwmissnews.com/*
 
+# NW Missouri Times (USA)
+*://*.nwmissouritimes.com/*
+
