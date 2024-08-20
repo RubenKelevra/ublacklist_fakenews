@@ -3239,3 +3239,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rocky Mount Today (USA)
 *://*.rockymounttoday.com/*
 
+# Rodong Sinmun (North Korea)
+*://*.rodong.rep.kp/*
+
