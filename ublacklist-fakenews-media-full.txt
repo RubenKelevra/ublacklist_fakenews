@@ -3090,3 +3090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Proto Thema (GREECE)
 *://*.en.protothema.gr/*
 
+# Pro Trump News (Unknown)
+*://*.protrumpnews.com/*
+
