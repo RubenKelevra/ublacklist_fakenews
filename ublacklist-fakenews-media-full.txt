@@ -4510,3 +4510,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WC Iowa News (USA)
 *://*.wciowanews.com/*
 
+# WC Minnesota News (USA)
+*://*.wcminnesotanews.com/*
+
