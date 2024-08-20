@@ -3563,3 +3563,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Cook News (USA)
 *://*.southcooknews.com/*
 
+# Southern Colorado Times (USA)
+*://*.southerncoloradotimes.com/*
+
