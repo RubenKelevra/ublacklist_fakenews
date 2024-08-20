@@ -1858,3 +1858,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Legal Newsline (USA)
 *://*.legalnewsline.com/*
 
+# Lehigh Valley News (USA)
+*://*.lehighnews.org/*
+
