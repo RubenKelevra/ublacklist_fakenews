@@ -644,3 +644,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # China Daily (China)
 *://*.chinadaily.com.cn/*
 
+# China Global Television Network (China)
+*://*.cgtn.com/*
+
