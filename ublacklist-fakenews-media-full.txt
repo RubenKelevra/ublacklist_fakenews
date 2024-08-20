@@ -3500,3 +3500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SLO Reporter (USA)
 *://*.sloreporter.com/*
 
+# Sohu.com (China)
+*://*.sohu.com/*
+
