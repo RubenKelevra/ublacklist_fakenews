@@ -779,3 +779,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Post (USA)
 *://*.conservativepost.com/*
 
+# Conservative Revival (USA)
+*://*.conservativerevival.com/*
+
