@@ -3786,3 +3786,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Pima News (USA)
 *://*.southpimanews.com/*
 
+# South SFV Today (USA)
+*://*.southsfvtoday.com/*
+
