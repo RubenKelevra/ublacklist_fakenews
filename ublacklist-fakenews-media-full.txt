@@ -2229,3 +2229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Muslim Skeptic (USA)
 *://*.muslimskeptic.com/*
 
+# Mutembei TV (Kenya)
+*://*.mutembeitv.com/*
+
