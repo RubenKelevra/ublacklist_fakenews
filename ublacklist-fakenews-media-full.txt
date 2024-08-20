@@ -2541,3 +2541,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Charlotte Today (USA)
 *://*.northcharlottetoday.com/*
 
+# North Coast California News (USA)
+*://*.northcoastcanews.com/*
+
