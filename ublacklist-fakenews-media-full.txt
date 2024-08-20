@@ -1277,3 +1277,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fort Smith Times (USA)
 *://*.fortsmithtimes.com/*
 
+# Fox News (USA)
+*://*.twitter.com/FoxNews*
+*://*.x.com/FoxNews*
+*://*.facebook.com/FoxNews*
+*://*.foxnews.com/*
+
