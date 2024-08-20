@@ -4690,3 +4690,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Women are Human (USA)
 *://*.womenarehuman.com/*
 
+# Women’s Rights News (USA)
+*://*.facebook.com/*
+
