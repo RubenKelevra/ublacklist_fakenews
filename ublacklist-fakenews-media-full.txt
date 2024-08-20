@@ -1867,3 +1867,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lewiston Times (USA)
 *://*.lewistontimes.com/*
 
+# Lew Rockwell (USA)
+*://*.lewrockwell.com/*
+
