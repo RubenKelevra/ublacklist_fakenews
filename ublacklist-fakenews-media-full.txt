@@ -3066,3 +3066,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Preppers Daily News (USA)
 *://*.preppersdailynews.com/*
 
+# Presidential Hill (USA)
+*://*.presidentialhill.com/*
+
