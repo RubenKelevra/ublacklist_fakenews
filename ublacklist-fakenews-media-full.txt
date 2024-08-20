@@ -2404,3 +2404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NEO (Russia)
 *://*.journal-neo.org/*
 
+# NetEase (China)
+*://*.163.com/*
+
