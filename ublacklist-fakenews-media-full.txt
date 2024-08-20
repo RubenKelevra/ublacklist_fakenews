@@ -3197,3 +3197,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Right News Wire (USA)
 *://*.rightnewswire.com/*
 
+# Right Side Broadcasting Network (USA)
+*://*.rsbnetwork.com/*
+
