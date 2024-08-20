@@ -2039,3 +2039,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mercer Times (USA)
 *://*.mercertimes.com/*
 
+# MercoPress (Uruguay)
+*://*.en.mercopress.com/*
+
