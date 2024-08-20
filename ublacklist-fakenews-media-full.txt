@@ -3813,3 +3813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Suffolk Reporter (USA)
 *://*.suffolkreporter.com/*
 
+# Summerlin Reporter (USA)
+*://*.summerlinreporter.com/*
+
