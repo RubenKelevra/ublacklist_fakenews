@@ -938,3 +938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DiamondandSilkinc.com (USA)
 *://*.diamondandsilkinc.com/*
 
+# Discern Report (USA)
+*://*.discernreport.com/*
+
