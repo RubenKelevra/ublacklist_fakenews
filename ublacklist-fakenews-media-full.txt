@@ -403,3 +403,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Business Day Nigeria (Nigeria)
 *://*.businessday.ng/*
 
+# Butler County Today (USA)
+*://*.butlercountytoday.com/*
+
