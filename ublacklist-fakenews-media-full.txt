@@ -614,3 +614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Ohio Today (USA)
 *://*.centralohiotoday.com/*
 
+# Central Oregon Times (USA)
+*://*.centraloregontimes.com/*
+
