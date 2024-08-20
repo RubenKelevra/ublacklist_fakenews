@@ -4089,3 +4089,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Manhattan (USA)
 *://*.themanhattan.press/*
 
+# The Michigan Independent (USA)
+*://*.michiganindependent.com/*
+
