@@ -2935,3 +2935,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Peace Garden News (USA)
 *://*.peacegardennews.com/*
 
+# Peachtree Gazette (USA)
+*://*.peachtreegazette.com/*
+
