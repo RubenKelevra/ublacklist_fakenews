@@ -1608,3 +1608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # iHarare (Zimbabwe)
 *://*.iharare.com/*
 
+# I Hate the Media (USA)
+*://*.ihatethemedia.com/*
+
