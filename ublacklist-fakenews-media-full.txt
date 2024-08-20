@@ -3172,3 +3172,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Reno Reporter (USA)
 *://*.renoreporter.com/*
 
+# Republican Daily (USA)
+*://*.republicandaily.net/*
+
