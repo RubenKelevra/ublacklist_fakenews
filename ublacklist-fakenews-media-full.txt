@@ -2244,3 +2244,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Naples Standard (USA)
 *://*.naplesstandard.com/*
 
+# Nassau Standard (USA)
+*://*.nassaustandard.com/*
+
