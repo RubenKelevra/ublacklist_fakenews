@@ -1720,3 +1720,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # John Birch Society (USA)
 *://*.jbs.org/*
 
+# Johnston Reporter (USA)
+*://*.johnstonreporter.com/*
+
