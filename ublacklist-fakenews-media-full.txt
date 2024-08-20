@@ -1900,3 +1900,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Life News (USA)
 *://*.lifenews.com/*
 
+# LifeSiteNews (Canada)
+*://*.lifesitenews.com/*
+
