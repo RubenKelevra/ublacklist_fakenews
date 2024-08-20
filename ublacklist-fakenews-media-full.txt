@@ -3617,3 +3617,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South KC News (USA)
 *://*.southkcnews.com/*
 
+# South Kent News (USA)
+*://*.southkentnews.com/*
+
