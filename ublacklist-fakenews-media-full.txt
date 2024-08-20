@@ -2383,3 +2383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE New Mexico News (USA)
 *://*.nenewmexiconews.com/*
 
+# NE New York Today (USA)
+*://*.nenewyorktoday.com/*
+
