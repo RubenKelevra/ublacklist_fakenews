@@ -3437,3 +3437,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Nebraska News (USA)
 *://*.senebraskanews.com/*
 
+# SE North Carolina News (USA)
+*://*.senorthcarolinanews.com/*
+
