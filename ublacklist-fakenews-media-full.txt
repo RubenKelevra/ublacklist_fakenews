@@ -4468,3 +4468,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # War Room (USA)
 *://*.warroom.org/*
 
+# Washington Sources (USA)
+*://*.washingtonsources.org/*
+
