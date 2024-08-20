@@ -3753,3 +3753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Staten Island Reporter (USA)
 *://*.statenislandreporter.com/*
 
+# St. Charles Times (USA)
+*://*.stcharlestimes.com/*
+
