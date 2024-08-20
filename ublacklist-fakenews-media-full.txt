@@ -3182,3 +3182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.resistthemainstream.org/*
 *://*.resistthemainstream.com/*
 
+# Restore American Glory (USA)
+*://*.restoreamericanglory.com/*
+
