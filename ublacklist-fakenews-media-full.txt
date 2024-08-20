@@ -3795,3 +3795,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Claire Today (USA)
 *://*.stclairtoday.com/*
 
+# St. Louis Record (USA)
+*://*.stlrecord.com/*
+
