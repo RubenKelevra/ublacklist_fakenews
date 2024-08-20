@@ -899,3 +899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Def-Con News (USA)
 *://*.defconnews.com/*
 
+# Defending the Republic (USA)
+*://*.defendingtherepublic.org/*
+
