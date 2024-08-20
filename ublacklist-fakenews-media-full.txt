@@ -3263,3 +3263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rudaw (Iraq)
 *://*.rudaw.net/*
 
+# Rumble (Canada)
+*://*.rumble.com/*
+
