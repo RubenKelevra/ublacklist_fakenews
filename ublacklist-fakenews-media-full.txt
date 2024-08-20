@@ -397,3 +397,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Burlington Reporter (USA)
 *://*.burlingtonreporter.com/*
 
+# Burlington Review (USA)
+*://*.burlingtonreview.com/*
+
