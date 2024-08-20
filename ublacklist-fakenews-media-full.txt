@@ -4321,3 +4321,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tsargrad TV (Russia)
 *://*.tsargrad.tv/*
 
+# Tsarizm (USA)
+*://*.tsarizm.com/*
+
