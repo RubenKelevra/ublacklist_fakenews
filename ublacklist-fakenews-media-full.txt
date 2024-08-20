@@ -3419,3 +3419,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Kansas News (USA)
 *://*.auburntimes.com/*
 
+# SE Kansas City News (USA)
+*://*.sekansascitynews.com/*
+
