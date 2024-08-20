@@ -884,3 +884,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DC Weekly (Russia)
 *://*.dcweekly.org/*
 
+# DEBKAfile (Israel)
+*://*.debka.com/*
+
