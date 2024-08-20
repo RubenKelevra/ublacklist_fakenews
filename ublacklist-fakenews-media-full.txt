@@ -3910,3 +3910,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tabasco Post (Unknown)
 *://*.tabascopost.com/*
 
+# Taki’s Magazine (USA)
+*://*.takimag.com/*
+
