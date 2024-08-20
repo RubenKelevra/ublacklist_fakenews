@@ -986,3 +986,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Durango Post (Unknown)
 *://*.thedurangopost.com/*
 
+# Durham Reporter (USA)
+*://*.durhamreporter.com/*
+
