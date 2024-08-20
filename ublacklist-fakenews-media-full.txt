@@ -4600,3 +4600,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Lake Norman News (USA)
 *://*.westlakenormannews.com/*
 
+# West Massachusetts News (USA)
+*://*.westmassnews.com/*
+
