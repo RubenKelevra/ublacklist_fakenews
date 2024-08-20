@@ -2012,3 +2012,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mazatlan Post (Unknown)
 *://*.themazatlanpost.com/*
 
+# McHenry Times (USA)
+*://*.mchenrytimes.com/*
+
