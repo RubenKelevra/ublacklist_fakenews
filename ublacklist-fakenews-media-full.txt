@@ -1454,3 +1454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Greensboro Reporter (USA)
 *://*.greensbororeporter.com/*
 
+# Greenville Reporter (USA)
+*://*.greenvillereporter.com/*
+
