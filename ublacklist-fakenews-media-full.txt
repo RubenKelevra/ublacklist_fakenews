@@ -575,3 +575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # True Activist (Germany)
 *://*.trueactivist.com/*
 
+# Center for Security Policy (USA)
+*://*.centerforsecuritypolicy.org/*
+
