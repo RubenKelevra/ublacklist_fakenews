@@ -1148,3 +1148,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Emerald Coast Times (USA)
 *://*.emeraldcoasttimes.com/*
 
+# Emirates 24/7 (United Arab Emirates)
+*://*.emirates247.com/*
+
