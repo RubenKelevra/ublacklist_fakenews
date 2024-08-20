@@ -55,3 +55,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Albany Standard (USA)
 *://*.albanystandard.com/*
 
+# Al Bawaba (Jordan)
+*://*.albawaba.com/*
+
