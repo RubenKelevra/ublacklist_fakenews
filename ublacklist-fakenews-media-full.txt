@@ -3801,3 +3801,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Strafford News (USA)
 *://*.auburntimes.com/*
 
+# Strategic Culture Foundation (Russia)
+*://*.strategic-culture.org/*
+
