@@ -1016,3 +1016,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Central Reporter (USA)
 *://*.eastcentralreporter.com/*
 
+# East Cleveland News (USA)
+*://*.eastclevelandnews.com/*
+
