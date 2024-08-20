@@ -3979,3 +3979,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Colorado Herald (Unknown)
 *://*.thecoloradoherald.com/*
 
+# The Conservative Brief (USA)
+*://*.theconservativebrief.com/*
+
