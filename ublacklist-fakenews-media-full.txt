@@ -1400,3 +1400,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gnews (USA)
 *://*.gnews.org/*
 
+# Gold Country Today (USA)
+*://*.goldcountrytoday.com/*
+
