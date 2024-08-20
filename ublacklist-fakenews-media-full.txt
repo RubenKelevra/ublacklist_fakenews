@@ -3380,3 +3380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Alaska News (USA)
 *://*.sealaskanews.com/*
 
+# SE Arizona News (USA)
+*://*.searizonanews.com/*
+
