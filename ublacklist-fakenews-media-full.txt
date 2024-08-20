@@ -3383,3 +3383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Arizona News (USA)
 *://*.searizonanews.com/*
 
+# Secure America Now (USA)
+*://*.secureamericanow.org/*
+
