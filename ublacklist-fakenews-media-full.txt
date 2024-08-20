@@ -158,3 +158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Web Media (USA)
 *://*.awm.com/*
 
+# Americans Are Pissed (Unknown)
+*://*.americansarepissed.com/*
+
