@@ -2428,3 +2428,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # New Nation News (USA)
 *://*.newnation.org/*
 
+# News18 (India)
+*://*.news18.com/*
+
