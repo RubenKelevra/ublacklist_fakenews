@@ -521,3 +521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cape Cod Ledger (USA)
 *://*.capecodledger.com/*
 
+# Capital District Times (USA)
+*://*.capitaldistricttimes.com/*
+
