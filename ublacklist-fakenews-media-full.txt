@@ -3509,3 +3509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Somerset Times (USA)
 *://*.somersettimes.com/*
 
+# Sonora Post (Unknown)
+*://*.thesonorapost.com/*
+
