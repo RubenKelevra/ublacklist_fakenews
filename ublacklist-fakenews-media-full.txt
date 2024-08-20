@@ -515,3 +515,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Canton Reporter (USA)
 *://*.cantonreporter.com/*
 
+# Cap News (Unknown)
+*://*.cap-news.com/*
+
