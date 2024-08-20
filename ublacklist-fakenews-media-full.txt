@@ -1430,3 +1430,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Grand Rapids Reporter (USA)
 *://*.grandrapidsreporter.com/*
 
+# Granite Grok (USA)
+*://*.granitegrok.com/*
+
