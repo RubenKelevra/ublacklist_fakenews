@@ -197,3 +197,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Anti-War (USA)
 *://*.antiwar.com/*
 
+# Arab News (Saudi Arabia)
+*://*.arabnews.com/*
+
