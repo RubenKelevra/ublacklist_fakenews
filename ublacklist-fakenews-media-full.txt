@@ -370,3 +370,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Breakingnews247.net (Unknown)
 *://*.breakingnews247.net/*
 
+# Breitbart (USA)
+*://*.breitbart.com/*
+
