@@ -2872,3 +2872,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Orlando Standard (USA)
 *://*.orlandostandard.com/*
 
+# OTP Tribune (USA)
+*://*.otptribune.com/*
+
