@@ -2398,3 +2398,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Sacramento News (USA)
 *://*.nesacramentonews.com/*
 
+# NE Valley Times (USA)
+*://*.nevalleytimes.com/*
+
