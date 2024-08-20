@@ -581,3 +581,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Broward News (USA)
 *://*.centralbrowardnews.com/*
 
+# Central Colorado News (USA)
+*://*.centralcoloradonews.com/*
+
