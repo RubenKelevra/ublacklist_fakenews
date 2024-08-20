@@ -2105,3 +2105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mid Coast Today (USA)
 *://*.midcoasttoday.com/*
 
+# Middle East Forum (USA)
+*://*.meforum.org/*
+
