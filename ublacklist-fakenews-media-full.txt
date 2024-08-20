@@ -2532,3 +2532,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Boston News (USA)
 *://*.northbostonnews.com/*
 
+# North Broward News (USA)
+*://*.northbrowardnews.com/*
+
