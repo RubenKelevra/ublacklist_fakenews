@@ -1925,3 +1925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LiveLeak (UK)
 *://*.itemfix.com/*
 
+# London Web News (UK)
+*://*.londonwebnews.com/*
+
