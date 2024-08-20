@@ -267,3 +267,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Baton Rouge Reporter (USA)
 *://*.batonrougereporter.com/*
 
+# Battle Creek Times (USA)
+*://*.battlecreektimes.com/*
+
