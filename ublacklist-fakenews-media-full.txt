@@ -989,3 +989,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Durham Reporter (USA)
 *://*.durhamreporter.com/*
 
+# Duval Times (USA)
+*://*.duvaltimes.com/*
+
