@@ -1937,3 +1937,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Louisiana Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Louisville City Wire (USA)
+*://*.louisvillecitywire.com/*
+
