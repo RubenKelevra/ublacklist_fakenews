@@ -176,3 +176,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Analyzing America (USA)
 *://*.analyzingamerica.org/*
 
+# Anderson Reporter (USA)
+*://*.andersonreporter.com/*
+
