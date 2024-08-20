@@ -4252,3 +4252,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Topeka Sun (USA)
 *://*.topekasun.com/*
 
+# Torreon Post (Unknown)
+*://*.thetorreonpost.com/*
+
