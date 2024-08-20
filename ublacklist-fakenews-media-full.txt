@@ -4369,3 +4369,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # United Voice (USA)
 *://*.unitedvoice.com/*
 
+# Unity News Network (UK)
+*://*.unitynewsnetwork.co.uk/*
+
