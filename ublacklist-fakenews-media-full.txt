@@ -1133,3 +1133,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # EC Ohio News (USA)
 *://*.ecohionews.com/*
 
+# EC Oklahoma News (USA)
+*://*.ecoklahomanews.com/*
+
