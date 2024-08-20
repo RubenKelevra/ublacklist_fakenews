@@ -1295,3 +1295,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FreedomProject Media (USA)
 *://*.freedomproject.com/*
 
+# Free-Speech Front (Unknown)
+*://*.free-speechfront.info/*
+
