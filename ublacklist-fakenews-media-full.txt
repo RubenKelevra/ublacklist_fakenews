@@ -1891,3 +1891,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Liberty Wire (USA)
 *://*.libertywire.net/*
 
+# Libs of TikTok (USA)
+*://*.libsoftiktok.com/*
+
