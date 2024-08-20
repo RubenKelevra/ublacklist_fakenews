@@ -4092,3 +4092,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Michigan Independent (USA)
 *://*.michiganindependent.com/*
 
+# The Millennium Report (USA)
+*://*.themillenniumreport.com/*
+
