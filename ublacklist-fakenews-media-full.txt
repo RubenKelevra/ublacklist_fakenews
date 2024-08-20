@@ -1970,3 +1970,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Maine Highlands News (USA)
 *://*.mainehighlandsnews.com/*
 
+# Maine Lakes News (USA)
+*://*.mainelakesnews.com/*
+
