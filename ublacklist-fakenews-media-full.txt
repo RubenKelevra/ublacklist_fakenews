@@ -1870,3 +1870,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lew Rockwell (USA)
 *://*.lewrockwell.com/*
 
+# Liberty Bell (USA)
+*://*.libertybell.com/*
+
