@@ -3278,3 +3278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Russian News Agency-TASS (Russia)
 *://*.tass.com/*
 
+# Ruth Institute (USA)
+*://*.ruthinstitute.org/*
+
