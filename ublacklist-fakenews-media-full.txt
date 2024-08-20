@@ -1445,3 +1445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Great Lakes Wire (USA)
 *://*.greatlakeswire.com/*
 
+# GreatReject Bias (Netherlands)
+*://*.greatreject.org/*
+
