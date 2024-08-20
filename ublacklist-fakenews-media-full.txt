@@ -4576,3 +4576,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Hudson Valley News (USA)
 *://*.westhudvalleynews.com/*
 
+# West Lucas News (USA)
+*://*.westlucasnews.com/*
+
