@@ -2724,3 +2724,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Novi Times (USA)
 *://*.novitimes.com/*
 
+# Nour News (Iran)
+*://*.nournews.ir/*
+
