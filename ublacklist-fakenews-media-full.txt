@@ -4019,3 +4019,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Epoch Times (USA)
 *://*.theepochtimes.com/*
 
+# The Federalist (USA)
+*://*.thefederalist.com/*
+
