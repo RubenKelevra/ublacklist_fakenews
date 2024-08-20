@@ -2192,3 +2192,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monterey Times (USA)
 *://*.montereytimes.com/*
 
+# Monterrey Daily Post (Unknown)
+*://*.monterreydailypost.com/*
+
