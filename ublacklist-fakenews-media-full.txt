@@ -1100,3 +1100,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Wake Times (USA)
 *://*.eastwaketimes.com/*
 
+# East Witchita Times (USA)
+*://*.eastwichitatimes.com/*
+
