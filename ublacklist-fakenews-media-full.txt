@@ -1004,3 +1004,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Alameda News (USA)
 *://*.eastalamedanews.com/*
 
+# East Arapahoe News (USA)
+*://*.eastarapahoenews.com/*
+
