@@ -2932,3 +2932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriotic Viral News (USA)
 *://*.patrioticviralnews.com/*
 
+# Peace Garden News (USA)
+*://*.peacegardennews.com/*
+
