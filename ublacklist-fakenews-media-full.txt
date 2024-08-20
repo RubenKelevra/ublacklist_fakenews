@@ -216,3 +216,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Arkansas Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Armed Forces Press (USA)
+*://*.armedforces.press/*
+
