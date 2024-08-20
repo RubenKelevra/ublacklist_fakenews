@@ -4420,3 +4420,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriot Front (USA)
 *://*.patriotfront.us/*
 
+# VDARE (USA)
+*://*.vdare.com/*
+
