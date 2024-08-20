@@ -1846,3 +1846,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lawrence Reporter (USA)
 *://*.lawrencereporter.com/*
 
+# LAX Leader (USA)
+*://*.laxleader.com/*
+
