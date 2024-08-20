@@ -3416,3 +3416,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Iowa News (USA)
 *://*.seiowanews.com/*
 
+# SE Kansas News (USA)
+*://*.auburntimes.com/*
+
