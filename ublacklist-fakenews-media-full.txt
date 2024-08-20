@@ -3756,3 +3756,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Charles Times (USA)
 *://*.stcharlestimes.com/*
 
+# St. Cloud Sun (USA)
+*://*.stcloudsun.com/*
+
