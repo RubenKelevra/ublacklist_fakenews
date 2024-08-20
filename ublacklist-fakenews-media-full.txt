@@ -2743,3 +2743,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NTD TV (USA)
 *://*.ntd.com/*
 
+# NW Alabama News (USA)
+*://*.nwalabamanews.com/*
+
