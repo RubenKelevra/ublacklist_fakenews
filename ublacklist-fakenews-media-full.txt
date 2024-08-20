@@ -3674,3 +3674,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Sacramento Today (USA)
 *://*.southsactoday.com/*
 
+# South SF Bay News (USA)
+*://*.southsfbaynews.com/*
+
