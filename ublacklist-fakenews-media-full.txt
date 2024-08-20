@@ -3114,3 +3114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # RadarOnline (USA)
 *://*.radaronline.com/*
 
+# RAIR Foundation USA (USA)
+*://*.rairfoundation.com/*
+
