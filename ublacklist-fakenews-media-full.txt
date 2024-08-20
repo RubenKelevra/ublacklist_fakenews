@@ -2281,3 +2281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Naugatuck Times (USA)
 *://*.naugatucktimes.com/*
 
+# Nayarit Post (Unknown)
+*://*.thenayaritpost.com/*
+
