@@ -288,3 +288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Beaver State News (USA)
 *://*.beaverstatenews.com/*
 
+# Becker News (USA)
+*://*.beckernews.com/*
+
