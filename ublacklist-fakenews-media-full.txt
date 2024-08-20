@@ -2006,3 +2006,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mat-Su Times (USA)
 *://*.matsutimes.com/*
 
+# Maui Reporter (USA)
+*://*.mauireporter.com/*
+
