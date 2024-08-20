@@ -1988,3 +1988,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mansfield Times (USA)
 *://*.mansfieldtimes.com/*
 
+# Marin Leader (USA)
+*://*.marinleader.com/*
+
