@@ -3898,3 +3898,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW Valley Times (USA)
 *://*.swvalleytimes.com/*
 
+# SW Vegas News (USA)
+*://*.swvegasnews.com/*
+
