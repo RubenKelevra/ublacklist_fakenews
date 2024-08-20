@@ -270,3 +270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Battle Creek Times (USA)
 *://*.battlecreektimes.com/*
 
+# Bay State News (USA)
+*://*.baystatenews.com/*
+
