@@ -3668,3 +3668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Pinellas Times (USA)
 *://*.southpinellastimes.com/*
 
+# South Raleigh News (USA)
+*://*.southraleighnews.com/*
+
