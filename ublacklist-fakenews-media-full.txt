@@ -4483,3 +4483,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Washoe Gazette (USA)
 *://*.washoegazette.com/*
 
+# Washoe News (USA)
+*://*.washoenews.com/*
+
