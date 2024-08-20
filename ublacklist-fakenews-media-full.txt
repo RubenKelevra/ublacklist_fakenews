@@ -2508,3 +2508,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # No Left Turn in Education (USA)
 *://*.noleftturn.us/*
 
+# Nordic Monitor (Sweden)
+*://*.nordicmonitor.com/*
+
