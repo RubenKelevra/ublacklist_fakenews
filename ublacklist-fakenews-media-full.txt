@@ -1436,3 +1436,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Granite Post (USA)
 *://*.granitepostnews.com/*
 
+# Granma (Cuba)
+*://*.en.granma.cu/*
+
