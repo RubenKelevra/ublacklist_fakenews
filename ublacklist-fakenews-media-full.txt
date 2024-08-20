@@ -4564,3 +4564,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West DSM News (USA)
 *://*.westdsmnews.com/*
 
+# West El Dorado News (USA)
+*://*.westeldoradonews.com/*
+
