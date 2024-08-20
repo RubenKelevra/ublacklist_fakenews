@@ -2165,3 +2165,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mobile Courant (USA)
 *://*.mobilecourant.com/*
 
+# Mohave Today (USA)
+*://*.mohavetoday.com/*
+
