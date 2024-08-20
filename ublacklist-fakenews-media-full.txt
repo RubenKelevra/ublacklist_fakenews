@@ -2072,3 +2072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mexico Daily Post (Unknown)
 *://*.mexicodailypost.com/*
 
+# Miami Courant (USA)
+*://*.miamicourant.com/*
+
