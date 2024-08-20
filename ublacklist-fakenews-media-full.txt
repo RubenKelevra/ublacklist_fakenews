@@ -902,3 +902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Defending the Republic (USA)
 *://*.defendingtherepublic.org/*
 
+# Defiant America (USA)
+*://*.defiantamerica.com/*
+
