@@ -3976,3 +3976,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Buffalo Chronicle (USA)
 *://*.buffalochronicle.com/*
 
+# The Colorado Herald (Unknown)
+*://*.thecoloradoherald.com/*
+
