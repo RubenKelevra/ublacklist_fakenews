@@ -422,3 +422,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19Budesonide.com (Unknown)
 *://*.c19budesonide.com/*
 
+# C19colchicine.com (Unknown)
+*://*.c19colchicine.com/*
+
