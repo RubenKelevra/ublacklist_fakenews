@@ -4249,3 +4249,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TooFab (USA)
 *://*.toofab.com/*
 
+# Topeka Sun (USA)
+*://*.topekasun.com/*
+
