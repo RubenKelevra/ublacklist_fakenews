@@ -3539,3 +3539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Bend Times (USA)
 *://*.southbendtimes.com/*
 
+# South Alabama Times (USA)
+*://*.southalabamatimes.com/*
+
