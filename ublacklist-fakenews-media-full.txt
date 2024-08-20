@@ -4408,3 +4408,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Vacationland Times (USA)
 *://*.vacationlandtimes.com/*
 
+# Valeurs Actuelles (France)
+*://*.valeursactuelles.com/*
+
