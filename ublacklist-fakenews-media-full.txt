@@ -782,3 +782,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Revival (USA)
 *://*.conservativerevival.com/*
 
+# Conservative Tribune (USA)
+*://*.westernjournal.com/*
+
