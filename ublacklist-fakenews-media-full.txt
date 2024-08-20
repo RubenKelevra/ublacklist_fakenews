@@ -851,3 +851,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Honker (USA)
 *://*.dailyhonker.com/*
 
+# Daily Mail (UK)
+*://*.dailymail.co.uk/*
+
