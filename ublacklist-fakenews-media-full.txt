@@ -4336,3 +4336,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tulare Times (USA)
 *://*.tularetimes.com/*
 
+# Turley Talks (USA)
+*://*.turleytalks.com/*
+
