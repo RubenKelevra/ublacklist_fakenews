@@ -3215,3 +3215,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # River Valley Today (USA)
 *://*.rivervalleytoday.com/*
 
+# Rochester Reporter (USA)
+*://*.rochesterreporter.com/*
+
