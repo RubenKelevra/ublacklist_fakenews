@@ -500,3 +500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # California Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Campeche Post (Unknown)
+*://*.campechepost.com/*
+
