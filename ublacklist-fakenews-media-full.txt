@@ -729,3 +729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Concord Ledger (USA)
 *://*.concordledger.com/*
 
+# Congressional Agenda (USA)
+*://*.congressionalagenda.com/*
+
