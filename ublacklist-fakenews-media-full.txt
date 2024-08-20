@@ -182,3 +182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ann Arbor Times (USA)
 *://*.annarbortimes.com/*
 
+# Anne Arundel Today (USA)
+*://*.annearundeltoday.com/*
+
