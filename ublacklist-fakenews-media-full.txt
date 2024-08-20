@@ -3889,3 +3889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SW New Mexico News (USA)
 *://*.swnewmexiconews.com/*
 
+# SW Oklahoma News (USA)
+*://*.swoklahomanews.com/*
+
