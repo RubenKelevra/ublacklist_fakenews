@@ -219,3 +219,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Armed Forces Press (USA)
 *://*.armedforces.press/*
 
+# Aroostook News (USA)
+*://*.aroostooknews.com/*
+
