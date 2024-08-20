@@ -599,3 +599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Louisiana News (USA)
 *://*.centrallouisiananews.com/*
 
+# Central Missouri News (USA)
+*://*.centralmissourinews.com/*
+
