@@ -4771,3 +4771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Z3 News (USA)
 *://*.z3news.com/*
 
+# Zacatecas Post (Unknown)
+*://*.zacatecaspost.com/*
+
