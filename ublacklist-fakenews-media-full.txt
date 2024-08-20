@@ -3485,3 +3485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sick Chirpse (UK)
 *://*.sickchirpse.com/*
 
+# Silver State Times (USA)
+*://*.silverstatetimes.com/*
+
