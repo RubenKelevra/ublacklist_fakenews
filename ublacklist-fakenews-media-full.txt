@@ -194,3 +194,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Antelope Valley Today (USA)
 *://*.antelopevalleytoday.com/*
 
+# Anti-War (USA)
+*://*.antiwar.com/*
+
