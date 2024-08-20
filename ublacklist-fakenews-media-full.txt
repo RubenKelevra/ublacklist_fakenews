@@ -2740,3 +2740,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NRL News Today (USA)
 *://*.nationalrighttolifenews.org/*
 
+# NTD TV (USA)
+*://*.ntd.com/*
+
