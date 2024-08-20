@@ -2911,3 +2911,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Patriot Fetch (USA)
 *://*.patriotfetch.com/*
 
+# Patriot Journal (USA)
+*://*.thepatriotjournal.com/*
+
