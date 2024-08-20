@@ -3482,3 +3482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SHTFplan.com (USA)
 *://*.shtfplan.com/*
 
+# Sick Chirpse (UK)
+*://*.sickchirpse.com/*
+
