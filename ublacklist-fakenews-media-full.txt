@@ -1590,3 +1590,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Huntsville Leader (USA)
 *://*.huntsvilleleader.com/*
 
+# Hutch Today (USA)
+*://*.hutchtoday.com/*
+
