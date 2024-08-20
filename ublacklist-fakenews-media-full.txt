@@ -4080,3 +4080,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Liberty Revolution (USA)
 *://*.thelibertyrevolution.com/*
 
+# The Limited Times (Unknown)
+*://*.newsrnd.com/*
+
