@@ -3554,3 +3554,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Charlotte Today (USA)
 *://*.southcharlottetoday.com/*
 
+# South Coast Times (USA)
+*://*.southcoasttimes.com/*
+
