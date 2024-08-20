@@ -881,3 +881,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DC Dirty Laundry (USA)
 *://*.dcdirtylaundry.com/*
 
+# DC Weekly (Russia)
+*://*.dcweekly.org/*
+
