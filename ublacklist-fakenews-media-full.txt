@@ -2380,3 +2380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Nebraska News (USA)
 *://*.nenebraskanews.com/*
 
+# NE New Mexico News (USA)
+*://*.nenewmexiconews.com/*
+
