@@ -3560,3 +3560,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Columbus News (USA)
 *://*.southcolumbusnews.com/*
 
+# South Cook News (USA)
+*://*.southcooknews.com/*
+
