@@ -698,3 +698,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cobb News (USA)
 *://*.cobbnewsga.com/*
 
+# Cobb Reporter (USA)
+*://*.cobbreporter.com/*
+
