@@ -3389,3 +3389,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Bluegrass News (USA)
 *://*.sebluegrassnews.com/*
 
+# SE Colorado News (USA)
+*://*.secoloradonews.com/*
+
