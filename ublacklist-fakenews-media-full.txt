@@ -3326,3 +3326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Mateo Sun (USA)
 *://*.sanmateosun.com/*
 
+# Santa Fe Standard (USA)
+*://*.santafestandard.com/*
+
