@@ -2685,3 +2685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North SFV Today (USA)
 *://*.northsfvtoday.com/*
 
+# North SGV News (USA)
+*://*.northsgvnews.com/*
+
