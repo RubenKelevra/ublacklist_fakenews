@@ -2992,3 +2992,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PJ Media (USA)
 *://*.pjmedia.com/*
 
+# Platte News (USA)
+*://*.plattenews.com/*
+
