@@ -2734,3 +2734,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.nowthisnews.com/*
 *://*.nowmedianetwork.co/*
 
+# NPR.News (USA)
+*://*.npr.news/*
+
