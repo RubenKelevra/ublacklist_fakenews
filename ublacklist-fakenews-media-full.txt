@@ -303,3 +303,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Big Island Times (USA)
 *://*.bigislandtimes.com/*
 
+# Big League Politics (USA)
+*://*.bigleaguepolitics.com/*
+*://*.bigleaguepolitics.substack.com/*
+
