@@ -3798,3 +3798,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # St. Louis Record (USA)
 *://*.stlrecord.com/*
 
+# Strafford News (USA)
+*://*.auburntimes.com/*
+
