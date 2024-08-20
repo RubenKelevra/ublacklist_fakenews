@@ -1668,3 +1668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Institute for the Study of Globalization and Covert Politics (Netherlands)
 *://*.isgp-studies.com/*
 
+# Insurance Rate Reporter (USA)
+*://*.insuranceratereporter.com/*
+
