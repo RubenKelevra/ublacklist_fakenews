@@ -4141,3 +4141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Politics Online (Unknown)
 *://*.thepolitics.online/*
 
+# The Post & Email (USA)
+*://*.thepostemail.com/*
+
