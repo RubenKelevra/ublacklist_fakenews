@@ -2075,3 +2075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Miami Courant (USA)
 *://*.miamicourant.com/*
 
+# Miami Independent (USA)
+*://*.miamiindependent.com/*
+
