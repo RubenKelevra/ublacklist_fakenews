@@ -2899,3 +2899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Parler (USA)
 *://*.parler.com/*
 
+# Pasco Reporter (USA)
+*://*.auburntimes.com/*
+
