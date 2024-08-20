@@ -1208,3 +1208,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dissident Mag (USA)
 *://*.dissident-mag.com/*
 
+# Fayetteville Standard (USA)
+*://*.fayettevillestandard.com/*
+
