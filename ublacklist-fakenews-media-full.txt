@@ -926,3 +926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Denver City Wire (USA)
 *://*.denvercitywire.com/*
 
+# Des Moines Sun (USA)
+*://*.desmoinessun.com/*
+
