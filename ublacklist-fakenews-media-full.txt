@@ -716,3 +716,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Columbus News (USA)
 *://*.colonews.org/*
 
+# Columbus Standard (USA)
+*://*.columbusstandard.com/*
+
