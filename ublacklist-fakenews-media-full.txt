@@ -2437,3 +2437,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # News Blaze (Australia)
 *://*.newsblaze.com/*
 
+# News Break (USA)
+*://*.newsbreak.com/*
+
