@@ -3820,3 +3820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.summit.news/*
 *://*.modernity.news/*
 
+# Sumter Times (USA)
+*://*.auburntimes.com/*
+
