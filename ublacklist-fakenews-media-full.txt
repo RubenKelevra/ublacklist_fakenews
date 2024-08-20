@@ -2305,3 +2305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NC Massachusetts News (USA)
 *://*.ncmassnews.com/*
 
+# NC Minnesota News (USA)
+*://*.ncminnesotanews.com/*
+
