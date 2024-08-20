@@ -228,3 +228,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Asheville Reporter (USA)
 *://*.ashevillereporter.com/*
 
+# Association of American Physicians and Surgeons (USA)
+*://*.aapsonline.org/*
+
