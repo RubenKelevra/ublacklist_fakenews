@@ -4687,3 +4687,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WND News Center (USA)
 *://*.wndnewscenter.org/*
 
+# Women are Human (USA)
+*://*.womenarehuman.com/*
+
