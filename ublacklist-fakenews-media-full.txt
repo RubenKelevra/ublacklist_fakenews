@@ -1735,3 +1735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Just The News (USA)
 *://*.justthenews.com/*
 
+# Kalamazoo Times (USA)
+*://*.kalamazootimes.com/*
+
