@@ -3638,3 +3638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Michigan News (USA)
 *://*.southmichigannews.com/*
 
+# South Middlesex Times (USA)
+*://*.southmiddlesextimes.com/*
+
