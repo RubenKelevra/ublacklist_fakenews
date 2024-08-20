@@ -3835,3 +3835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Survive The News (USA)
 *://*.survivethenews.com/*
 
+# Sussex Review (USA)
+*://*.sussexreview.com/*
+
