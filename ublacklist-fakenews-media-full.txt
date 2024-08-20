@@ -3461,3 +3461,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SGV Standard (USA)
 *://*.sgvstandard.com/*
 
+# Shafaq News (Iraq)
+*://*.shafaq.com/*
+
