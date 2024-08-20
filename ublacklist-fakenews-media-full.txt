@@ -983,3 +983,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dupage Policy Journal (USA)
 *://*.dupagepolicyjournal.com/*
 
+# Durango Post (Unknown)
+*://*.thedurangopost.com/*
+
