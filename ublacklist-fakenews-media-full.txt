@@ -1732,3 +1732,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Judicial Watch (USA)
 *://*.judicialwatch.org/*
 
+# Just The News (USA)
+*://*.justthenews.com/*
+
