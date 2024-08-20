@@ -2893,3 +2893,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Palm Coast Times (USA)
 *://*.palmcoasttimes.com/*
 
+# Panama City Reporter (USA)
+*://*.panamacityreporter.com/*
+
