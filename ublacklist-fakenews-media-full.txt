@@ -3512,3 +3512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sonora Post (Unknown)
 *://*.thesonorapost.com/*
 
+# Sooner State News (USA)
+*://*.soonerstatenews.com/*
+
