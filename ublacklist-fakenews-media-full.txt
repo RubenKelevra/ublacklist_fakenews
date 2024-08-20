@@ -4480,3 +4480,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.facebook.com/TheWashingtonTimes*
 *://*.washingtontimes.com/*
 
+# Washoe Gazette (USA)
+*://*.washoegazette.com/*
+
