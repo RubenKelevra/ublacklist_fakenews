@@ -1943,3 +1943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lowe Delta News (USA)
 *://*.lowedeltanews.com/*
 
+# Lucianne.com (USA)
+*://*.lucianne.com/*
+
