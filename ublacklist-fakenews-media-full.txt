@@ -2986,3 +2986,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pinellas Times (USA)
 *://*.pinellastimes.com/*
 
+# Pine State News (USA)
+*://*.pinestatenews.com/*
+
