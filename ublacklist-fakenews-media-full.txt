@@ -1780,3 +1780,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Knights Templar International (USA)
 *://*.knightstemplarorder.com/*
 
+# Kokomo Standard (USA)
+*://*.kokomostandard.com/*
+
