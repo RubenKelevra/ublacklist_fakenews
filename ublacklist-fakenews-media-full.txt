@@ -1741,3 +1741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kane County Reporter (USA)
 *://*.kanecountyreporter.com/*
 
+# Kankakee Times (USA)
+*://*.kankakeetimes.com/*
+
