@@ -300,3 +300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Benton Times (USA)
 *://*.bentontimes.com/*
 
+# Big Island Times (USA)
+*://*.bigislandtimes.com/*
+
