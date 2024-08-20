@@ -325,3 +325,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Black Genocide (USA)
 *://*.blackgenocide.org/*
 
+# BlackNews.com (USA)
+*://*.blacknews.com/*
+
