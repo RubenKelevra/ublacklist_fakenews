@@ -3053,3 +3053,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # PragerU (USA)
 *://*.prageru.com/*
 
+# Prairie State Wire (USA)
+*://*.prairiestatewire.com/*
+
