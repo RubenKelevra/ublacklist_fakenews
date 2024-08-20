@@ -2664,3 +2664,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Panhandle News (USA)
 *://*.northpanhandlenews.com/*
 
+# North Pima News (USA)
+*://*.northpimanews.com/*
+
