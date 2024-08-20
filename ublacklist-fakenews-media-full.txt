@@ -807,3 +807,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Council on American-Islamic Relations (USA)
 *://*.cair.com/*
 
+# Council for the National Interest (USA)
+*://*.councilforthenationalinterest.org/*
+
