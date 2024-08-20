@@ -3557,3 +3557,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Coast Times (USA)
 *://*.southcoasttimes.com/*
 
+# South Columbus News (USA)
+*://*.southcolumbusnews.com/*
+
