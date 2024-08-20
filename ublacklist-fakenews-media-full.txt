@@ -2712,3 +2712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northwest Wayne News (USA)
 *://*.nwwaynenews.com/*
 
+# Northwest Lake Times (USA)
+*://*.nwlaketimes.com/*
+
