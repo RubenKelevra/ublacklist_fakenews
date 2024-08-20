@@ -605,3 +605,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Montana Times (USA)
 *://*.centralmontanatimes.com/*
 
+# Central ND News (USA)
+*://*.centralndnews.com/*
+
