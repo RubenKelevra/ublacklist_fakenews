@@ -4046,3 +4046,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Horn News (USA)
 *://*.thehornnews.com/*
 
+# Thejeffreylord.com (USA)
+*://*.thejeffreylord.com/*
+
