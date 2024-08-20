@@ -4414,3 +4414,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Valley Gazette (USA)
 *://*.valleygazette.org/*
 
+# Vancouver Times (Canada)
+*://*.vancouvertimes.org/*
+
