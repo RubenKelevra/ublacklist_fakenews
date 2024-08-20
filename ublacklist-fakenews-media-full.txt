@@ -167,3 +167,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ames Today (USA)
 *://*.amestoday.com/*
 
+# Amic.ru (Russia)
+*://*.amic.ru/*
+
