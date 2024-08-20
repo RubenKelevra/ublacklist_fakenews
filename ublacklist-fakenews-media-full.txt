@@ -3683,3 +3683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South STL News (USA)
 *://*.southstlnews.com/*
 
+# South Summit News (USA)
+*://*.southsummitnews.com/*
+
