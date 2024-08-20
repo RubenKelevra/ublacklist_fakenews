@@ -2538,3 +2538,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Central Arkansas News (USA)
 *://*.ncarkansasnews.com/*
 
+# North Charlotte Today (USA)
+*://*.northcharlottetoday.com/*
+
