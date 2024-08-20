@@ -1181,3 +1181,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fact-Checking Turkey (Turkey)
 *://*.factcheckingturkey.com/*
 
+# Facts.Net (Unknown)
+*://*.facts.net/*
+
