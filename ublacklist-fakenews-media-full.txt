@@ -2096,3 +2096,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michigan Star (USA)
 *://*.themichiganstar.com/*
 
+# Michoacan Post (Unknown)
+*://*.michoacanpost.com/*
+
