@@ -1481,3 +1481,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Guerrero Post (Unknown)
 *://*.theguerreropost.com/*
 
+# Gulf News (United Arab Emirates)
+*://*.gulfnews.com/*
+
