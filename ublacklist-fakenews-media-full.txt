@@ -1037,3 +1037,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East Central Iowa News (USA)
 *://*.eciowanews.com/*
 
+# East Kentucky Times (USA)
+*://*eastkentuckytimes.com/*
+
