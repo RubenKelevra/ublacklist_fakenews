@@ -1055,3 +1055,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # East New Mexico News (USA)
 *://*.eastnewmexiconews.com/*
 
+# East OKC News (USA)
+*://*.eastokcnews.com/*
+
