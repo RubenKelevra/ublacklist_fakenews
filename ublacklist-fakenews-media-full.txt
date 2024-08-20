@@ -1088,3 +1088,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Easton Gazette (USA)
 *://*.eastongazette.com/*
 
+# East Twin Cities (USA)
+*://*.easttwincities.com/*
+
