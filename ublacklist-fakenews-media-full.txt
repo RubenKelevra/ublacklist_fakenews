@@ -3347,3 +3347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SC Alaska News (USA)
 *://*.scalaskanews.com/*
 
+# SC Oklahoma News (USA)
+*://*.scoklahomanews.com/*
+
