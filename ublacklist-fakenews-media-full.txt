@@ -1184,3 +1184,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Facts.Net (Unknown)
 *://*.facts.net/*
 
+# Fairfield Reporter (USA)
+*://*.fairfieldreporter.com/*
+
