@@ -973,3 +973,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Down River Today (USA)
 *://*.downrivertoday.com/*
 
+# Druthers (Canada)
+*://*.druthers.net/*
+*://*.druthers.ca/*
+
