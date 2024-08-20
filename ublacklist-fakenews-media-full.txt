@@ -2586,3 +2586,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # North Egypt News (USA)
 *://*.northegyptnews.com/*
 
+# North Essex News (USA)
+*://*.northessexnews.com/*
+
