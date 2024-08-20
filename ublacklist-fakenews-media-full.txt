@@ -467,3 +467,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # C19pvpi.com (Unknown)
 *://*.c19pvpi.com/*
 
+# C19Quercetin.com (Unknown)
+*://*.c19quercetin.com/*
+
