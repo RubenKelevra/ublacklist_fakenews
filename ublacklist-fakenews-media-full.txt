@@ -431,3 +431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # c19ly.com (Unknown)
 *://*.c19ly.com/*
 
+# C19favipiravir.com (Unknown)
+*://*.c19favipiravir.com/*
+
