@@ -4582,3 +4582,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Western Wayne Today (USA)
 *://*.westernwaynetoday.com/*
 
+# West Florida News (USA)
+*://*.westflnews.com/*
+
