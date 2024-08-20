@@ -3671,3 +3671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Raleigh News (USA)
 *://*.southraleighnews.com/*
 
+# South Sacramento Today (USA)
+*://*.southsactoday.com/*
+
