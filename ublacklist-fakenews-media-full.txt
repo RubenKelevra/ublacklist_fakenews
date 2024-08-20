@@ -2350,3 +2350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NE Florida News (USA)
 *://*.nefloridanews.com/*
 
+# NE Franklin News (USA)
+*://*.nefranklinnews.com/*
+
