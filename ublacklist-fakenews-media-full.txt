@@ -4077,3 +4077,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Liberty Loft (USA)
 *://*.thelibertyloft.com/*
 
+# The Liberty Revolution (USA)
+*://*.thelibertyrevolution.com/*
+
