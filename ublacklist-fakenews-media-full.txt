@@ -3997,3 +3997,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Daily Bell (USA)
 *://*.thedailybell.com/*
 
+# The Daily Boulder (USA)
+*://*.dailyboulder.com/*
+
