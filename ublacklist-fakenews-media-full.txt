@@ -1596,3 +1596,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # IBX News (USA)
 *://*.ibxnews.com/*
 
+# Idaho Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
