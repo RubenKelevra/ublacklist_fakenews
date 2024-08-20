@@ -2779,3 +2779,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Kentucky News (USA)
 *://*.nwkentuckynews.com/*
 
+# NW LA Times (USA)
+*://*.nwlatimes.com/*
+
