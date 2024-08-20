@@ -596,3 +596,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Iowa Times (USA)
 *://*.centraliowatimes.com/*
 
+# Central Louisiana News (USA)
+*://*.centrallouisiananews.com/*
+
