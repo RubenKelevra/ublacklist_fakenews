@@ -2087,3 +2087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michigan Business Daily (USA)
 *://*.mibusinessdaily.com/*
 
+# Michigan Catholic Tribune (USA)
+*://*.micatholictribune.com/*
+
