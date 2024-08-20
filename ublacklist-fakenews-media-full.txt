@@ -4144,3 +4144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Post & Email (USA)
 *://*.thepostemail.com/*
 
+# The Proud Liberal (USA)
+*://*.theproudliberal.org/*
+
