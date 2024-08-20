@@ -3362,3 +3362,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SC Minnesota News (USA)
 *://*.scminnesotanews.com/*
 
+# SC Mississippi News (USA)
+*://*.scmissnews.com/*
+
