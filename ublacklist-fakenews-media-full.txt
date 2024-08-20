@@ -866,3 +866,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Dakota Times (USA)
 *://*.dakotatimes.com/*
 
+# Daily Veracity (USA)
+*://*.dailyveracity.com/*
+
