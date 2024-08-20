@@ -406,3 +406,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Butler County Today (USA)
 *://*.butlercountytoday.com/*
 
+# BuzzLoving (USA)
+*://*.buzzloving.com/*
+
