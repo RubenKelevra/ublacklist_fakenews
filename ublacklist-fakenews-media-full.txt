@@ -1671,3 +1671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Insurance Rate Reporter (USA)
 *://*.insuranceratereporter.com/*
 
+# Interior Alaska News (USA)
+*://*.interioralaskanews.com/*
+
