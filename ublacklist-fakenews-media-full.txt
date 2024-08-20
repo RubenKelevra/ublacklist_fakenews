@@ -2060,3 +2060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Metro Lex News (USA)
 *://*.metrolexnews.com/*
 
+# Metro West Times (USA)
+*://*.metrowesttimes.com/*
+
