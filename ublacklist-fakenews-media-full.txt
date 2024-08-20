@@ -1626,3 +1626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Illinois Valley Times (USA)
 *://*.illinoisvalleytimes.com/*
 
+# Il Primato Nazionale (Italy)
+*://*.ilprimatonazionale.it/*
+
