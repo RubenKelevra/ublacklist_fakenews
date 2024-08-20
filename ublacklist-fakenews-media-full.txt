@@ -3521,3 +3521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # South Africa Today (USA)
 *://*.southafricatoday.net/*
 
+# South Alameda News (USA)
+*://*.southalamedanews.com/*
+
