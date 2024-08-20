@@ -4639,3 +4639,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # West Ventura News (USA)
 *://*.westventuranews.com/*
 
+# West Volusia News (USA)
+*://*.westvolusianews.com/*
+
