@@ -3410,3 +3410,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # SE Illinois News (USA)
 *://*.seillinoisnews.com/*
 
+# SE Indiana News (USA)
+*://*.seindiananews.com/*
+
