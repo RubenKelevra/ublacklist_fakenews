@@ -59,3 +59,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bipartisan Report (USA)
 *://*.bipartisanreport.com/*
 
+# Black Eye Politics (USA)
+*://*.blackeyepolitics.com/*
+
