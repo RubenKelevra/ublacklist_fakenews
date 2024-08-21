@@ -535,3 +535,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Daily Boulder (USA)
 *://*.dailyboulder.com/*
 
+# The Duran (Cyprus)
+*://*.theduran.com/*
+
