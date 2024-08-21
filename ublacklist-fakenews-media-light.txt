@@ -526,3 +526,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Boston Tribune (Unknown)
 *://*.thebostontribune.com/*
 
+# The Colorado Herald (Unknown)
+*://*.thecoloradoherald.com/*
+
