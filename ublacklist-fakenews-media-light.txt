@@ -113,3 +113,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cobb News (USA)
 *://*.cobbnewsga.com/*
 
+# Columbus News (USA)
+*://*.colonews.org/*
+
