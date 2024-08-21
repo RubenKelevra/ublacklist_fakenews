@@ -146,3 +146,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Durango Post (Unknown)
 *://*.thedurangopost.com/*
 
+# Eagle Rising (Unknown)
+*://*.eaglerising.com/*
+
