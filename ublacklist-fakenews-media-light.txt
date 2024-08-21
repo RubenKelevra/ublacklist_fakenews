@@ -299,3 +299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mesa Times (USA)
 *://*.mesatimes.org/*
 
+# Mexico City Post (Unknown)
+*://*.themexicocitypost.com/*
+
