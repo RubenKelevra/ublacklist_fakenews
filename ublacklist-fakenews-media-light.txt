@@ -590,3 +590,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Three Rivers Gazette (USA)
 *://*.threeriversgazette.com/*
 
+# TooFab (USA)
+*://*.toofab.com/*
+
