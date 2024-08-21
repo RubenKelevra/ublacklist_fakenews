@@ -140,3 +140,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Delaware Valley Sun (USA)
 *://*.delawarevalleysun.com/*
 
+# Democratic National Committee (USA)
+*://*.democrats.org/*
+
