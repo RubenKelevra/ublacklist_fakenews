@@ -317,3 +317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mile High Sentinel (USA)
 *://*.milehighsentinel.com/*
 
+# Milwaukee Metro Times (USA)
+*://*.milwaukeemetrotimes.com/*
+
