@@ -342,3 +342,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.mtonews.com/*
 *://*.mediatakeout.com/*
 
+# National Right to Life Committee (USA)
+*://*.nrlc.org/*
+
