@@ -254,3 +254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Just The News (USA)
 *://*.justthenews.com/*
 
+# Korean Central News Agency (North Korea)
+*://*.kcna.kp/*
+
