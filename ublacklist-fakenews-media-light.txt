@@ -547,3 +547,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Keystone (USA)
 *://*.keystonenewsroom.com/*
 
+# The Last Resistance (USA)
+*://*.lastresistance.com/*
+
