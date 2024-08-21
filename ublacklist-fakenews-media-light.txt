@@ -620,3 +620,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Up North News (USA)
 *://*.upnorthnewswi.com/*
 
+# Upper Peninsula Times (USA)
+*://*.upperpeninsulatimes.com/*
+
