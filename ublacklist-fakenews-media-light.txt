@@ -16,3 +16,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Al Arabiya (Saudi Arabia)
 *://*.english.alarabiya.net/*
 
+# Albany Standard (USA)
+*://*.albanystandard.com/*
+
