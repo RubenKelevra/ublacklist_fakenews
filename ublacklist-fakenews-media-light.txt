@@ -400,3 +400,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # OTP Tribune (USA)
 *://*.otptribune.com/*
 
+# Peachtree Gazette (USA)
+*://*.peachtreegazette.com/*
+
