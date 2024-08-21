@@ -320,3 +320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Milwaukee Metro Times (USA)
 *://*.milwaukeemetrotimes.com/*
 
+# Mint Press News (USA)
+*://*.mintpressnews.com/*
+
