@@ -538,3 +538,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Duran (Cyprus)
 *://*.theduran.com/*
 
+# The Frisky (Serbia)
+*://*.thefrisky.com/*
+
