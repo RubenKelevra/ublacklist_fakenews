@@ -599,3 +599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Toutiao (China)
 *://*.toutiao.com/*
 
+# Triangle News (USA)
+*://*.trianglenews.org/*
+
