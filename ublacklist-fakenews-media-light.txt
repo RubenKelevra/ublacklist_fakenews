@@ -448,3 +448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rudaw (Iraq)
 *://*.rudaw.net/*
 
+# Sacramento Standard (USA)
+*://*.sacramentostandard.com/*
+
