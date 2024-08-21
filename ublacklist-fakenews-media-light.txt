@@ -499,3 +499,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Syriana Analysis (Germany)
 *://*.syriana-analysis.com/*
 
+# Tabasco Post (Unknown)
+*://*.tabascopost.com/*
+
