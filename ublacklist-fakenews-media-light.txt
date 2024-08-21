@@ -587,3 +587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Wisconsin Independent (USA)
 *://*.wisconsinindependent.com/*
 
+# Three Rivers Gazette (USA)
+*://*.threeriversgazette.com/*
+
