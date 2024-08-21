@@ -293,3 +293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MediaBuzz.org (Singapore)
 *://*.mediabuzz.org/*
 
+# MercoPress (Uruguay)
+*://*.en.mercopress.com/*
+
