@@ -311,3 +311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michoacan Post (Unknown)
 *://*.michoacanpost.com/*
 
+# Mid Michigan Standard (USA)
+*://*.midmichiganstd.com/*
+
