@@ -6,3 +6,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # 9GAG (Hong Kong)
 *://*.9gag.com/*
 
+# Action News 3 (Unknown)
+*://*.actionnews3.com/*
+
