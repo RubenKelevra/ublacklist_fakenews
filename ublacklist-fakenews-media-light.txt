@@ -442,3 +442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rock Valley Times (USA)
 *://*.rockvalleytimes.com/*
 
+# Rodong Sinmun (North Korea)
+*://*.rodong.rep.kp/*
+
