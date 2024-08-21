@@ -427,3 +427,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Queretaro Post (Unknown)
 *://*.thequeretaropost.com/*
 
+# Quds News Network (Palestine)
+*://*.qudsnen.co/*
+
