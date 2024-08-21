@@ -110,3 +110,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CNS News (USA)
 *://*.mrctv.org/*
 
+# Cobb News (USA)
+*://*.cobbnewsga.com/*
+
