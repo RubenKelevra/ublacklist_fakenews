@@ -227,3 +227,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Henderson Times (USA)
 *://*.hendersontimes.org/*
 
+# Hidalgo Daily Post (Unknown)
+*://*.hidalgodailypost.com/*
+
