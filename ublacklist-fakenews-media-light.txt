@@ -354,3 +354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NetEase (China)
 *://*.163.com/*
 
+# News Break (USA)
+*://*.newsbreak.com/*
+
