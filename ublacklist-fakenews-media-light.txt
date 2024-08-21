@@ -556,3 +556,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Limited Times (Unknown)
 *://*.newsrnd.com/*
 
+# The Michigan Independent (USA)
+*://*.michiganindependent.com/*
+
