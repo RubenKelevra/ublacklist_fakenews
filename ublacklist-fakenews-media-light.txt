@@ -329,3 +329,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Monterrey Daily Post (Unknown)
 *://*.monterreydailypost.com/*
 
+# Moon of Alabama (USA)
+*://*.moonofalabama.org/*
+
