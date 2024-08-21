@@ -421,3 +421,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Politifact News (Unkown)
 *://*.politifact.news/*
 
+# Puebla Post (Unknown)
+*://*.pueblapost.com/*
+
