@@ -335,3 +335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Morelos Daily Post (Unknown)
 *://*.morelosdailypost.com/*
 
+# MoveOn (USA)
+*://*.front.moveon.org/*
+
