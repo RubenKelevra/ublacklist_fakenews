@@ -433,3 +433,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # RadarOnline (USA)
 *://*.radaronline.com/*
 
+# RedOrbit (USA)
+*://*.redorbit.com/*
+
