@@ -272,3 +272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lehigh Valley News (USA)
 *://*.lehighnews.org/*
 
+# Liberty Unyielding (USA)
+*://*.libertyunyielding.com/*
+
