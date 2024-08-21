@@ -375,3 +375,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northwest Lake Times (USA)
 *://*.nwlaketimes.com/*
 
+# Now8News (USA)
+*://*.now8news.com/*
+
