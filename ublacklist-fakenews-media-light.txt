@@ -74,3 +74,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bucks County Standard (USA)
 *://*.buckscountystandard.com/*
 
+# BuzzLoving (USA)
+*://*.buzzloving.com/*
+
