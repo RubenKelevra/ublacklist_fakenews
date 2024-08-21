@@ -496,3 +496,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Summerlin Reporter (USA)
 *://*.summerlinreporter.com/*
 
+# Syriana Analysis (Germany)
+*://*.syriana-analysis.com/*
+
