@@ -71,3 +71,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Breaking911 (USA)
 *://*.breaking911.com/*
 
+# Bucks County Standard (USA)
+*://*.buckscountystandard.com/*
+
