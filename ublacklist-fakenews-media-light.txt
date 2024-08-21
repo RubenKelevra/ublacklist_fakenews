@@ -424,3 +424,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Puebla Post (Unknown)
 *://*.pueblapost.com/*
 
+# Queretaro Post (Unknown)
+*://*.thequeretaropost.com/*
+
