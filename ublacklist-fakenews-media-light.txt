@@ -436,3 +436,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # RedOrbit (USA)
 *://*.redorbit.com/*
 
+# Rockingham Journal (USA)
+*://*.rockinghamjournal.com/*
+
