@@ -593,3 +593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # TooFab (USA)
 *://*.toofab.com/*
 
+# Torreon Post (Unknown)
+*://*.thetorreonpost.com/*
+
