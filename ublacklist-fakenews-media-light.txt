@@ -44,3 +44,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Baja California Post (Unknown)
 *://*.bajacaliforniapost.com/*
 
+# Basnews Agency (Iraq)
+*://*.basnews.com/*
+
