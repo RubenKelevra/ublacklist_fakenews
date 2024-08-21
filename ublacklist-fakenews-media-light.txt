@@ -260,3 +260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # La Crosse Leader (USA)
 *://*.lacrosseleader.org/*
 
+# LADbible (UK)
+*://*.ladbible.com/*
+
