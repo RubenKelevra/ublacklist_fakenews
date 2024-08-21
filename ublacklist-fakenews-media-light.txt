@@ -230,3 +230,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hidalgo Daily Post (Unknown)
 *://*.hidalgodailypost.com/*
 
+# Hindustan Times (India)
+*://*.hindustantimes.com/*
+
