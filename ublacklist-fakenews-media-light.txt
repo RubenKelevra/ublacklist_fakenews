@@ -617,3 +617,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Two Rivers News (USA)
 *://*.tworiversnews.org/*
 
+# Up North News (USA)
+*://*.upnorthnewswi.com/*
+
