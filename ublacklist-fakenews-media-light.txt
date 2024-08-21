@@ -523,3 +523,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Blue State Conservative (USA)
 *://*.thebluestateconservative.com/*
 
+# The Boston Tribune (Unknown)
+*://*.thebostontribune.com/*
+
