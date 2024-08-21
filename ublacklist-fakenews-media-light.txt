@@ -224,3 +224,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Head Topics (Unknown)
 *://*.headtopics.com/*
 
+# Henderson Times (USA)
+*://*.hendersontimes.org/*
+
