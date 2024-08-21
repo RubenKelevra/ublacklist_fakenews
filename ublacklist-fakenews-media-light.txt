@@ -89,3 +89,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cardinal & Pine (USA)
 *://*.cardinalpine.com/*
 
+# CCTV International (China)
+*://*.english.cctv.com/*
+
