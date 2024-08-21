@@ -122,3 +122,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Copper Courier (USA)
 *://*.coppercourier.com/*
 
+# Council for the National Interest (USA)
+*://*.councilforthenationalinterest.org/*
+
