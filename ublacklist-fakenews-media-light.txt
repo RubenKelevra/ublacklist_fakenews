@@ -692,3 +692,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yucatan Post (Unknown)
 *://*.theyucatanpost.com/*
 
+# Yuma Standard (USA)
+*://*.yumastandard.com/*
+
