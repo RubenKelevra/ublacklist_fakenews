@@ -641,3 +641,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Washington Sources (USA)
 *://*.washingtonsources.org/*
 
+# Washoe Gazette (USA)
+*://*.washoegazette.com/*
+
