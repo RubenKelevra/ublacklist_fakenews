@@ -391,3 +391,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Oaxaca Post (Unknown)
 *://*.theoaxacapost.com/*
 
+# Occupy Democrats (USA)
+*://*.occupydemocrats.com/*
+
