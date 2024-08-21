@@ -128,3 +128,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CovertAction Magazine (USA)
 *://*.covertactionmagazine.com/*
 
+# Daily Buzz Live (USA)
+*://*.dailybuzzlive.com/*
+
