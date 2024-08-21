@@ -475,3 +475,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Shafaq News (Iraq)
 *://*.shafaq.com/*
 
+# Sick Chirpse (UK)
+*://*.sickchirpse.com/*
+
