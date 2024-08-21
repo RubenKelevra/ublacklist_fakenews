@@ -9,3 +9,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Action News 3 (Unknown)
 *://*.actionnews3.com/*
 
+# Aguascalientes Daily Post (Unknown)
+*://*.aguascalientesdailypost.com/*
+*://*.mexicodailypost.com/*
+
