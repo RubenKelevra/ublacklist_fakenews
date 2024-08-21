@@ -251,3 +251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # International Organization for the Family (USA)
 *://*.profam.org/*
 
+# Just The News (USA)
+*://*.justthenews.com/*
+
