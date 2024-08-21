@@ -125,3 +125,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Council for the National Interest (USA)
 *://*.councilforthenationalinterest.org/*
 
+# CovertAction Magazine (USA)
+*://*.covertactionmagazine.com/*
+
