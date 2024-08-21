@@ -22,3 +22,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Al Bawaba (Jordan)
 *://*.albawaba.com/*
 
+# Al Mayadeen (Lebanon)
+*://*.english.almayadeen.net/*
+
