@@ -47,3 +47,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Basnews Agency (Iraq)
 *://*.basnews.com/*
 
+# Bbarta24 (Bangladesh)
+*://*.en.bbarta24.net/*
+
