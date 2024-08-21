@@ -406,3 +406,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pennsylvania Independent (USA)
 *://*.pennsylvaniaindependent.com/*
 
+# Perez Hilton (USA)
+*://*.perezhilton.com/*
+
