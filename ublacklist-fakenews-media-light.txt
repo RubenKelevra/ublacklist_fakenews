@@ -296,3 +296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # MercoPress (Uruguay)
 *://*.en.mercopress.com/*
 
+# Mesa Times (USA)
+*://*.mesatimes.org/*
+
