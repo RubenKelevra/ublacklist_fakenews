@@ -248,3 +248,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Inside the Magic (USA)
 *://*.insidethemagic.net/*
 
+# International Organization for the Family (USA)
+*://*.profam.org/*
+
