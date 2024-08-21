@@ -266,3 +266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lancaster Courier (USA)
 *://*.lancastercourier.com/*
 
+# Left Action (USA)
+*://*.leftaction.com/*
+
