@@ -263,3 +263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # LADbible (UK)
 *://*.ladbible.com/*
 
+# Lancaster Courier (USA)
+*://*.lancastercourier.com/*
+
