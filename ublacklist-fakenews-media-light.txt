@@ -689,3 +689,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Xinhua News Agency (China)
 *://*.xinhuanet.com/*
 
+# Yucatan Post (Unknown)
+*://*.theyucatanpost.com/*
+
