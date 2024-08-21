@@ -236,3 +236,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hoodsite-USA Crime (USA)
 *://*.usacrime.com/*
 
+# iHarare (Zimbabwe)
+*://*.iharare.com/*
+
