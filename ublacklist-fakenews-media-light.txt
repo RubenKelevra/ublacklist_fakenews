@@ -683,3 +683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldTimeTodays (USA)
 *://*.worldtimetodays.com/*
 
+# Xinhua English (China)
+*://*.news.cn/*
+
