@@ -415,3 +415,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Pima Times (USA)
 *://*.pimatimes.com/*
 
+# Political Flare (USA)
+*://*.politicalflare.com/*
+
