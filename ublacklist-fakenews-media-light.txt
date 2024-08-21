@@ -487,3 +487,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sonora Post (Unknown)
 *://*.thesonorapost.com/*
 
+# Southern Colorado Times (USA)
+*://*.southerncoloradotimes.com/*
+
