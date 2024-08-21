@@ -68,3 +68,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bossip (USA)
 *://*.bossip.com/*
 
+# Breaking911 (USA)
+*://*.breaking911.com/*
+
