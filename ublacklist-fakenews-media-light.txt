@@ -185,3 +185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Geology In (USA)
 *://*.geologyin.com/*
 
+# Gephardt Daily (USA)
+*://*.gephardtdaily.com/*
+
