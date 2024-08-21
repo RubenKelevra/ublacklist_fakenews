@@ -397,3 +397,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Orinoco Tribune (Venezuela)
 *://*.orinocotribune.com/*
 
+# OTP Tribune (USA)
+*://*.otptribune.com/*
+
