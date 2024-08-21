@@ -92,3 +92,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # CCTV International (China)
 *://*.english.cctv.com/*
 
+# True Activist (Germany)
+*://*.trueactivist.com/*
+
