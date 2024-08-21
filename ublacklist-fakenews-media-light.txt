@@ -107,3 +107,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # China Global Television Network (China)
 *://*.cgtn.com/*
 
+# CNS News (USA)
+*://*.mrctv.org/*
+
