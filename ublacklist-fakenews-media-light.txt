@@ -31,3 +31,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Amoskeag Times (USA)
 *://*.amoskeagtimes.com/*
 
+# Archaeology World (Unknown)
+*://*.archaeology-world.com/*
+
