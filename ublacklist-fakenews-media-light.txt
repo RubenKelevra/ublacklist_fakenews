@@ -245,3 +245,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Inner Strength Zone (Canada)
 *://*.innerstrength.zone/*
 
+# Inside the Magic (USA)
+*://*.insidethemagic.net/*
+
