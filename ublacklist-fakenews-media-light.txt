@@ -647,3 +647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wayne Herald (USA)
 *://*.wayneherald.org/*
 
+# Weibo (China)
+*://*.weibo.com/*
+
