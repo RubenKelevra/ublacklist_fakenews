@@ -209,3 +209,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Guardian Nigeria (Nigeria)
 *://*.guardian.ng/*
 
+# Gucmakale.com (USA)
+*://*.gucmakale.com/*
+
