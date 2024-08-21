@@ -677,3 +677,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # World of Buzz (Malaysia)
 *://*.worldofbuzz.com/*
 
+# WorldStarHipHop (USA)
+*://*.worldstarhiphop.com/*
+
