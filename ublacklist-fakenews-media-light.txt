@@ -173,3 +173,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Flex Mag (Macedonia)
 *://*.usafortrumponline.com/*
 
+# Floricua (USA)
+*://*.floricuanews.com/*
+
