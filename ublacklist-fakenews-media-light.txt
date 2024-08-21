@@ -13,3 +13,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.aguascalientesdailypost.com/*
 *://*.mexicodailypost.com/*
 
+# Al Arabiya (Saudi Arabia)
+*://*.english.alarabiya.net/*
+
