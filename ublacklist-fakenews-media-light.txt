@@ -233,3 +233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hindustan Times (India)
 *://*.hindustantimes.com/*
 
+# Hoodsite-USA Crime (USA)
+*://*.usacrime.com/*
+
