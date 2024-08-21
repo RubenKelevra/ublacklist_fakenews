@@ -56,3 +56,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Beijing Review (China)
 *://*.bjreview.com/*
 
+# Bipartisan Report (USA)
+*://*.bipartisanreport.com/*
+
