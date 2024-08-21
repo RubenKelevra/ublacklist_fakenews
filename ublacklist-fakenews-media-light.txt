@@ -203,3 +203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Grunge (USA)
 *://*.grunge.com/*
 
+# Guadalajara Post (Unknown)
+*://*.theguadalajarapost.com/*
+
