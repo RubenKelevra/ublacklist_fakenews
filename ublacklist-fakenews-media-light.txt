@@ -86,3 +86,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cap News (Unknown)
 *://*.cap-news.com/*
 
+# Cardinal & Pine (USA)
+*://*.cardinalpine.com/*
+
