@@ -541,3 +541,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Frisky (Serbia)
 *://*.thefrisky.com/*
 
+# The Grayzone (USA)
+*://*.thegrayzone.com/*
+
