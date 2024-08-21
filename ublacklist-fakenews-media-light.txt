@@ -164,3 +164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Fars News (Iran)
 *://*.farsnews.ir/*
 
+# Femalista (USA)
+*://*.femalista.com/*
+
