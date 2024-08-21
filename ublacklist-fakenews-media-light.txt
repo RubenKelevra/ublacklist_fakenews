@@ -143,3 +143,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Democratic National Committee (USA)
 *://*.democrats.org/*
 
+# Durango Post (Unknown)
+*://*.thedurangopost.com/*
+
