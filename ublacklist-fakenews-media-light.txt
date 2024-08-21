@@ -363,3 +363,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nordic Monitor (Sweden)
 *://*.nordicmonitor.com/*
 
+# Northeast Herald (USA)
+*://*.northeastherald.org/*
+
