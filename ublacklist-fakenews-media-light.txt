@@ -3,3 +3,6 @@ name: Fake News Media (light version)
 description: Hides (most) Fake News Media sites
 homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 ---
+# 9GAG (Hong Kong)
+*://*.9gag.com/*
+
