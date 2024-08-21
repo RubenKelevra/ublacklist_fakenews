@@ -332,3 +332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Moon of Alabama (USA)
 *://*.moonofalabama.org/*
 
+# Morelos Daily Post (Unknown)
+*://*.morelosdailypost.com/*
+
