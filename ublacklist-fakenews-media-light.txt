@@ -430,3 +430,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Quds News Network (Palestine)
 *://*.qudsnen.co/*
 
+# RadarOnline (USA)
+*://*.radaronline.com/*
+
