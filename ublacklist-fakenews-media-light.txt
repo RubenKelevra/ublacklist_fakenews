@@ -559,3 +559,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Michigan Independent (USA)
 *://*.michiganindependent.com/*
 
+# The Nevadan (USA)
+*://*.thenevadannews.com/*
+
