@@ -239,3 +239,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # iHarare (Zimbabwe)
 *://*.iharare.com/*
 
+# InfoScum (Canada)
+*://*.infoscum.com/*
+
