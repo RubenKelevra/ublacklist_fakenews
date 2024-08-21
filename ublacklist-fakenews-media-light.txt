@@ -638,3 +638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Virginia Dogwood (USA)
 *://*.vadogwood.com/*
 
+# Washington Sources (USA)
+*://*.washingtonsources.org/*
+
