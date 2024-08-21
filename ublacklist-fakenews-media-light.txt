@@ -161,3 +161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Facts.Net (Unknown)
 *://*.facts.net/*
 
+# Fars News (Iran)
+*://*.farsnews.ir/*
+
