@@ -605,3 +605,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tri-City Record (USA)
 *://*.tri-cityrecord.org/*
 
+# Truth Examiner (Unknown)
+*://*.truthexam.com/*
+
