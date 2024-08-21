@@ -626,3 +626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # USAnetwork.info (Unknown)
 *://*.usanetwork.info/*
 
+# Valley Gazette (USA)
+*://*.valleygazette.org/*
+
