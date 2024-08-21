@@ -454,3 +454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # San Cristobal Post (Unknown)
 *://*.sancristobalpost.com/*
 
+# San Diego City Wire (USA)
+*://*.sandiegocitywire.com/*
+
