@@ -566,3 +566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.ohioindependent.com/*
 *://*.tainews.com/*
 
+# The Other 98% (USA)
+*://*.other98.com/*
+
