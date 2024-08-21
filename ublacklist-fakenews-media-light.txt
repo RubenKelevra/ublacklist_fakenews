@@ -394,3 +394,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Occupy Democrats (USA)
 *://*.occupydemocrats.com/*
 
+# Orinoco Tribune (Venezuela)
+*://*.orinocotribune.com/*
+
