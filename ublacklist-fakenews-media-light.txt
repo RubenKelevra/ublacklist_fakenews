@@ -493,3 +493,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southeastern Times (USA)
 *://*.southeasterntimes.org/*
 
+# Summerlin Reporter (USA)
+*://*.summerlinreporter.com/*
+
