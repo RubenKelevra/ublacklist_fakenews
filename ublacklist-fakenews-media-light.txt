@@ -409,3 +409,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Perez Hilton (USA)
 *://*.perezhilton.com/*
 
+# Piedmont Tribune (USA)
+*://*.piedmonttribune.com/*
+
