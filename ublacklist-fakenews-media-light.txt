@@ -659,3 +659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Wisconsin Lake Times (USA)
 *://*.wisconsinlaketimes.com/*
 
+# Wisevoter (USA)
+*://*.wisevoter.com/*
+
