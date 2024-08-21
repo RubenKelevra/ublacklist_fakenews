@@ -305,3 +305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mexico Daily Post (Unknown)
 *://*.mexicodailypost.com/*
 
+# Michigan Gander (USA)
+*://*.gandernewsroom.com/*
+
