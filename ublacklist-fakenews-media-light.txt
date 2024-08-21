@@ -137,3 +137,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Deep State Journal (USA)
 *://*.deepstatejournal.com/*
 
+# Delaware Valley Sun (USA)
+*://*.delawarevalleysun.com/*
+
