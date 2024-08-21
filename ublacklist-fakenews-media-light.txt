@@ -629,3 +629,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Valley Gazette (USA)
 *://*.valleygazette.org/*
 
+# Veracruz Daily Post (Unknown)
+*://*.veracruzdailypost.com/*
+
