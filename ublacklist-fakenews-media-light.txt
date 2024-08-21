@@ -326,3 +326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mondoweiss (USA)
 *://*.mondoweiss.net/*
 
+# Monterrey Daily Post (Unknown)
+*://*.monterreydailypost.com/*
+
