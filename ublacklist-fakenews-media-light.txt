@@ -98,3 +98,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Pennsylvania Times (USA)
 *://*.centralpatimes.com/*
 
+# Chihuahua Post (Unknown)
+*://*.thechihuahuapost.com/*
+
