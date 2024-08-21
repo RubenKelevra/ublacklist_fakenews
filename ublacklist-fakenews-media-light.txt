@@ -451,3 +451,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sacramento Standard (USA)
 *://*.sacramentostandard.com/*
 
+# San Cristobal Post (Unknown)
+*://*.sancristobalpost.com/*
+
