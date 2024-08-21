@@ -28,3 +28,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Americans Are Pissed (Unknown)
 *://*.americansarepissed.com/*
 
+# Amoskeag Times (USA)
+*://*.amoskeagtimes.com/*
+
