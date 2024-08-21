@@ -466,3 +466,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Savannah Sun Times (USA)
 *://*.savannahsuntimes.com/*
 
+# Seacoast Standard (USA)
+*://*.seacoaststandard.org/*
+
