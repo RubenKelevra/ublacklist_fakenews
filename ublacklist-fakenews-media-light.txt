@@ -95,3 +95,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # True Activist (Germany)
 *://*.trueactivist.com/*
 
+# Central Pennsylvania Times (USA)
+*://*.centralpatimes.com/*
+
