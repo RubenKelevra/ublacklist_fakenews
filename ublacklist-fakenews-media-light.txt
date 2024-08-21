@@ -182,3 +182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # FrontPage NewsPaper (USA)
 *://*.frontpagenewspaper.com/*
 
+# Geology In (USA)
+*://*.geologyin.com/*
+
