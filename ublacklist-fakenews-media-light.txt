@@ -614,3 +614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth in Media (USA)
 *://*.truthinmedia.com/*
 
+# Two Rivers News (USA)
+*://*.tworiversnews.org/*
+
