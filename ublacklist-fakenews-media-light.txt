@@ -623,3 +623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Upper Peninsula Times (USA)
 *://*.upperpeninsulatimes.com/*
 
+# USAnetwork.info (Unknown)
+*://*.usanetwork.info/*
+
