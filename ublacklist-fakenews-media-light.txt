@@ -131,3 +131,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Daily Buzz Live (USA)
 *://*.dailybuzzlive.com/*
 
+# Deep Left Field (USA)
+*://*.new.deepleftfield.info/*
+
