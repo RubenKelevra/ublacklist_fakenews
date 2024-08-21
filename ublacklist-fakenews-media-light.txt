@@ -360,3 +360,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Newsner (Sweden)
 *://*.en.newsner.com/*
 
+# Nordic Monitor (Sweden)
+*://*.nordicmonitor.com/*
+
