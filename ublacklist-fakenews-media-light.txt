@@ -481,3 +481,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Skeptic Ink (Unknown)
 *://*.skepticink.com/*
 
+# Sohu.com (China)
+*://*.sohu.com/*
+
