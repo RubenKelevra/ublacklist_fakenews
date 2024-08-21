@@ -188,3 +188,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gephardt Daily (USA)
 *://*.gephardtdaily.com/*
 
+# Globe Magazine (USA)
+*://*.globemagazine.com/*
+
