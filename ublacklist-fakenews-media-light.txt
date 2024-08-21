@@ -212,3 +212,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gucmakale.com (USA)
 *://*.gucmakale.com/*
 
+# Guerrero Post (Unknown)
+*://*.theguerreropost.com/*
+
