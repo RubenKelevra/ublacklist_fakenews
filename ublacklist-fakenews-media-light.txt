@@ -77,3 +77,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BuzzLoving (USA)
 *://*.buzzloving.com/*
 
+# Campeche Post (Unknown)
+*://*.campechepost.com/*
+
