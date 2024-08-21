@@ -257,3 +257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Korean Central News Agency (North Korea)
 *://*.kcna.kp/*
 
+# La Crosse Leader (USA)
+*://*.lacrosseleader.org/*
+
