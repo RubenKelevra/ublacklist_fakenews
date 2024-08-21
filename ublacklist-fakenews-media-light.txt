@@ -366,3 +366,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Northeast Herald (USA)
 *://*.northeastherald.org/*
 
+# Northern Clark County Herald (USA)
+*://*.northernclarkcountyherald.com/*
+
