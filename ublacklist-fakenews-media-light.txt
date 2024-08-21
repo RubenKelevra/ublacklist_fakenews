@@ -83,3 +83,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cancun Post (Unknown)
 *://*.thecancunpost.com/*
 
+# Cap News (Unknown)
+*://*.cap-news.com/*
+
