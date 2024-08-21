@@ -502,3 +502,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tabasco Post (Unknown)
 *://*.tabascopost.com/*
 
+# Tamaulipas Post (Unknown)
+*://*.tamaulipaspost.com/*
+
