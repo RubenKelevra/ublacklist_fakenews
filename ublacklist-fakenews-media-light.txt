@@ -351,3 +351,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nayarit Post (Unknown)
 *://*.thenayaritpost.com/*
 
+# NetEase (China)
+*://*.163.com/*
+
