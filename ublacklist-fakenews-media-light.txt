@@ -478,3 +478,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sick Chirpse (UK)
 *://*.sickchirpse.com/*
 
+# Skeptic Ink (Unknown)
+*://*.skepticink.com/*
+
