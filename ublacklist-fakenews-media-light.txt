@@ -158,3 +158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Everytown for Gun Safety (USA)
 *://*.everytownresearch.org/*
 
+# Facts.Net (Unknown)
+*://*.facts.net/*
+
