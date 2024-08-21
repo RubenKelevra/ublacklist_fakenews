@@ -445,3 +445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Rodong Sinmun (North Korea)
 *://*.rodong.rep.kp/*
 
+# Rudaw (Iraq)
+*://*.rudaw.net/*
+
