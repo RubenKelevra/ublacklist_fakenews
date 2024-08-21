@@ -314,3 +314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mid Michigan Standard (USA)
 *://*.midmichiganstd.com/*
 
+# Mile High Sentinel (USA)
+*://*.milehighsentinel.com/*
+
