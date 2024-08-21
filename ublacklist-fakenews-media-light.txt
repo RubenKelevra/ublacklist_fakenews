@@ -308,3 +308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Michigan Gander (USA)
 *://*.gandernewsroom.com/*
 
+# Michoacan Post (Unknown)
+*://*.michoacanpost.com/*
+
