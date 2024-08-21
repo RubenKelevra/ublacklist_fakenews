@@ -412,3 +412,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Piedmont Tribune (USA)
 *://*.piedmonttribune.com/*
 
+# Pima Times (USA)
+*://*.pimatimes.com/*
+
