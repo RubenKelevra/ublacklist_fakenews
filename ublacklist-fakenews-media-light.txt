@@ -215,3 +215,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Guerrero Post (Unknown)
 *://*.theguerreropost.com/*
 
+# Gunster News (Unknown)
+*://*.gunsternews.com/*
+
