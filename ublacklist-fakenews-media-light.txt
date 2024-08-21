@@ -514,3 +514,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Teller Report (Unknown)
 *://*.tellerreport.com/*
 
+# The African Exponent (Tanzania)
+*://*.africanexponent.com/*
+
