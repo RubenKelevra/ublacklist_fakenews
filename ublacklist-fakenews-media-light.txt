@@ -302,3 +302,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mexico City Post (Unknown)
 *://*.themexicocitypost.com/*
 
+# Mexico Daily Post (Unknown)
+*://*.mexicodailypost.com/*
+
