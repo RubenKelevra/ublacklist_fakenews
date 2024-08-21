@@ -695,3 +695,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Yuma Standard (USA)
 *://*.yumastandard.com/*
 
+# Zacatecas Post (Unknown)
+*://*.zacatecaspost.com/*
+
