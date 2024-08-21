@@ -62,3 +62,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Black Eye Politics (USA)
 *://*.blackeyepolitics.com/*
 
+# BlackNews.com (USA)
+*://*.blacknews.com/*
+
