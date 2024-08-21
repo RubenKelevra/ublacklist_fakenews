@@ -553,3 +553,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Laugh Club (Sweden)
 *://*.thelaughclub.net/*
 
+# The Limited Times (Unknown)
+*://*.newsrnd.com/*
+
