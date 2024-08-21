@@ -155,3 +155,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Everett Times (USA)
 *://*.everetttimes.com/*
 
+# Everytown for Gun Safety (USA)
+*://*.everytownresearch.org/*
+
