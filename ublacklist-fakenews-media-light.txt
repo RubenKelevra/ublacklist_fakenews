@@ -490,3 +490,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Southern Colorado Times (USA)
 *://*.southerncoloradotimes.com/*
 
+# Southeastern Times (USA)
+*://*.southeasterntimes.org/*
+
