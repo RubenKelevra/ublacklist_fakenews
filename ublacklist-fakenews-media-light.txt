@@ -278,3 +278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # London Web News (UK)
 *://*.londonwebnews.com/*
 
+# Lucianne.com (USA)
+*://*.lucianne.com/*
+
