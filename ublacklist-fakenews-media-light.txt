@@ -50,3 +50,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Bbarta24 (Bangladesh)
 *://*.en.bbarta24.net/*
 
+# BDNews24 (Bangladesh)
+*://*.bdnews24.com/*
+
