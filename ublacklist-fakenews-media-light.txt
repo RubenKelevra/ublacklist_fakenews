@@ -65,3 +65,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # BlackNews.com (USA)
 *://*.blacknews.com/*
 
+# Bossip (USA)
+*://*.bossip.com/*
+
