@@ -119,3 +119,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Conservative Revival (USA)
 *://*.conservativerevival.com/*
 
+# Copper Courier (USA)
+*://*.coppercourier.com/*
+
