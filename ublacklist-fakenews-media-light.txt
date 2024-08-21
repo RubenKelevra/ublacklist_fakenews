@@ -632,3 +632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Veracruz Daily Post (Unknown)
 *://*.veracruzdailypost.com/*
 
+# Viral Cocaine (Unknown)
+*://*.viralcocaine.com/*
+
