@@ -170,3 +170,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Filming Cops (USA)
 *://*.filmingcops.com/*
 
+# Flex Mag (Macedonia)
+*://*.usafortrumponline.com/*
+
