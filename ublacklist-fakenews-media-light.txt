@@ -382,3 +382,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.nowthisnews.com/*
 *://*.nowmedianetwork.co/*
 
+# NRL News Today (USA)
+*://*.nationalrighttolifenews.org/*
+
