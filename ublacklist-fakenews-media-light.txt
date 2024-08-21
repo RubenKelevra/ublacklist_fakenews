@@ -668,3 +668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # WorldGreyNews.Com (Serbia)
 *://*.worldgreynews.com/*
 
+# World News (USA)
+*://*.wn.com/*
+
