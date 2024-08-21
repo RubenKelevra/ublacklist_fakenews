@@ -578,3 +578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Science News Reporter (Pakistan)
 *://*.thescinewsreporter.com/*
 
+# The Union Journal (Unknown)
+*://*.theunionjournal.com/*
+
