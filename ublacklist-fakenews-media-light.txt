@@ -608,3 +608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Truth Examiner (Unknown)
 *://*.truthexam.com/*
 
+# True Viral News (Russia)
+*://*.trueviralnews.com/*
+
