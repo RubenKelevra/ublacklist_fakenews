@@ -505,3 +505,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Tamaulipas Post (Unknown)
 *://*.tamaulipaspost.com/*
 
+# Teddy Stick (Unknown)
+*://*.teddystick.com/*
+
