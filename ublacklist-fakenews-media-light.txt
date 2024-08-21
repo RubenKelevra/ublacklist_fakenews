@@ -520,3 +520,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Angry Patriot (Unknown)
 *://*.angrypatriotmovement.com/*
 
+# The Blue State Conservative (USA)
+*://*.thebluestateconservative.com/*
+
