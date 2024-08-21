@@ -191,3 +191,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Globe Magazine (USA)
 *://*.globemagazine.com/*
 
+# Grand Rapids News (USA)
+*://*.grandrapidsminews.com/*
+
