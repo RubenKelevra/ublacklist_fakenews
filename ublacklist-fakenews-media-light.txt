@@ -281,3 +281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Lucianne.com (USA)
 *://*.lucianne.com/*
 
+# Macomb Digest (USA)
+*://*.macombdigest.com/*
+
