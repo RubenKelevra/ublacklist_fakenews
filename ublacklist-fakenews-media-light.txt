@@ -418,3 +418,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Political Flare (USA)
 *://*.politicalflare.com/*
 
+# Politifact News (Unkown)
+*://*.politifact.news/*
+
