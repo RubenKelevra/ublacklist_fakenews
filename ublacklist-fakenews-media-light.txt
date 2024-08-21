@@ -484,3 +484,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Sohu.com (China)
 *://*.sohu.com/*
 
+# Sonora Post (Unknown)
+*://*.thesonorapost.com/*
+
