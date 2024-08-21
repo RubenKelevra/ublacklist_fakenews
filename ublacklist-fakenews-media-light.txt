@@ -200,3 +200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Granma (Cuba)
 *://*.en.granma.cu/*
 
+# Grunge (USA)
+*://*.grunge.com/*
+
