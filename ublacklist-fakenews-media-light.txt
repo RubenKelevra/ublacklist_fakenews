@@ -152,3 +152,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # eBaum’s World (USA)
 *://*.ebaumsworld.com/*
 
+# Everett Times (USA)
+*://*.everetttimes.com/*
+
