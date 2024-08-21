@@ -290,3 +290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mecklenburg Herald (USA)
 *://*.mecklenburgherald.com/*
 
+# MediaBuzz.org (Singapore)
+*://*.mediabuzz.org/*
+
