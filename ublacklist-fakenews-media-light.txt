@@ -218,3 +218,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Gunster News (Unknown)
 *://*.gunsternews.com/*
 
+# Hawar News Agency (Syria)
+*://*.en.hawarnews.org/*
+
