@@ -80,3 +80,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Campeche Post (Unknown)
 *://*.campechepost.com/*
 
+# Cancun Post (Unknown)
+*://*.thecancunpost.com/*
+
