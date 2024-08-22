@@ -38,7 +38,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Aguascalientes Daily Post (Unknown)
 *://*.aguascalientesdailypost.com/*
-*://*.mexicodailypost.com/*
 
 # Akron Reporter (USA)
 *://*.akronreporter.com/*
