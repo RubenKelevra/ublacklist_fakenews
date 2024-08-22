@@ -4774,3 +4774,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Zacatecas Post (Unknown)
 *://*.zacatecaspost.com/*
 
+# Central Bucks Today (USA)
+*://*.centralbuckstoday.com/*
