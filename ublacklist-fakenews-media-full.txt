@@ -42,12 +42,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Akron Reporter (USA)
 *://*.akronreporter.com/*
 
-# Alabama Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
-# Alaska Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Al Arabiya (Saudi Arabia)
 *://*.english.alarabiya.net/*
 
@@ -202,18 +196,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Archaeology World (Unknown)
 *://*.archaeology-world.com/*
 
-# Arizona Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # The Arizona Independent (USA)
 *://*.arizonaindependent.com/*
 *://*.tainews.com/*
 
 # Arizona Sun Times (USA)
 *://*.arizonasuntimes.com/*
-
-# Arkansas Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Armed Forces Press (USA)
 *://*.armedforces.press/*
@@ -496,9 +484,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Caldron Pool (Australia)
 *://*.caldronpool.com/*
 
-# California Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Campeche Post (Unknown)
 *://*.campechepost.com/*
 
@@ -703,9 +688,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Coconino News (USA)
 *://*.coconinonews.com/*
 
-# Colorado Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Colorado Free Press (USA)
 *://*.coloradofreepress.com/*
 
@@ -730,9 +712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Congressional Agenda (USA)
 *://*.congressionalagenda.com/*
-
-# Connecticut Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Connecticut Centinal (USA)
 *://*.connecticutcentinal.com/*
@@ -910,9 +889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DeKalb Times (USA)
 *://*.dekalbtimes.com/*
 
-# Delaware Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Delaware County Review (USA)
 *://*.delcoreview.com/*
 
@@ -948,9 +924,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Disntr (USA)
 *://*.disntr.com/*
-
-# District of Columbia Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # DJHJ Media (USA)
 *://*.djhjmedia.com/*
@@ -1360,9 +1333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Geology In (USA)
 *://*.geologyin.com/*
 
-# Georgia Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Georgia Mountain News (USA)
 *://*.georgiamountainnews.com/*
 
@@ -1502,9 +1472,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Hartford Reporter (USA)
 *://*.hartfordreporter.com/*
 
-# Hawaii Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Hawar News Agency (Syria)
 *://*.en.hawarnews.org/*
 
@@ -1595,9 +1562,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # IBX News (USA)
 *://*.ibxnews.com/*
 
-# Idaho Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Idaho Freedom Foundation (USA)
 *://*.idahofreedom.org/*
 
@@ -1619,9 +1583,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Illicit Info (USA)
 *://*.illicitinfo.com/*
 
-# Illinois Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Illinois Valley Times (USA)
 *://*.illinoisvalleytimes.com/*
 
@@ -1636,9 +1597,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Independent Sentinel (USA)
 *://*.independentsentinel.com/*
-
-# Indiana Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Indy Standard (USA)
 *://*.indystandard.com/*
@@ -1675,9 +1633,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # International Organization for the Family (USA)
 *://*.profam.org/*
-
-# Iowa Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Iowa City Today (USA)
 *://*.iowacitytoday.com/*
@@ -1743,9 +1698,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Kankakee Times (USA)
 *://*.kankakeetimes.com/*
 
-# Kansas Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Katehon (Russia)
 *://*.katehon.com/*
 
@@ -1763,9 +1715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Kentuckiana Times (USA)
 *://*.kentuckianatimes.com/*
-
-# Kentucky Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Kern County Times (USA)
 *://*.kerncountytimes.com/*
@@ -1933,9 +1882,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Louder With Crowder (USA)
 *://*.louderwithcrowder.com/*
 
-# Louisiana Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Louisville City Wire (USA)
 *://*.louisvillecitywire.com/*
 
@@ -1962,9 +1908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Magnolia State News (USA)
 *://*.magnoliastatenews.com/*
-
-# Maine Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Maine Highlands News (USA)
 *://*.mainehighlandsnews.com/*
@@ -1993,14 +1936,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Marion-Morrow Times (USA)
 *://*.marionmorrowtimes.com/*
 
-# Maryland Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Maryland State Wire (USA)
 *://*.mdstatewire.com/*
-
-# Massachusetts Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Mat-Su Times (USA)
 *://*.matsutimes.com/*
@@ -2061,9 +1998,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Metro West Times (USA)
 *://*.metrowesttimes.com/*
-
-# Mexico Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Mexico City Post (Unknown)
 *://*.themexicocitypost.com/*
@@ -2137,9 +2071,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Minneapolis Review (USA)
 *://*.minneapolisreview.com/*
 
-# Minnesota Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Minnesota State Wire (USA)
 *://*.minnesotastatewire.com/*
 
@@ -2149,14 +2080,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Mint Press News (USA)
 *://*.mintpressnews.com/*
 
-# Mississippi Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Mississippi Gulf News (USA)
 *://*.msgulfnews.com/*
-
-# Missouri Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Mixi.Media (USA)
 *://*.mixi.media/*
@@ -2184,9 +2109,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Monroe Review (USA)
 *://*.monroereview.com/*
-
-# Montana Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Monterey Times (USA)
 *://*.montereytimes.com/*
@@ -2234,9 +2156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NW Iowa News (USA)
 *://*.nwiowanews.com/*
 
-# New Jersey Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Nantahala News (USA)
 *://*.nantahalanews.com/*
 
@@ -2283,9 +2202,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Nayarit Post (Unknown)
 *://*.thenayaritpost.com/*
 
-# NC Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # NC Florida News (USA)
 *://*.ncfloridanews.com/*
 
@@ -2330,9 +2246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # NE Bergen News (USA)
 *://*.nebergennews.com/*
-
-# Nebraska Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Nebraska Panhandle News (USA)
 *://*.nepanhandlenews.com/*
@@ -2406,17 +2319,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # NetEase (China)
 *://*.163.com/*
 
-# Nevada Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Newark Reporter (USA)
 *://*.newarkreporter.com/*
 
 # New Discourses (USA)
 *://*.newdiscourses.com/*
-
-# New Hampshire Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # New Mexico Business Daily (USA)
 *://*.nmbusinessdaily.com/*
@@ -2489,9 +2396,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.newswars.com/*
 *://*.infowars.com/*
 
-# New York Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Next News Network (USA)
 *://*.nextnewsnetwork.com/*
 
@@ -2554,9 +2458,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Country Reporter (USA)
 *://*.northcountryreporter.com/*
-
-# North Dakota Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # North DSM News (USA)
 *://*.northdsmnews.com/*
@@ -2835,9 +2736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Ocean County Leader (USA)
 *://*.oceancountyleader.com/*
 
-# Ohio Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # OKC Standard (USA)
 *://*.okcstandard.com/*
 
@@ -2847,9 +2745,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # O’Keefe Media Group (USA)
 *://*.okeefemediagroup.com/*
 
-# Oklahoma Business Daily (USA)
-*://*.businessdailynetwork.com/*
-
 # Old North News (USA)
 *://*.oldnorthnews.com/*
 
@@ -2858,9 +2753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Onslow News (USA)
 *://*.onslownews.com/*
-
-# Oregon Business Daily (USA)
-*://*.businessdailynetwork.com/*
 
 # Origo (Hungary)
 *://*.origo.hu/*
@@ -4772,3 +4664,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Central Bucks Today (USA)
 *://*.centralbuckstoday.com/*
+
+# Business Daily (USA)
+*://*.businessdailynetwork.com/*
