@@ -4667,3 +4667,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Business Daily (USA)
 *://*.businessdailynetwork.com/*
+
+# Central Chester Today (USA)
+*://*.centralchestertoday.com/*
