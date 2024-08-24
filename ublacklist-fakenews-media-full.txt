@@ -4682,3 +4682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Occidental Dissent (USA)
 *://*.occidentaldissent.com/*
+
+# 100 Percent Fed Up (USA)
+*://*.100percentfedup.com/*
