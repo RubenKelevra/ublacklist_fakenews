@@ -4679,3 +4679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # News89TV.com (USA)
 *://*.news89tv.com/*
+
+# Occidental Dissent (USA)
+*://*.occidentaldissent.com/*
