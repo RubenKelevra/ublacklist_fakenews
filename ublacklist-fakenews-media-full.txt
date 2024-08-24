@@ -4670,3 +4670,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Central Chester Today (USA)
 *://*.centralchestertoday.com/*
+
+# Kamala Border Bloodbath (USA)
+*://*.kamalaborderbloodbath.com/*
