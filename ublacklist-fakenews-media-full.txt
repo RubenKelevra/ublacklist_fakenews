@@ -4676,3 +4676,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Cambria Times (USA)
 *://*.cambriatimes.com/*
+
+# News89TV.com (USA)
+*://*.news89tv.com/*

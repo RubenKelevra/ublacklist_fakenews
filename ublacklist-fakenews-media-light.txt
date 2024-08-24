@@ -697,3 +697,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Zacatecas Post (Unknown)
 *://*.zacatecaspost.com/*
 
+# News89TV.com (USA)
+*://*.news89tv.com/*
