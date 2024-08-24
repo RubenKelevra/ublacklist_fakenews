@@ -4673,3 +4673,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Kamala Border Bloodbath (USA)
 *://*.kamalaborderbloodbath.com/*
+
+# Cambria Times (USA)
+*://*.cambriatimes.com/*
