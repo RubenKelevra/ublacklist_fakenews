@@ -4685,3 +4685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # 100 Percent Fed Up (USA)
 *://*.100percentfedup.com/*
+
+# Coal Region News (USA)
+*://*.coalregionnews.com/*
