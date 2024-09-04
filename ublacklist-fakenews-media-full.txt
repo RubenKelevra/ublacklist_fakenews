@@ -4688,3 +4688,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Coal Region News (USA)
 *://*.coalregionnews.com/*
+
+# Crawford Times (USA)
+*://*.crawfordtimes.com/*
