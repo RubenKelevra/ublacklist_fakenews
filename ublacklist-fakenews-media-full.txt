@@ -4691,3 +4691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Crawford Times (USA)
 *://*.crawfordtimes.com/*
+
+# Cumberland Valley News (USA)
+*://*.cumberlandvalleynews.com/*
