@@ -1010,7 +1010,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.eciowanews.com/*
 
 # East Kentucky Times (USA)
-*://*eastkentuckytimes.com/*
+*://*.eastkentuckytimes.com/*
 
 # East Lake Norman News (USA)
 *://*.eastlakenormannews.com/*
