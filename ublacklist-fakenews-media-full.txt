@@ -4719,3 +4719,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.x.com/COMPACTMagazin*
 *://*.x.com/compactmagazin*
 *://*.compact-online.de/*
+
+# American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
+*://*.conservative.org/*
+*://*.cpac.org/*
