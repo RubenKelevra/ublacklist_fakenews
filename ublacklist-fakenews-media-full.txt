@@ -4709,3 +4709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Loomered.com (USA)
 *://*.loomered.com/*
+
+# Utah Standard News (USA)
+*://*.utahstandardnews.com/*
