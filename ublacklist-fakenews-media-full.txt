@@ -4706,3 +4706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # East Montgomery Times (USA)
 *://*.eastmonttimes.com/*
+
+# Loomered.com (USA)
+*://*.loomered.com/*
