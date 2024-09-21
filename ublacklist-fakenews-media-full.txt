@@ -4712,3 +4712,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Utah Standard News (USA)
 *://*.utahstandardnews.com/*
+
+# COMPACT-Magazin (Germany)
+*://*.twitter.com/COMPACTMagazin*
+*://*.twitter.com/compactmagazin*
+*://*.x.com/COMPACTMagazin*
+*://*.x.com/compactmagazin*
+*://*.compact-online.de/*
