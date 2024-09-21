@@ -4700,3 +4700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Shockya News (USA)
 *://*.shockya.com/*
+
+# Erie County Times (USA)
+*://*.eriecotimes.com/*
