@@ -4697,3 +4697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Today is America (USA)
 *://*.todayisamerica.com/*
+
+# Shockya News (USA)
+*://*.shockya.com/*
