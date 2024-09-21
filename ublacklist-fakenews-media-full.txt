@@ -4723,3 +4723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
 *://*.conservative.org/*
 *://*.cpac.org/*
+
+# Dauphin News (USA)
+*://*.dauphinnews.com/*
