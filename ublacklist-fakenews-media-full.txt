@@ -4729,3 +4729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Lycoming News (USA)
 *://*.lycomingnews.com/*
+
+# RBC.ru (Russia)
+*://*.rbc.ru/*
