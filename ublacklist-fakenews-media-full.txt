@@ -4726,3 +4726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Dauphin News (USA)
 *://*.dauphinnews.com/*
+
+# Lycoming News (USA)
+*://*.lycomingnews.com/*
