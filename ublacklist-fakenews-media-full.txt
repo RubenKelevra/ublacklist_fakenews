@@ -4735,3 +4735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # SebGorka.com (USA)
 *://*.sebgorka.com/*
+
+# Monroe County News (USA)
+*://*.monroeconews.com/*
