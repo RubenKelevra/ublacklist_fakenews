@@ -4738,3 +4738,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Monroe County News (USA)
 *://*.monroeconews.com/*
+
+# Real Not Rare (USA)
+*://*.realnotrare.com/*
