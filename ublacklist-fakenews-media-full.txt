@@ -4813,3 +4813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Northhampton News (USA)
 *://*.northhamptonnews.com/*
+
+# Northern Tier News (USA)
+*://*.northerntiernews.com/*
