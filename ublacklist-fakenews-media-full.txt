@@ -4810,3 +4810,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Center for Immigration Studies - CIS (USA)
 *://*.cis.org/*
+
+# Northhampton News (USA)
+*://*.northhamptonnews.com/*
