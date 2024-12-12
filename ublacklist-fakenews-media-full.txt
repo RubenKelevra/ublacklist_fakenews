@@ -4804,3 +4804,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Save Us Now - SUN (UK)
 *://*.saveusnow.org.uk/*
+
+# Tap Haps (USA)
+*://*.taphaps.com/*
