@@ -4795,3 +4795,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # The Quartering (USA)
 *://*.thequartering.com/*
+
+# Visegrad 24 (Poland)
+*://*.visegrad24.com/*
