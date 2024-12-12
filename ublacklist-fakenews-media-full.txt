@@ -4825,3 +4825,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Boulder Leader (USA)
 *://*.boulderleader.com/*
+
+# Breaking Wide (Unknown)
+*://*.breakingwide.com/*
