@@ -4786,3 +4786,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Der Status (Austria)
 *://*.derstatus.at/*
+
+# Northwest PA News (USA)
+*://*.nwpanews.com/*
