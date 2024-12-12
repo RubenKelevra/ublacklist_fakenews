@@ -4807,3 +4807,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Tap Haps (USA)
 *://*.taphaps.com/*
+
+# Center for Immigration Studies - CIS (USA)
+*://*.cis.org/*
