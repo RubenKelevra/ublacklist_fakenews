@@ -4777,3 +4777,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Central PA Times (USA)
 *://*.ncpatimes.com/*
+
+# Swamp Monsters (USA)
+*://*.swampmonsters.news/*
