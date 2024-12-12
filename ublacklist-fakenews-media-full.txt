@@ -4747,3 +4747,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Allegheny News (USA)
 *://*.northalleghenynews.com/*
+
+# Citizen Watch Report - CWR (USA)
+*://*.citizenwatchreport.com/*
