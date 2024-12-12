@@ -4819,3 +4819,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Pocono News (USA)
 *://*.northpocononews.com/*
+
+# Bossip (USA)
+*://*.bossip.com/*
