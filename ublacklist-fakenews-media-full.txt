@@ -4780,3 +4780,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Swamp Monsters (USA)
 *://*.swampmonsters.news/*
+
+# Pennsylvania Record (USA)
+*://*.pennrecord.com/*
