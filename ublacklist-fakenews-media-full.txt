@@ -4783,3 +4783,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Pennsylvania Record (USA)
 *://*.pennrecord.com/*
+
+# Der Status (Austria)
+*://*.derstatus.at/*
