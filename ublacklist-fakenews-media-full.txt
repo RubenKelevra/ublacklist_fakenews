@@ -4765,3 +4765,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Patriot Voice News (USA)
 *://*.patriotvoicenews.com/*
+
+# Samtiden (Sweden)
+*://*.samtiden.nu/*
