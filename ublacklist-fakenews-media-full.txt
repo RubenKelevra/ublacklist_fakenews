@@ -4774,3 +4774,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Russia vs. World (USA)
 *://*.russiavsworld.org/*
+
+# North Central PA Times (USA)
+*://*.ncpatimes.com/*
