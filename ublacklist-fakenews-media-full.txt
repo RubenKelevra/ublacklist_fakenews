@@ -4762,3 +4762,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Syrian Arab News Agency (Syria)
 *://*.sana.sy/*
+
+# Patriot Voice News (USA)
+*://*.patriotvoicenews.com/*
