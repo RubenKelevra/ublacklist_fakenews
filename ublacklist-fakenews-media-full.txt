@@ -4801,3 +4801,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Lancaster News (USA)
 *://*.northlancasternews.com/*
+
+# Save Us Now - SUN (UK)
+*://*.saveusnow.org.uk/*
