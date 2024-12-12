@@ -4792,3 +4792,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # The Burning Platform (USA)
 *://*.theburningplatform.com/*
+
+# The Quartering (USA)
+*://*.thequartering.com/*
