@@ -4744,3 +4744,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Reduxx (Canada)
 *://*.reduxx.info/*
+
+# North Allegheny News (USA)
+*://*.northalleghenynews.com/*
