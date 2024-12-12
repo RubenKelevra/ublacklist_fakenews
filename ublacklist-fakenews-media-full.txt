@@ -4768,3 +4768,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Samtiden (Sweden)
 *://*.samtiden.nu/*
+
+# North Chester Today (USA)
+*://*.northchestertoday.com/*
