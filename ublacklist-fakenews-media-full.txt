@@ -4753,3 +4753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Voice of Rural America (USA)
 *://*.voiceofruralamerica.com/*
+
+# North Delco News (USA)
+*://*.northdelconews.com/*
