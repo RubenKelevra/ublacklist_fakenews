@@ -4750,3 +4750,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Citizen Watch Report - CWR (USA)
 *://*.citizenwatchreport.com/*
+
+# Voice of Rural America (USA)
+*://*.voiceofruralamerica.com/*
