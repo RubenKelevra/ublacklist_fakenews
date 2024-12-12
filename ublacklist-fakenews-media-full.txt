@@ -4771,3 +4771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # North Chester Today (USA)
 *://*.northchestertoday.com/*
+
+# Russia vs. World (USA)
+*://*.russiavsworld.org/*
