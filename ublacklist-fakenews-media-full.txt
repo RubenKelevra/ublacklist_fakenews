@@ -4789,3 +4789,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Northwest PA News (USA)
 *://*.nwpanews.com/*
+
+# The Burning Platform (USA)
+*://*.theburningplatform.com/*
