@@ -4816,3 +4816,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Northern Tier News (USA)
 *://*.northerntiernews.com/*
+
+# North Pocono News (USA)
+*://*.northpocononews.com/*
