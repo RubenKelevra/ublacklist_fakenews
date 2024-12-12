@@ -4741,3 +4741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Real Not Rare (USA)
 *://*.realnotrare.com/*
+
+# Reduxx (Canada)
+*://*.reduxx.info/*
