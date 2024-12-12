@@ -4665,7 +4665,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Central Bucks Today (USA)
 *://*.centralbuckstoday.com/*
 
-# Business Daily (USA)
+# * Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
 # Central Chester Today (USA)
