@@ -319,9 +319,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Milwaukee Metro Times (USA)
 *://*.milwaukeemetrotimes.com/*
 
-# Mint Press News (USA)
-*://*.mintpressnews.com/*
-
 # Mondoweiss (USA)
 *://*.mondoweiss.net/*
 
@@ -564,9 +561,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # The Ohio Independent (USA)
 *://*.ohioindependent.com/*
 *://*.tainews.com/*
-
-# The Other 98% (USA)
-*://*.other98.com/*
 
 # The Proud Liberal (USA)
 *://*.theproudliberal.org/*
