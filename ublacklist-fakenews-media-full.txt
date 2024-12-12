@@ -4759,3 +4759,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Samnytt (Sweden)
 *://*.samnytt.se/*
+
+# Syrian Arab News Agency (Syria)
+*://*.sana.sy/*
