@@ -125,9 +125,6 @@ dailybuzzlive.com
 # Deep Left Field (USA)
 new.deepleftfield.info
 
-# Deep State Journal (USA)
-deepstatejournal.com
-
 # Delaware Valley Sun (USA)
 delawarevalleysun.com
 
