@@ -695,3 +695,6 @@ benddailynews.com
 # FR24 News (Unknown)
 fr24news.com
 
+# NZ Report (Unknown)
+nzreport.com
+

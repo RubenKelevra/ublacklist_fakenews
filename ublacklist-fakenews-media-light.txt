@@ -699,3 +699,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # FR24 News (Unknown)
 *://*.fr24news.com/*
+
+# NZ Report (Unknown)
+*://*.nzreport.com/*
