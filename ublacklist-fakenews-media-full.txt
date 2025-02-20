@@ -4837,3 +4837,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Report24 (Austria)
 *://*.report24.news/*
+
+# Courier Newsroom (USA)
+*://*.couriernewsroom.com/*
