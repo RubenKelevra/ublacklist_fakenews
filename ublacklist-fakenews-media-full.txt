@@ -4870,3 +4870,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Charleston Morning News (USA)
 *://*.charlestonmorning.com/*
+
+# The Liberal (Ireland)
+*://*.theliberal.ie/*

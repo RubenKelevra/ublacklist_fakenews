@@ -4825,3 +4825,6 @@ nzreport.com
 # Charleston Morning News (USA)
 charlestonmorning.com
 
+# The Liberal (Ireland)
+theliberal.ie
+
