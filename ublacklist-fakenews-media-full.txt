@@ -4834,3 +4834,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # South Delco News (USA)
 *://*.southdelconews.com/*
+
+# Report24 (Austria)
+*://*.report24.news/*

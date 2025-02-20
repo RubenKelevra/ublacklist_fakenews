@@ -4789,3 +4789,6 @@ gooddayfortcollins.com
 # South Delco News (USA)
 southdelconews.com
 
+# Report24 (Austria)
+report24.news
+
