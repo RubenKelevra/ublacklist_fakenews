@@ -1,0 +1,688 @@
+# 9GAG (Hong Kong)
+9gag.com
+
+# Action News 3 (Unknown)
+actionnews3.com
+
+# Aguascalientes Daily Post (Unknown)
+aguascalientesdailypost.com
+
+# Al Arabiya (Saudi Arabia)
+english.alarabiya.net
+
+# Albany Standard (USA)
+albanystandard.com
+
+# Al Bawaba (Jordan)
+albawaba.com
+
+# Al Mayadeen (Lebanon)
+english.almayadeen.net
+
+# Americans Are Pissed (Unknown)
+americansarepissed.com
+
+# Amoskeag Times (USA)
+amoskeagtimes.com
+
+# Archaeology World (Unknown)
+archaeology-world.com
+
+# The Arizona Independent (USA)
+arizonaindependent.com
+tainews.com
+
+# Augusta-Richmond Herald (USA)
+augustarichmondherald.com
+
+# Baja California Post (Unknown)
+bajacaliforniapost.com
+
+# Basnews Agency (Iraq)
+basnews.com
+
+# Bbarta24 (Bangladesh)
+en.bbarta24.net
+
+# BDNews24 (Bangladesh)
+bdnews24.com
+
+# Beijing Review (China)
+bjreview.com
+
+# Bipartisan Report (USA)
+bipartisanreport.com
+
+# Black Eye Politics (USA)
+blackeyepolitics.com
+
+# Bossip (USA)
+bossip.com
+
+# Breaking911 (USA)
+breaking911.com
+
+# Bucks County Standard (USA)
+buckscountystandard.com
+
+# BuzzLoving (USA)
+buzzloving.com
+
+# Campeche Post (Unknown)
+campechepost.com
+
+# Cancun Post (Unknown)
+thecancunpost.com
+
+# Cap News (Unknown)
+cap-news.com
+
+# Cardinal & Pine (USA)
+cardinalpine.com
+
+# CCTV International (China)
+english.cctv.com
+
+# True Activist (Germany)
+trueactivist.com
+
+# Central Pennsylvania Times (USA)
+centralpatimes.com
+
+# Chihuahua Post (Unknown)
+thechihuahuapost.com
+
+# China Daily (China)
+chinadaily.com.cn
+
+# China Global Television Network (China)
+cgtn.com
+
+# CNS News (USA)
+mrctv.org
+
+# Cobb News (USA)
+cobbnewsga.com
+
+# Columbus News (USA)
+colonews.org
+
+# Conservative Revival (USA)
+conservativerevival.com
+
+# Copper Courier (USA)
+coppercourier.com
+
+# Council for the National Interest (USA)
+councilforthenationalinterest.org
+
+# CovertAction Magazine (USA)
+covertactionmagazine.com
+
+# Daily Buzz Live (USA)
+dailybuzzlive.com
+
+# Deep Left Field (USA)
+new.deepleftfield.info
+
+# Deep State Journal (USA)
+deepstatejournal.com
+
+# Delaware Valley Sun (USA)
+delawarevalleysun.com
+
+# Democratic National Committee (USA)
+democrats.org
+
+# Durango Post (Unknown)
+thedurangopost.com
+
+# Eagle Rising (Unknown)
+eaglerising.com
+
+# eBaum’s World (USA)
+ebaumsworld.com
+
+# Everett Times (USA)
+everetttimes.com
+
+# Everytown for Gun Safety (USA)
+everytownresearch.org
+
+# Facts.Net (Unknown)
+facts.net
+
+# Fars News (Iran)
+farsnews.ir
+
+# Femalista (USA)
+femalista.com
+
+# Filming Cops (USA)
+filmingcops.com
+
+# Flex Mag (Macedonia)
+usafortrumponline.com
+
+# Floricua (USA)
+floricuanews.com
+
+# Foreign Policy Initiative (USA)
+foreignpolicyi.org
+
+# FrontPage NewsPaper (USA)
+frontpagenewspaper.com
+
+# Geology In (USA)
+geologyin.com
+
+# Gephardt Daily (USA)
+gephardtdaily.com
+
+# Globe Magazine (USA)
+globemagazine.com
+
+# Grand Rapids News (USA)
+grandrapidsminews.com
+
+# Granite Post (USA)
+granitepostnews.com
+
+# Granma (Cuba)
+en.granma.cu
+
+# Grunge (USA)
+grunge.com
+
+# Guadalajara Post (Unknown)
+theguadalajarapost.com
+
+# Guardian Nigeria (Nigeria)
+guardian.ng
+
+# Gucmakale.com (USA)
+gucmakale.com
+
+# Guerrero Post (Unknown)
+theguerreropost.com
+
+# Gunster News (Unknown)
+gunsternews.com
+
+# Hawar News Agency (Syria)
+en.hawarnews.org
+
+# Head Topics (Unknown)
+headtopics.com
+
+# Henderson Times (USA)
+hendersontimes.org
+
+# Hidalgo Daily Post (Unknown)
+hidalgodailypost.com
+
+# Hindustan Times (India)
+hindustantimes.com
+
+# Hoodsite-USA Crime (USA)
+usacrime.com
+
+# iHarare (Zimbabwe)
+iharare.com
+
+# InfoScum (Canada)
+infoscum.com
+
+# Inner Strength Zone (Canada)
+innerstrength.zone
+
+# Inside the Magic (USA)
+insidethemagic.net
+
+# International Organization for the Family (USA)
+profam.org
+
+# Just The News (USA)
+justthenews.com
+
+# Korean Central News Agency (North Korea)
+kcna.kp
+
+# La Crosse Leader (USA)
+lacrosseleader.org
+
+# LADbible (UK)
+ladbible.com
+
+# Lancaster Courier (USA)
+lancastercourier.com
+
+# Left Action (USA)
+leftaction.com
+
+# Lehigh Valley News (USA)
+lehighnews.org
+
+# Liberty Unyielding (USA)
+libertyunyielding.com
+
+# London Web News (UK)
+londonwebnews.com
+
+# Lucianne.com (USA)
+lucianne.com
+
+# Macomb Digest (USA)
+macombdigest.com
+
+# Mazatlan Post (Unknown)
+themazatlanpost.com
+
+# Mecklenburg Herald (USA)
+mecklenburgherald.com
+
+# MediaBuzz.org (Singapore)
+mediabuzz.org
+
+# MercoPress (Uruguay)
+en.mercopress.com
+
+# Mesa Times (USA)
+mesatimes.org
+
+# Mexico City Post (Unknown)
+themexicocitypost.com
+
+# Mexico Daily Post (Unknown)
+mexicodailypost.com
+
+# Michigan Gander (USA)
+gandernewsroom.com
+
+# Michoacan Post (Unknown)
+michoacanpost.com
+
+# Mid Michigan Standard (USA)
+midmichiganstd.com
+
+# Mile High Sentinel (USA)
+milehighsentinel.com
+
+# Milwaukee Metro Times (USA)
+milwaukeemetrotimes.com
+
+# Mondoweiss (USA)
+mondoweiss.net
+
+# Monterrey Daily Post (Unknown)
+monterreydailypost.com
+
+# Moon of Alabama (USA)
+moonofalabama.org
+
+# Morelos Daily Post (Unknown)
+morelosdailypost.com
+
+# MoveOn (USA)
+front.moveon.org
+
+# MTO News (USA)
+mediatakeout.com
+mtonews.com
+
+# National Right to Life Committee (USA)
+nrlc.org
+
+# National Zero (USA)
+nationalzero.com
+
+# Nayarit Post (Unknown)
+thenayaritpost.com
+
+# NetEase (China)
+163.com
+
+# News Break (USA)
+newsbreak.com
+
+# Newsner (Sweden)
+en.newsner.com
+
+# Nordic Monitor (Sweden)
+nordicmonitor.com
+
+# Northeast Herald (USA)
+northeastherald.org
+
+# Northern Clark County Herald (USA)
+northernclarkcountyherald.com
+
+# Northern Wisconsin Times (USA)
+northernwitimes.com
+
+# Northwest Lake Times (USA)
+nwlaketimes.com
+
+# Now8News (USA)
+now8news.com
+
+# NowThis News (USA)
+nowmedianetwork.co
+nowthisnews.com
+
+# NRL News Today (USA)
+nationalrighttolifenews.org
+
+# Oakland Times (USA)
+oaklandtimes.org
+
+# Oaxaca Post (Unknown)
+theoaxacapost.com
+
+# Occupy Democrats (USA)
+occupydemocrats.com
+
+# Orinoco Tribune (Venezuela)
+orinocotribune.com
+
+# OTP Tribune (USA)
+otptribune.com
+
+# Peachtree Gazette (USA)
+peachtreegazette.com
+
+# Pennsylvania Independent (USA)
+pennsylvaniaindependent.com
+
+# Perez Hilton (USA)
+perezhilton.com
+
+# Piedmont Tribune (USA)
+piedmonttribune.com
+
+# Pima Times (USA)
+pimatimes.com
+
+# Political Flare (USA)
+politicalflare.com
+
+# Politifact News (Unkown)
+politifact.news
+
+# Puebla Post (Unknown)
+pueblapost.com
+
+# Queretaro Post (Unknown)
+thequeretaropost.com
+
+# Quds News Network (Palestine)
+qudsnen.co
+
+# RadarOnline (USA)
+radaronline.com
+
+# RedOrbit (USA)
+redorbit.com
+
+# Rockingham Journal (USA)
+rockinghamjournal.com
+
+# Rock Valley Times (USA)
+rockvalleytimes.com
+
+# Rodong Sinmun (North Korea)
+rodong.rep.kp
+
+# Rudaw (Iraq)
+rudaw.net
+
+# Sacramento Standard (USA)
+sacramentostandard.com
+
+# San Cristobal Post (Unknown)
+sancristobalpost.com
+
+# San Diego City Wire (USA)
+sandiegocitywire.com
+
+# San Luis Potosi Post (Unknown)
+sanluispotosipost.com
+
+# San Miguel Post (Unknown)
+sanmiguelpost.com
+
+# Savannah Sun Times (USA)
+savannahsuntimes.com
+
+# Seacoast Standard (USA)
+seacoaststandard.org
+
+# Seekr (USA)
+seekr.com
+
+# Shafaq News (Iraq)
+shafaq.com
+
+# Sick Chirpse (UK)
+sickchirpse.com
+
+# Skeptic Ink (Unknown)
+skepticink.com
+
+# Sohu.com (China)
+sohu.com
+
+# Sonora Post (Unknown)
+thesonorapost.com
+
+# Southern Colorado Times (USA)
+southerncoloradotimes.com
+
+# Southeastern Times (USA)
+southeasterntimes.org
+
+# Summerlin Reporter (USA)
+summerlinreporter.com
+
+# Syriana Analysis (Germany)
+syriana-analysis.com
+
+# Tabasco Post (Unknown)
+tabascopost.com
+
+# Tamaulipas Post (Unknown)
+tamaulipaspost.com
+
+# Teddy Stick (Unknown)
+teddystick.com
+
+# TeleSUR (Venezuela)
+telesurenglish.net
+
+# Teller Report (Unknown)
+tellerreport.com
+
+# The African Exponent (Tanzania)
+africanexponent.com
+
+# The Angry Patriot (Unknown)
+angrypatriotmovement.com
+
+# The Blue State Conservative (USA)
+thebluestateconservative.com
+
+# The Boston Tribune (Unknown)
+thebostontribune.com
+
+# The Colorado Herald (Unknown)
+thecoloradoherald.com
+
+# The Conservative Brief (USA)
+theconservativebrief.com
+
+# The Daily Boulder (USA)
+dailyboulder.com
+
+# The Duran (Cyprus)
+theduran.com
+
+# The Frisky (Serbia)
+thefrisky.com
+
+# The Grayzone (USA)
+thegrayzone.com
+
+# The Keystone (USA)
+keystonenewsroom.com
+
+# The Last Resistance (USA)
+lastresistance.com
+
+# The Laugh Club (Sweden)
+thelaughclub.net
+
+# The Limited Times (Unknown)
+newsrnd.com
+
+# The Michigan Independent (USA)
+michiganindependent.com
+
+# The Nevadan (USA)
+thenevadannews.com
+
+# The Ohio Independent (USA)
+ohioindependent.com
+tainews.com
+
+# The Proud Liberal (USA)
+theproudliberal.org
+
+# The Ron Paul Institute (USA)
+ronpaulinstitute.org
+
+# The Science News Reporter (Pakistan)
+thescinewsreporter.com
+
+# The Union Journal (Unknown)
+theunionjournal.com
+
+# The Washington Standard
+thewashingtonstandard.com
+
+# The Wisconsin Independent (USA)
+wisconsinindependent.com
+
+# Three Rivers Gazette (USA)
+threeriversgazette.com
+
+# TooFab (USA)
+toofab.com
+
+# Torreon Post (Unknown)
+thetorreonpost.com
+
+# Toutiao (China)
+toutiao.com
+
+# Triangle News (USA)
+trianglenews.org
+
+# Tri-City Record (USA)
+tri-cityrecord.org
+
+# Truth Examiner (Unknown)
+truthexam.com
+
+# True Viral News (Russia)
+trueviralnews.com
+
+# Truth in Media (USA)
+truthinmedia.com
+
+# Two Rivers News (USA)
+tworiversnews.org
+
+# Up North News (USA)
+upnorthnewswi.com
+
+# Upper Peninsula Times (USA)
+upperpeninsulatimes.com
+
+# USAnetwork.info (Unknown)
+usanetwork.info
+
+# Valley Gazette (USA)
+valleygazette.org
+
+# Veracruz Daily Post (Unknown)
+veracruzdailypost.com
+
+# Viral Cocaine (Unknown)
+viralcocaine.com
+
+# Virginia Dogwood (USA)
+vadogwood.com
+
+# Washington Sources (USA)
+washingtonsources.org
+
+# Washoe Gazette (USA)
+washoegazette.com
+
+# Wayne Herald (USA)
+wayneherald.org
+
+# Weibo (China)
+weibo.com
+
+# WhatRegistrater.com (Unknown)
+whatregistrater.com
+
+# What’s the Harm (Unknown)
+whatstheharm.net
+
+# Wisconsin Lake Times (USA)
+wisconsinlaketimes.com
+
+# Wisevoter (USA)
+wisevoter.com
+
+# Women’s Rights News (USA)
+facebook.com
+
+# WorldGreyNews.Com (Serbia)
+worldgreynews.com
+
+# World News (USA)
+wn.com
+
+# WorldNewsERA (Unknown)
+worldnewsera.com
+
+# World of Buzz (Malaysia)
+worldofbuzz.com
+
+# WorldStarHipHop (USA)
+worldstarhiphop.com
+
+# WorldTimeTodays (USA)
+worldtimetodays.com
+
+# Xinhua English (China)
+news.cn
+
+# Xinhua News Agency (China)
+xinhuanet.com
+
+# Yucatan Post (Unknown)
+theyucatanpost.com
+
+# Yuma Standard (USA)
+yumastandard.com
+
+# Zacatecas Post (Unknown)
+zacatecaspost.com
+
+# News89TV.com (USA)
+news89tv.com
+
