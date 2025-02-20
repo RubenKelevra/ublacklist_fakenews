@@ -4855,3 +4855,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Every Legal Vote (USA)
 *://*.everylegalvote.com/*
+
+# Bend Daily News (USA)
+*://*.benddailynews.com/*

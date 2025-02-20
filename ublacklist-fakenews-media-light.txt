@@ -693,3 +693,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Courier Newsroom (USA)
 *://*.couriernewsroom.com/*
+
+# Bend Daily News (USA)
+*://*.benddailynews.com/*

@@ -689,3 +689,6 @@ gooddayfortcollins.com
 # Courier Newsroom (USA)
 couriernewsroom.com
 
+# Bend Daily News (USA)
+benddailynews.com
+
