@@ -4861,3 +4861,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # FR24 News (Unknown)
 *://*.fr24news.com/*
+
+# The Lid (USA)
+*://*.lidblog.com/*
