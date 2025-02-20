@@ -4867,3 +4867,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # NZ Report (Unknown)
 *://*.nzreport.com/*
+
+# Charleston Morning News (USA)
+*://*.charlestonmorning.com/*

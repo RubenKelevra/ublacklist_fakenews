@@ -698,3 +698,6 @@ fr24news.com
 # NZ Report (Unknown)
 nzreport.com
 
+# Charleston Morning News (USA)
+charlestonmorning.com
+
