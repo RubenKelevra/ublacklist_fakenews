@@ -4852,3 +4852,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Restricted Republic (USA)
 *://*.restrictedrepublic.com/*
+
+# Every Legal Vote (USA)
+*://*.everylegalvote.com/*
