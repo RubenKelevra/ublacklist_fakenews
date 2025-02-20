@@ -690,3 +690,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # News89TV.com (USA)
 *://*.news89tv.com/*
+
+# Good Day Fort Collins (USA)
+*://*.gooddayfortcollins.com/*

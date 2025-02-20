@@ -4828,3 +4828,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Breaking Wide (Unknown)
 *://*.breakingwide.com/*
+
+# Good Day Fort Collins (USA)
+*://*.gooddayfortcollins.com/*
