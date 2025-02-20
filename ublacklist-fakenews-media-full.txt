@@ -4846,3 +4846,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Southwest Allegheny News (USA)
 *://*.swalleghenynews.com/*
+
+# Southwest PA News (USA)
+*://*.swpanews.com/*
