@@ -4858,3 +4858,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Bend Daily News (USA)
 *://*.benddailynews.com/*
+
+# FR24 News (Unknown)
+*://*.fr24news.com/*
