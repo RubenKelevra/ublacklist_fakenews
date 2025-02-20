@@ -4849,3 +4849,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Southwest PA News (USA)
 *://*.swpanews.com/*
+
+# Restricted Republic (USA)
+*://*.restrictedrepublic.com/*

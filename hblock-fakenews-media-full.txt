@@ -4804,3 +4804,6 @@ swalleghenynews.com
 # Southwest PA News (USA)
 swpanews.com
 
+# Restricted Republic (USA)
+restrictedrepublic.com
+
