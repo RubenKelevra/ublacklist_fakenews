@@ -4831,3 +4831,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Fort Collins (USA)
 *://*.gooddayfortcollins.com/*
+
+# South Delco News (USA)
+*://*.southdelconews.com/*
