@@ -4795,3 +4795,6 @@ report24.news
 # Courier Newsroom (USA)
 couriernewsroom.com
 
+# DennisPrager.com (USA)
+dennisprager.com
+
