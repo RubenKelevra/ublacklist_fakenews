@@ -4798,3 +4798,6 @@ couriernewsroom.com
 # DennisPrager.com (USA)
 dennisprager.com
 
+# Southwest Allegheny News (USA)
+swalleghenynews.com
+

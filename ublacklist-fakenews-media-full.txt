@@ -4843,3 +4843,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # DennisPrager.com (USA)
 *://*.dennisprager.com/*
+
+# Southwest Allegheny News (USA)
+*://*.swalleghenynews.com/*
