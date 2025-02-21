@@ -4891,3 +4891,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Cheyenne (USA)
 *://*.gooddaycheyenne.com/*
+
+# Realitatea.net (Romania)
+*://*.realitatea.net/*
