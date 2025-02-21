@@ -4834,3 +4834,6 @@ upperbuckstoday.com
 # Good Day Gillette (USA)
 gooddaygillette.com
 
+# West Central PA News (USA)
+wcpanews.com
+

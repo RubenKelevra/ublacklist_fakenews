@@ -4879,3 +4879,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Gillette (USA)
 *://*.gooddaygillette.com/*
+
+# West Central PA News (USA)
+*://*.wcpanews.com/*
