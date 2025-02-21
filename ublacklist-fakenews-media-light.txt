@@ -705,3 +705,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Charleston Morning News (USA)
 *://*.charlestonmorning.com/*
+
+# Good Day Gillette (USA)
+*://*.gooddaygillette.com/*

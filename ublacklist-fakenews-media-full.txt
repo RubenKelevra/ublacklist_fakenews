@@ -4876,3 +4876,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Upper Bucks Today (USA)
 *://*.upperbuckstoday.com/*
+
+# Good Day Gillette (USA)
+*://*.gooddaygillette.com/*

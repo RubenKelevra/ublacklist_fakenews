@@ -701,3 +701,6 @@ nzreport.com
 # Charleston Morning News (USA)
 charlestonmorning.com
 
+# Good Day Gillette (USA)
+gooddaygillette.com
+
