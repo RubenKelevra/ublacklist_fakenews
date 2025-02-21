@@ -763,7 +763,7 @@ coppercourier.com
 # Cornhusker State News (USA)
 cornhuskerstatenews.com
 
-# Corona Transition (Switzerland)
+# Transition News (Switzerland)
 corona-transition.org
 transition-news.org
 
