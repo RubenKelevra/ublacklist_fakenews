@@ -4864,3 +4864,6 @@ westmorelandreview.com
 # The Florida Standard (USA)
 theflstandard.com
 
+# Good Day Sheridan (USA)
+gooddaysheridan.com
+

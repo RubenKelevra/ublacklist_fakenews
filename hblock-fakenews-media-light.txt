@@ -710,3 +710,6 @@ misionverdad.com
 # Good Day Laramie (USA)
 gooddaylaramie.com
 
+# Good Day Sheridan (USA)
+gooddaysheridan.com
+

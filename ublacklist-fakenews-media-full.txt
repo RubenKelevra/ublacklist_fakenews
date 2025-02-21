@@ -4916,3 +4916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # The Florida Standard (USA)
 *://*.theflstandard.com/*
+
+# Good Day Sheridan (USA)
+*://*.gooddaysheridan.com/*
