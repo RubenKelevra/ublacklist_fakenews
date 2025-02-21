@@ -704,3 +704,6 @@ gooddaycasper.com
 # Good Day Cheyenne (USA)
 gooddaycheyenne.com
 
+# Mision Verdad (Venezuela)
+misionverdad.com
+

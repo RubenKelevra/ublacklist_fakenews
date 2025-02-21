@@ -4898,3 +4898,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # DeadState (USA)
 *://*.facebook.com/deadstate.org*
 *://*.deadstate.org/*
+
+# Mision Verdad (Venezuela)
+*://*.misionverdad.com/*

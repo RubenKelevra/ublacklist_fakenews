@@ -711,3 +711,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Cheyenne (USA)
 *://*.gooddaycheyenne.com/*
+
+# Mision Verdad (Venezuela)
+*://*.misionverdad.com/*
