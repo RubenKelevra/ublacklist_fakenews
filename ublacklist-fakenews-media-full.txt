@@ -4904,3 +4904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Pants on Fire News (USA)
 *://*.pantsonfirenews.com/*
+
+# EurAsia Daily (Russia)
+*://*.eadaily.com/*
