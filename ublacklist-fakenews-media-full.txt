@@ -4910,3 +4910,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Laramie (USA)
 *://*.gooddaylaramie.com/*
+
+# Westmoreland Review (USA)
+*://*.westmorelandreview.com/*

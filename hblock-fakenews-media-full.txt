@@ -4858,3 +4858,6 @@ eadaily.com
 # Good Day Laramie (USA)
 gooddaylaramie.com
 
+# Westmoreland Review (USA)
+westmorelandreview.com
+
