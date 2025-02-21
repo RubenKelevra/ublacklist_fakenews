@@ -4840,3 +4840,6 @@ wcpanews.com
 # Good Day Casper (USA)
 gooddaycasper.com
 
+# West Montgomery Times (USA)
+westmonttimes.com
+
