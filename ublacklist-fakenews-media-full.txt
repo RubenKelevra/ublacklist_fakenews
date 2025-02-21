@@ -752,7 +752,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.discernreport.com/*
 
 # Conservative Politics Today (USA)
-*://*.facebook.com/*
+*://*.facebook.com/conservativepoliticstoday/*
 
 # Conservative Post (USA)
 *://*.conservativepost.com/*

@@ -736,9 +736,6 @@ conservativematrix.com
 conservativeplaylist.com
 discernreport.com
 
-# Conservative Politics Today (USA)
-facebook.com
-
 # Conservative Post (USA)
 conservativepost.com
 
