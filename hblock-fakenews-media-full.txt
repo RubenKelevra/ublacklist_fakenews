@@ -4849,3 +4849,6 @@ deadstate.org
 # Mision Verdad (Venezuela)
 misionverdad.com
 
+# Pants on Fire News (USA)
+pantsonfirenews.com
+

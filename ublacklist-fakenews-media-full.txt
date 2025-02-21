@@ -4901,3 +4901,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Mision Verdad (Venezuela)
 *://*.misionverdad.com/*
+
+# Pants on Fire News (USA)
+*://*.pantsonfirenews.com/*
