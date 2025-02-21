@@ -4888,3 +4888,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # West Montgomery Times (USA)
 *://*.westmonttimes.com/*
+
+# Good Day Cheyenne (USA)
+*://*.gooddaycheyenne.com/*

@@ -704,3 +704,6 @@ gooddaygillette.com
 # Good Day Casper (USA)
 gooddaycasper.com
 
+# Good Day Cheyenne (USA)
+gooddaycheyenne.com
+
