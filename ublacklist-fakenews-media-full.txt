@@ -4882,3 +4882,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # West Central PA News (USA)
 *://*.wcpanews.com/*
+
+# Good Day Casper (USA)
+*://*.gooddaycasper.com/*

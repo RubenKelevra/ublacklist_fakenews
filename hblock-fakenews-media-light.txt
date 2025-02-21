@@ -701,3 +701,6 @@ charlestonmorning.com
 # Good Day Gillette (USA)
 gooddaygillette.com
 
+# Good Day Casper (USA)
+gooddaycasper.com
+

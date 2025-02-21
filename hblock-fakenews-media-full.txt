@@ -4837,3 +4837,6 @@ gooddaygillette.com
 # West Central PA News (USA)
 wcpanews.com
 
+# Good Day Casper (USA)
+gooddaycasper.com
+
