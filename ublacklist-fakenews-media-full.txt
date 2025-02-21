@@ -4907,3 +4907,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # EurAsia Daily (Russia)
 *://*.eadaily.com/*
+
+# Good Day Laramie (USA)
+*://*.gooddaylaramie.com/*

@@ -4855,3 +4855,6 @@ pantsonfirenews.com
 # EurAsia Daily (Russia)
 eadaily.com
 
+# Good Day Laramie (USA)
+gooddaylaramie.com
+

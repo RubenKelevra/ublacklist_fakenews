@@ -714,3 +714,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Mision Verdad (Venezuela)
 *://*.misionverdad.com/*
+
+# Good Day Laramie (USA)
+*://*.gooddaylaramie.com/*

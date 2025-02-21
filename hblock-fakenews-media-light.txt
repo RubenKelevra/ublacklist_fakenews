@@ -707,3 +707,6 @@ gooddaycheyenne.com
 # Mision Verdad (Venezuela)
 misionverdad.com
 
+# Good Day Laramie (USA)
+gooddaylaramie.com
+
