@@ -4545,9 +4545,6 @@ wndnewscenter.org
 # Women are Human (USA)
 womenarehuman.com
 
-# Women’s Rights News (USA)
-facebook.com
-
 # WorldGreyNews.Com (Serbia)
 worldgreynews.com
 

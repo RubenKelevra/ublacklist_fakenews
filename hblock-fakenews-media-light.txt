@@ -641,9 +641,6 @@ wisconsinlaketimes.com
 # Wisevoter (USA)
 wisevoter.com
 
-# Women’s Rights News (USA)
-facebook.com
-
 # WorldGreyNews.Com (Serbia)
 worldgreynews.com
 

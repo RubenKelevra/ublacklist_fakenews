@@ -647,7 +647,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.wisevoter.com/*
 
 # Women’s Rights News (USA)
-*://*.facebook.com/*
+*://*.facebook.com/WOMENSRIGHTSNEWS/*
 
 # WorldGreyNews.Com (Serbia)
 *://*.worldgreynews.com/*
