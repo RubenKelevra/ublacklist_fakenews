@@ -107,9 +107,6 @@ cobbnewsga.com
 # Columbus News (USA)
 colonews.org
 
-# Conservative Revival (USA)
-conservativerevival.com
-
 # Copper Courier (USA)
 coppercourier.com
 

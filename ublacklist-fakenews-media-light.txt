@@ -112,9 +112,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Columbus News (USA)
 *://*.colonews.org/*
 
-# Conservative Revival (USA)
-*://*.conservativerevival.com/*
-
 # Copper Courier (USA)
 *://*.coppercourier.com/*
 
