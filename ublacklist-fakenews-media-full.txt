@@ -1406,7 +1406,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.granitepostnews.com/*
 
 # Granma (Cuba)
-*://*.en.granma.cu/*
+*://*.granma.cu/*
 
 # Great American Daily (USA)
 *://*.greatamericandaily.com/*

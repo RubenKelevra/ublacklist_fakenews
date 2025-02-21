@@ -1388,7 +1388,7 @@ granitegrok.com
 granitepostnews.com
 
 # Granma (Cuba)
-en.granma.cu
+granma.cu
 
 # Great American Daily (USA)
 greatamericandaily.com

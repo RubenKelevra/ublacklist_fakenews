@@ -186,7 +186,7 @@ grandrapidsminews.com
 granitepostnews.com
 
 # Granma (Cuba)
-en.granma.cu
+granma.cu
 
 # Grunge (USA)
 grunge.com

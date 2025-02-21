@@ -191,7 +191,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.granitepostnews.com/*
 
 # Granma (Cuba)
-*://*.en.granma.cu/*
+*://*.granma.cu/*
 
 # Grunge (USA)
 *://*.grunge.com/*
