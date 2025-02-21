@@ -4873,3 +4873,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # The Liberal (Ireland)
 *://*.theliberal.ie/*
+
+# Upper Bucks Today (USA)
+*://*.upperbuckstoday.com/*
