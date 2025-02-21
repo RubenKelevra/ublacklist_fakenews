@@ -4894,3 +4894,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Realitatea.net (Romania)
 *://*.realitatea.net/*
+
+# DeadState (USA)
+*://*.facebook.com/deadstate.org*
+*://*.deadstate.org/*
