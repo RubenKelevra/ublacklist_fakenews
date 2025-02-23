@@ -4919,3 +4919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Sheridan (USA)
 *://*.gooddaysheridan.com/*
+
+# York County News (USA)
+*://*.yorkconews.com/*

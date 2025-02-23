@@ -4867,3 +4867,6 @@ theflstandard.com
 # Good Day Sheridan (USA)
 gooddaysheridan.com
 
+# York County News (USA)
+yorkconews.com
+
