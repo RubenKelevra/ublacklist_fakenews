@@ -4931,3 +4931,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Pittsburgh Review (USA)
 *://*.pittreview.com/*
+
+# Scranton Reporter (USA)
+*://*.scrantonreporter.com/*

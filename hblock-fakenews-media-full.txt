@@ -4879,3 +4879,6 @@ gooddaybillings.com
 # Pittsburgh Review (USA)
 pittreview.com
 
+# Scranton Reporter (USA)
+scrantonreporter.com
+
