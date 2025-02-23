@@ -4876,3 +4876,6 @@ hindstoday.com
 # Good Day Billings (USA)
 gooddaybillings.com
 
+# Pittsburgh Review (USA)
+pittreview.com
+
