@@ -713,3 +713,6 @@ gooddaylaramie.com
 # Good Day Sheridan (USA)
 gooddaysheridan.com
 
+# Good Day Billings (USA)
+gooddaybillings.com
+

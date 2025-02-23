@@ -720,3 +720,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Good Day Sheridan (USA)
 *://*.gooddaysheridan.com/*
+
+# Good Day Billings (USA)
+*://*.gooddaybillings.com/*

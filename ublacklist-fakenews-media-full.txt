@@ -4925,3 +4925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Hinds Today (USA)
 *://*.hindstoday.com/*
+
+# Good Day Billings (USA)
+*://*.gooddaybillings.com/*
