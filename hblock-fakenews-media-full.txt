@@ -4870,3 +4870,6 @@ gooddaysheridan.com
 # York County News (USA)
 yorkconews.com
 
+# Hinds Today (USA)
+hindstoday.com
+

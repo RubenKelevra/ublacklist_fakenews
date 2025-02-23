@@ -4922,3 +4922,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # York County News (USA)
 *://*.yorkconews.com/*
+
+# Hinds Today (USA)
+*://*.hindstoday.com/*
